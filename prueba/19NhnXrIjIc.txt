@@ -1,0 +1,1389 @@
+Buenas tardes a todos.
+Momento, estoy haciendo una cosa, pero
+no
+es como me gustaría.
+Vale, vamos a concentrar con
+concentrite,
+como suelen decir los los
+nazis que llamo yo.
+Uh
+in a way they never had before,
+particularly in the
+Ban portal, [ __ ] eso. Eso de eso de
+Interactive Brokers cada vez lo ponen
+más,
+pero pero que es que no no me deja meter
+operaciones en ese en tal para que tengo
+que entrar en mi porta porque tengo dos
+tengo como dos interactive brokers
+abiertos y
+y
+no me deja. No sé si tuvisteis ese
+problema vosotros.
+Ah.
+Ah.
+Eno por lo puedo asignar.
+hasta los huevos de de
+tener diferentes cuentas y
+y tener que entrar y salir, entrar y
+salir como como un loco, tío.
+todo.
+¿Cómo cómo ha ido el qué os parece el de
+Fed Day? Los que han estado
+los que han estado en el inicio de
+sesión.
+Nada, vamos a ver lo que tenemos hoy por
+por el camino.
+Fidel, a ver si viene y porque él tenía
+algunas cosas pedidas de de por esto que
+estamos en clase, si la gente quiere
+venir y vamos a verlo.
+Ah,
+tenemos la Z. Hay que estar pues ahí
+esperando que dice la Fed. Mujer, pasa
+de mí.
+V. Y me dice que ponga el token. ¿Qué
+token, tío?
+Vosotros nos ha pasado esto de que y veo
+os pido un montón
+de tokens.
+que estoy entrando con la cuenta de mi
+mujer y como que me está diciendo de que
+no me deja operar porque tengo que poner
+otro token de no sé qué, tío.
+Normalmente cada login tiene su su doble
+autenticador con el móvil. Yo
+normalmente deberías tener otro con otro
+móvil o algo así para
+Yo no es que tengo lo único que ah creo
+que lo que pasa
+ah creo que lo que pasa en esta cuenta
+es que el el
+V [ __ ] de rendimiento, tío. Un 6% me
+gana el Nashdack. Qué hijo [ __ ] ¿eh?
+Ah, esto está todas las cuentas. Vale,
+esto me salgo. Entonces, se supone que
+me debería debería debería dejar operar.
+Ahora
+sí. Entonces tendría que ir.
+Es que sabes qué pasa, que estoy en el
+mismo ordenador, ese el mismo IP con dos
+IPs diferentes y yo creo que el tío se
+está dando cuenta de que algo no le
+cuadra, ¿sabes?
+Algo no, algo no le estará cuadrando,
+¿sabes?
+Vale, vamos a vamos a empezar ya porque
+si no
+3 30.
+Ah, vale. Por el Ajá, ya entiendo. Por
+los tiros. Buah. Vale. Ah, voy a
+verificar si me deja meter la operación
+y ya está. No quería meter esta, por
+ejemplo, quiero comprar la 05.
+Orden ejecutada.
+Qué idiota.
+Porque vendido, tío. Qué tonto que eres,
+creo.
+Otra vez hecho lo mismo que
+funciona, [risas]
+pero no hecho, no he hecho lo que tenía
+que hacer, hecho lo contrario, tío,
+porque funciona, dice. Funciona. Sí,
+pero
+he vendido 80, he vendido a cuándo se me
+ha ejecutado esta [ __ ] A ver.
+Bueno, sí.
+Has vendido 85.
+Vale, has vendido 82. Has vendido.
+Entonces, tengo que comprar
+gasto. Vale,
+vale, ya veremos más tarde, pero
+funciona. Okay. Y una cosa hecha, hecho,
+hecho. V. Perdona, señores, que esto no
+doy abasto en todo lo que quiero hacer.
+Vale. Okay. Eh, Fidel está porque Fidel
+tenía la petición de que miremos cosas.
+Si está Fidel ayer, ayer nos quedamos
+con los VIX, si no me equivoco, ¿verdad?
+O no.
+Creo que no.
+tokens. Eh, José Manuel, últimamente eh
+Interactive Brokers te te manda como que
+un un token, un número de tal que te lo
+manda a la cuenta para que tú lo copies
+y lo pongas en la plataforma o cosas de
+esas raras que está haciendo o por lo
+menos me está me está haciendo a mí,
+¿no?
+Pero es son cosas de son cosas de IB,
+¿no?, que suelen decir y son chungas.
+Ah, es es porque para validar y tener
+porque claro, tengo la plataforma mía y
+la de mujer abierta en el mismo IP y
+creo que eso es un un digamos una fuente
+bastante fuerte de de conflicto de
+interés para ellos.
+Fidel quería ah hacer un un sí, creo
+creo que me decía hoy, ¿no?
+Sí. Ah, con el número de de
+em
+ver cómo era esto con
+hacer los intermarketspress y luego Raúl
+me estaba pidiendo que en la en la
+cuenta que tenemos nosotros
+en la cuenta que
+esto
+vale no tengo esto aquí y no lo y ayer
+no lo guardé eh carteles
+Vamos a empezar aquí.
+Raúl me estaba preguntando, empiezo con
+la pregunta más fácil, que cuáles los
+spreads normal, es decir, para una
+cuenta pequeña, ¿cuáles son los spreads
+adecuados para operar?
+Entonces yo te digo una regla de
+una regla de tumba, una regla es que
+mires los precios.
+Es decir, hacer un micro VIX en una
+cuenta pequeña, los el arbitraje de VIX
+lo puedes porque está cerca de cero,
+¿vale? Se mueve entre se mueve entre
+entre menos un tal o 100 pavos arriba,
+100 pavos abajo, 200 y tal. Eso se puede
+hacer. En los press normales también
+puedes mirar, por ejemplo, un feeder
+cattle, ¿vale? Un feeder cattle que
+cotiza 2800, como puede ser este feeder
+cattle de aquí, ¿vale? este eh feeder
+cutter septiembre octubre que porque no
+tenemos nosotros marzo, abril no feeder
+cutter no septiembre, octubre, ¿vale? No
+tengo el link, pero ahora ponemos le
+ponemos aquí el link, ¿vale? un feed
+catter de
+eo
+es el septiembre de octubre
+y vender en la zona en la zona de eh
+2.900
+y 3.200, ¿vale? Entonces tú te coges
+este y feeder cpt octubre 2900 320 esto
+ya se mueve. V ya puedes determinarlo
+como algo que, [ __ ] esto esto se mueve
+más de lo que yo a lo mejor me gustaría
+que que se mueva. Si tú te vas decir
+este mismo federater cuando entras aquí
+o perdón este este mismo feeder cattle
+de septiembre octubre cuando entras aquí
+dices, "¿Cuánto cotiza?" [ __ ] cotiza
+tres. Es caro, ¿vale? Si entras aquí y
+dices, "¿Y el feedercat de marzo mayo a
+cuánto cotiza?" Pues te vienes aquí y
+dices, "Coño, cotiza entre 1,5 a 0,5."
+Vale, decir, la misma cotización de la
+spread puede determinar si ah
+si es más volátil o menos volátil. Luego
+te puedes encontrar que una spread
+pequeña se te vuelva muy volátil, pero
+normalmente eso te puede ayudar. Y ten
+en cuenta una cuenta pequeña, pues
+intenta tener estos prech pequeños. Ah,
+es una putada porque claro, en una
+cuenta de 5,000 pavos o de 10,000 pavos,
+tener unas spread que se te un punto y
+ganar 500 pavos al día sería la [ __ ]
+pero también eso quiere decir que
+también puedes puede ser que se te va a
+negativo y entonces tienes que tenerlo
+en cuenta y
+barajar la posibilidad de depende de la
+velocidad que quieres en una cuenta
+pequeña. ¿Vale?
+Yo en principio lo que veo es esto de
+que lo que te puede marcar es tú te
+vienes aquí y dices,
+"No, ¿dónde está
+carteras?" Esta que no encontrado. Tú
+tienes aquí y dices,
+"Pues quiero ver el soy 1000, julio,
+agosto, septiembre." Ya te digo que es
+pequeño, ¿vale? ¿Por qué? Porque en
+cuánto, en qué rango se mueve. Pues tío,
+se te mueve en un rango de menos
+13 - 15. Esto se ha movido tanto. A ver.
+Sí, mira, está en -1,5.
+Vale,
+pues es que yo he vendido a seis, tal,
+1,5. Además, este gráfico está mal,
+¿vale? Porque pero ese es julio, ¿vale?
+Julio, agosto, septiembre. Estrecho.
+¿Por qué? porque se te mueve muy poco.
+Son 50 pavos. ¿Ves que se te ha movido
+desde 10 hasta 5 250 pavos? Lo puedes
+enseguida dependiendo del precio de la
+dependiendo del precio del producto,
+enseguida te puedes dar cuenta si es
+grande o si es pequeño.
+Mira, mirad lo que he hecho hoy otra
+vez. Me hace lo mismo. Entrada salido.
+¿Me crees que es una [ __ ] Sí, pero me
+da igual.
+Me da igual. Me refiero a que vale, he
+ganado, has ganado 100 pavos o 150
+pavos, ¿eh? Sí. Y
+entrado, he salido,
+¿sabes? entra y he salido.
+Y ahora mi faena, no ahora porque la
+semana que viene no estoy. No tenemos ni
+martes ni miércoles clase. Intentaremos
+ver si podemos meter una jueves, pero
+estaremos en contacto por teléfono, por
+teléfono, por WhatsApp, por todo, porque
+esto es importante que tengamos el
+seguimiento, ¿vale? Pero la idea, ¿cuál
+es?
+Montar tiquitacas de estos. Esto es un
+buen tikiitaca.
+¿Por qué? Porque veis que tic tac tic
+tac tic tac nos está dando.
+Entonces, Raúl, es así como puedes ver
+los prest. Mira el tamaño.
+Podría podría darte la definición más
+exacta, es decir, sácate el ATR de la
+spread y enseguida mándalo, dolarízalo y
+y verás. Pero no, pues busca busca el
+una cosa más fácil. Mírate el tamaño de
+la spread.
+Más o menos ahí te darás cuenta
+enseguida lo que se puede hacer. Vale.
+Okay.
+Fidel nos dijo
+que a él le gustaría hacer
+operar el TTF.
+intentar operar el calendar spread del
+dich ttdf, ¿vale?
+que es que no tiene volumen el TTF
+el que podríamos operar.
+Vale, no nos deja no nos deja tenerlo,
+¿vale? el TTF, pero yo ya te digo que si
+tú te vienes aquí
+para determinar si estás Fred,
+yo lo tengo montado porque empezado he
+empezado a he empezado a a a he empezado
+a pensar en ello, ¿no? Pues mira, vamos
+a hacer esto. Nos venimos aquí. Tú
+dices, ¿cómo era esto, tío?
+Hacemos uno de estos, ¿vale? Y aquí le
+ttf
+ng
+las.
+Hola, Greg.
+Hola.
+Es que está buscando en Strat y me
+aparecen eh tres TTFs. Uno que cotiza en
+el ICE
+y dos que cotizan en el Nimex. Mm.
+Entonces,
+el
+primer problema que tienes, ¿vale?
+Problema que tienes es que no ves es
+megw hora,
+lo cotiza ya en megabw, ¿vale? Entonces
+yo no estoy seguro de que se pueda hacer
+un un
+NA gas
+ah US TTF spread a
+trail
+este chico es el que seguimos nosotros.
+Bueno,
+sí, chicos, yo yo lo sigo este a este a
+este tío
+problema que tengo
+que tienes aquí es uno. No, ahora no sé
+si tenemos acceso al TTF, ¿vale? Dos, lo
+que tenéis que saber
+que
+estoy negociando que nos mantengan las
+mismas concciones y pasarnos a un tío
+que se llama Advantage Futures, ¿vale?
+En vez de straight tener Advantage
+Futures, tendremos la plataforma CTS,
+tendremos todo igual. Lo único que no
+será Straight, será Advantage Futures.
+Ellos sí que tienen acceso a estos
+mercados, ¿vale?
+Los streo que tenga acceso. Problema que
+tienes es que
+CF
+orden ejecutada.
+Bueno, por lo menos he ganado ganado las
+comisiones las he pagado. Vale, el
+problema que el problema del del TTF,
+¿vale?
+Es que tienes que mirar el
+productification, ¿ves?
+Y entonces aquí el problema que tienes
+es que 1 MW per day in contract period.
+Okay. Entonces tenemos un problema. El
+problema Houston es esto es un deber.
+Eh, ayer ayer a Santi le puse deberes,
+¿no? No sé si los ha dicho Santi.
+Recurro que te dije, ¿sabes? Mira, un
+contrato de NG es igual a
+eh 10.000
+Ah, BTBUS.
+Okay. BTBUS se llama British Thermal
+Units. Okay.
+Un contrato de TTF
+es igual a 1 MW.
+Entonces, primero que tienes que buscar
+es
+cómo equilibras estos dos.
+Fíjate,
+porque
+claro,
+porque claro,
+British Thermal Unit, ¿cuánta energía
+necesitas para calentar? y no recuerdo
+el el x cantidad de agua hasta hasta
+boiling, hasta hasta que empieza a
+a
+Sí, sí, a hervir,
+a a hervir.
+Entonces, claro, yo cre el megwatio, no
+sé, pero claro, seguro que hay algún
+paper, seguro que seguro que hay algún
+paper que te ayude a a cambiar esto
+antes de antes ni siquiera, ¿vale? Antes
+ni siquiera de pensar en cómo los
+movemos.
+Porque tenemos que equilibrarlos. Es
+decir,
+vamos a preguntarle al al a nuestro
+nuestro amigo idiot GPT,
+al chat GPT. Este te dirá, yo el otro
+día le dice que me haga un no sé qué y
+me ha hecho una paja mental que he
+dicho, "Estás equivocado. Eh, me
+gustaría hacer una spread entre el TTF
+de Holanda
+contra el el
+futuro del Nat. gas de u
+los dos cotizan
+cotizan
+en términos
+diferentes
+diferentes. Uno está en betus
+y el otro está en Dios. No, no
+me va a Dios.
+Eh, me va a Dios.
+El TTF cotiza también en dólares o en
+euros.
+Eso es el otro, creo que en euros.
+Entonces hay que añadirlo también.
+A ver si lo encuentra él.
+Y en dólares también cotizan en Nimex.
+Creck.
+En pu, pero hay menos hay menos volumen
+ahí. No hay nadie.
+Igual
+va a pensar porque le he dicho que me
+busque páginas también, no solo que me
+haga bajas mentales, pero M.
+Con el gas de de Inglaterra. Ese sí le
+tiene volumen.
+Traveling.
+Puede ser este artículo puede ser
+interesante. Esto por
+en el chat lo que me ha dicho a mí la
+ella.
+Vale.
+81. No lo puedo poner en pantalla porque
+como está en comentarios lo podéis ver.
+El precio lo estal
+ahora es 3,4
+BTUs.
+Entonces,
+entonces
+el precio,
+convertir el precio de dólares en euros,
+esto lo entendemos,
+eh, Henry Hub es 3, no
+estos tres de necesidad tres de tres de
+Henry Hub contra
+un
+contra un TTF, ¿no?
+Si me si 11 si el
+tres o cuatro.
+Ah, hombre, pone pone que el gen es 381
+MBTUs, que son 11,5 15 MW h
+de 11 de, o sea, de 11 a 31 más o menos,
+casi tres.
+Hm.
+Espera que os pongo aquí y así lo veis.
+Si lo vemos todos, ¿vale? Eso es lo que
+mandó Alejandro. Entonces, aquí lo que
+tenemos es, ¿veis? Esto es esto es 11
+tres más o menos te daría.
+Entonces, el gráfico sería
+este sería
+no puede ser.
+No, mira, no, mira, mira, no lo tenemos
+que hacer. A ver, tenemos que ponerlo
+bien. Ttf.
+Ah, vale.
+Vale, el ratio de conversión es 3 y
+además lo tengo que 3* 3,13, ¿no? 3,4
+es 3 * 3,4
+es 3 * 3,4 - 10,2, ¿vale? Porque 3 es el
+número de contratos que tengo que llevar
+y el 3,4 es el ratio de conversión,
+si no me equivoco. Pero claro, vale, sí.
+No es 10,02 para multiplicar por
+y esto es por esto. Este es un gráfico.
+Ahora lo que tienes en en
+esto lo tienes en en ¿cómo se llamarían
+estos? Estos se llamarían euros, ¿no?
+Esto se Vale, ahora tenemos que
+convertirlo, convertirlo a euros. Y para
+convertir al euros, eh, lo tengo que
+multiplicar esto. Ah, no, esto, mira,
+esto
+lo que es en euros o en dólares,
+señores.
+Vale, entonces y esto entonces
+paréntesis
+paréntesis y esto lo tengo que dividir o
+multiplicar por
+eso está en dólares.
+El otro es euros. Esto lo tengo que
+multiplicar por 0 pun, no lo tengo que
+multiplicar por
+eh por el errur barra UFD. Y ahora es
+cuando me dice ahora cuando me dice el
+este que petará ver esto.
+A ver si estoy esto no no me he
+equivocado en algo.
+Pero me has copiado. ¿Por qué me has
+copiado esto, tío?
+Vale, eso está bien.
+Eso está en dólares. Y para tenerlo en
+euro, esto lo tendría que
+esto tendría que dividirlo
+en vamos a poner el ráfio de conversión
+para no poner 85. Luego luego se puede
+ajustar la fórmula.
+Mira, esto esto podría ser algo útil.
+Eso es comutativo. Tú primero me tienes
+que dividir esto
+y luego restar.
+Vale, pero me da igual porque me da
+igual porque lo harás más o menos bien.
+Vamos a verificar si está esto bien.
+¿Has entendido, Fidel, lo que hemos
+hecho más o menos?
+Sí, sí.
+No, tú dices, ¿cómo cómo es esta spread
+normal? ¿Lo ves? -23.
+Pero ahora yo te ahora yo entiendo lo
+que tú dices, ¿vale?
+Pero te voy a dar una explicación.
+Solo el 20% del gas americano lo podemos
+exportar. Entonces, los factores que
+afectan al gas americano son un pelín
+diferentes los a los factores que
+afectan al gas europeo.
+En base a este en base a ese criterio,
+ah, hacer este spread no tiene mucho
+sentido, ¿vale? ¿Por qué? ¿Por qué?
+Porque el gas natural americano
+no se puede poner. Entonces, tú para
+hacer bienest Fred, hacer bien Stars
+Fred, este chico en su página, el chico
+este, el
+Ah, ¿cómo es? Tienes que hacer tienes
+que hacer un
+tienes que añadirle free. Vale, esto se
+hace. Ah.
+¿Cómo se llama este tío?
+Blue Gold Fredder.
+igual no lo tienen abierto.
+Esto tenía este tenía ah
+tenía unos gráficos, ¿vale? En el que en
+el que definía muy bien
+el tema de
+de
+ah de cómo se hace ese crackfred. Es es
+porque tú tienes que ponerle el precio
+del gas natural en Estados Unidos,
+¿vale?
+Ser el NG
+más le tienes que poner el NG más le
+tienes que poner el freight
+más la liquificación.
+El freight es el transporte más la
+liquificación,
+¿vale? Y eso tienes que compararlo con
+Europa
+y más el más el eurodólar.
+Pues yo ahora actualmente te digo que
+creo que esta spread no es para
+nosotros.
+Además en la crisis en la crisis en la
+gran crisis financiera, en la gran
+crisis de Rusia a uno de los más grandes
+fondos porque todo esto, es decir, todo
+esto lo puedes cubrir y realmente era
+positivo. Es decir, [ __ ] gas natural de
+Estados Unidos y llevarlo él lo hacía
+contra Tokio, ¿vale? contra contra
+Japón, porque además es un trade real,
+es decir, es es algo es algo normal que
+hace la gente y entonces el movimiento
+era que, okay, que él tenía beneficios,
+pero no podía soportar más el movimiento
+del precio y además no tenía la
+posibilidad de llevar todo el gas porque
+tiene un trade más grande. Vale, eh,
+explico, me explico. Él tenía, yo que
+sé, 100,000 contratos, ¿vale? 100000
+contratos de gas natural, futuros de gas
+natural comprados con el freight, con
+todo, no sé, todo cubierto y con entrega
+en Tokio. Normalmente el mercado, este
+spread cuando está desviado vuelve a la
+normalidad para que no haya no exista
+arbitraje, porque si no realmente
+podrías [ __ ] el gas natural y llevarlo
+y tal. El problema, ¿cuál fue? El
+problema que su posición era tan grande
+y el mercado se fue tan en su contra de
+que el chico perdía millones
+cuando matemáticamente tenía que ganar,
+pero le decía al broker, "Pero no puedes
+llevar todo este gas de Estados Unidos a
+Tokio porque físicamente es imposible."
+Y tuvieron que creo que tuvieron que
+cerrar el fondo o tuvieron que rescatar
+el fondo
+porque el trader era bueno, pero el
+mercado te dice otra cosa. Así son los
+mercados.
+Yo te diría que esto para hacer bien
+este para hacer bien este spread le
+tenemos que dedicar bastante más tiempo
+de lo que de lo que creo que debemos. Y
+dos, no sé si es el no sé si es un trade
+que podría funcionar. Vamos a ver qué
+dice nuestro amigo.
+Mi idea creo que es simplemente lo que
+te explicaba en el en el correo
+de que veo que cuando abres a las 1 de
+la mañana siempre fluctúa uno arriba y
+otro abajo para hacer un tikiitaca por
+la mañana simplement
+Mm.
+Vale. Y básicamente lo tendrías que
+hacer con elquificado, ¿lo ves?
+Aquí hablos,
+los precios de Asia, del proceso de LNG
+y y el TTF,
+pero no tampoco entra creo que en
+detalle del arbitraje.
+Claro, esto es Sí. lo que tú dices de
+intentar
+estudios académicos sobre integración de
+HS TTC hacia hacia
+ver para ello,
+para ello lo primero
+Ya sabemos el múltiplo. Entonces ahora
+tendríamos que mirar si lo que tú dices,
+¿vale? Si lo que tú dices, a ver si
+vale lo ponemos en un gráfico de
+que sé de 5 minutos de de 5 minutos.
+Tú dices aquí de ver por la mañana.
+¿Cuándo arranca los dos? El de
+siempre que arranca el el a las 9 de la
+mañana cuando arranca el gas alemán y el
+y el inglés
+es que yo no sé por qué, pero siempre
+están invertidos en relación con el con
+el Estados Unidos
+porque el Estados Unidos el precio de
+settement lo tienes por la noche,
+entonces él se mueve y los europeos
+abren por la mañana. Entonces, como
+tienes tú en tu pantalla, a lo mejor el
+diferenciar porcentual que tú ves es
+porque uno ha cerrado a las 10 de la
+noche, otro ha cerrado a las 5 de la
+tarde o a las 4 de la tarde y cuando
+abre el mercado está totalmente
+diferente. Entonces, lo que tienes que
+hacerte son esos gráficos. Además, veo
+que hay saltos diarios, significa que
+uno está cerrado mientras el otro está
+abierto.
+No, perdona, este es este será un salto
+mensual.
+Esto para hacerlo bien ahora debería
+escoger
+y nos poner TTC
+TTF, por ejemplo, Z
+eh
+Z25.
+Así no le gusta. Así no le gustará
+porque querrá que pongamos
+2025.
+Por la mañana.
+por aquí.
+Ahora sería [ __ ] los patrones que
+tiene, ¿me entiendes?
+¿Veis que ya es diferente el gráfico?
+No sé. Ah, mira, ya ves el ya ves un
+poquito el el cómo se hace, ¿vale?
+Entonces, ahora es empezar a toquetear,
+empezar a jugar y empezar a ver. y ver
+qué tiene y cómo lo tiene.
+Claro, molaría tener una base de datos,
+ponerla base de datos y decirle que lo
+haga. Esto un día, un día llegaremos,
+creo, un día llegaremos creo que a esto,
+pero es es bastante más complejo,
+pero por lo menos intenta utilizar los
+mismos, es decir, el mismo valor
+numérico en los dos.
+Por ejemplo,
+falta,
+vamos,
+desde el punto de vista hacerlo en
+straight al final, claro, el el TTF
+cotiza 30 y tantos, que son los 10,2 que
+tú dices de diferencia con relación al
+al americano y el inglés cotiza 80 y
+tanta a 80 y tantos dólares.
+Sí, pero nos da exactamente igual.
+para hacer una pequeña prueba. Si
+tuviéramos acceso al futuro tampoco
+nos haría falta nada. Pero aquí la
+explicación está aquí que tú tienes son
+diferentes unidades de medición,
+entonces tienes que calcular uno a otro.
+Aquí tengo debería hacer de media 3 28
+4,36 3,94 tienes que hacer cuatro de gas
+natural contra un TTF más o menos.
+Sí, pues, pero tienes que hacerlo. Si no
+es juegas a unos números aleatorios que
+se mueven unos respectos a otros.
+V para el tiempo que vamos a a estar con
+la
+porque mi intención tampoco es estar ahí
+más de 5 minutos, por decirlo algo, ¿no?
+Vale, pues lo puedes hacer, lo puedes
+intentar,
+pero creo que no está creo que el TTF no
+está disponible.
+No, no, si es que encima eh no está
+disponible y aparte
+no porque ellos no tienen tienen como un
+convenio especial que algunos productos
+de de de Inglaterra de Inglaterra de ICE
+lo tiene pero no tiene todos los
+productos.
+Tiene una cosa muy muy Es decir, si lo
+haces a muy cortos plazos puede ser
+interesante y puede ser una cosa muy muy
+entendible del tikiitaca, ¿me entiendes?
+Eh,
+pruébalo
+en corto plazo.
+Hm. poco tiempo, me refiero creer, ya
+digo 5 minutos, 10, por decirlo algo, y
+diario des punto de vista me meto hoy,
+paso mañana no me meto cuando pero no
+dejar la posición abierta, vamos,
+claro, no no la puedes dejar abierta
+porque son dos mercados totalmente
+totalmente diferentes.
+Totalmente diferentes.
+Vale, míralo. Voy voy a preguntar o
+vamos a preguntar si está disponible el
+TTF, pero creo que no está disponible el
+TTF, pero se puede mirar y se puede ver
+en Trading View y se puede se puede más
+o menos tener una idea por dónde van los
+tiros y ya está. Por ejemplo, en lo que
+es en State también está el TTF que
+cotiza en el Nimex, que es el Deutf
+Natural Gas Caliendarm. Y eso sí que
+parece trar.
+Sí, pero claro, no es lo mismo porque
+tiene tiene algo de volumen, pero no es
+volumen, pero
+no no no es no es el volumen que tú
+quieres.
+Por ejemplo, si nos
+si nos si nos habilitaran el el GWM, que
+es el de el de Inglaterra,
+ese ya tiene volumen
+y está en el de Europa. Lo que pasa,
+claro, tendremos que pagar los datos.
+Ese
+sí que está
+no me dejó operarlo.
+te está.
+Ah, vale, esto vale, pero vamos a
+dejarlo. Es decir, yo no ahora no puedo
+porque como no podemos operarlo, no le
+no lo puedo dedicar tiempo y además
+hasta que no tenemos no tenemos el
+acceso al mercado, eh, voy a preguntar
+sobre el acceso al mercado y te digo
+algo, ¿vale?
+Pero es real que deberías hacer si
+quieres realmente hacer algo, es el de
+Inglaterra contra TTC. Ese sí que tiene
+sentido. El Inglaterra contra TTF sí que
+tiene sentido. ¿Por qué? Porque tú
+cuando mandas los barcos hacia el puerto
+es decirles que se vaya un poquito más
+por un lado o se va más por el otro, sí
+que los puedes hacer. Y eso sí que ese
+sí que podría llegar a ser una spred
+interesante
+que como les veo que que siempre cotizan
+en la misma dirección
+porque pocas veces me he fijado en el
+precio y pocas veces les he visto tirar
+uno en contra del otro.
+Hombre, a ti te interesa que siempre se
+mueven en la misma dirección
+porque tu beneficio está en cuando no lo
+hacen
+aprovecharlo.
+Yo estaba buscando el beneficio en en el
+sentido contrario con relación al de
+Estados Unidos. Vamos.
+Sí, pero te digo ahí el problema que
+tienes es que no es
+no es nada
+es como cerdos contra las notas de 10
+años.
+Sí, sí, eso está claro.
+Y entonces ahí se pierde la esencia del
+spread. Se pierde
+porque son números aleatorios que pueden
+estar correlacionados o
+descorrelacionados. Entonces, lo que
+realmente necesitas algo que tiene
+sentido. Entonces, ahí puedes estar más
+porque nuestro trading se basa en la
+relación existente entre los productos y
+en esa relación y en esa relación
+existente entre los productos tú lo que
+puedes hacer es buscar la cointegración
+y eso es el sprad trading.
+En este caso lo que estoy buscando es la
+una descorrelación
+que se repite muchísimas veces. Sí,
+pero
+sí, pero tú ganas dinero con la con la
+llamada cointegración, ¿vale? Cuando se
+descorrelaciona y el producto vuelve a
+su normalidad, ¿vale? Entonces es la
+cointegración solo pasa en productos que
+están que están eh que están e
+correlacionados.
+Correlacionados.
+Si no están correlacionados se desvía.
+Posiblemente puede volver o se queda
+desviado y se sigue desviando y se sigue
+desviando y se sigue desviando.
+Entonces, como no hay relación entre
+ellos, sí. A ver, puede haber una
+ineficiencia en el mercado por la mañana
+cuando Inglaterra es mucho más mucho más
+fuerte. Sí, pero de dónde no pero claro,
+si la temperatura en Inglaterra sube y
+en Estados Unidos baja
+los modelos, porque hay un montón de
+modelos que van por la mañana, ya te
+puede ya te puede descuartizar ese
+míralo, míralo y y más adelante me puedo
+juntar más en mirarlo, pero ahora no
+porque no. Uno, creo que son los pres.
+Dos, creo que no son los pre
+correlacionados. tres, no tengo tanto
+tiempo y me gustaría, por ejemplo, al
+VIX le veo mucho más sentido operarlo
+que que ese spread, porque yo busco
+totalmente
+lo con es decir el de corto plazo, sí,
+pero también busco busco el el de poder
+tener una operación en dejarla que el
+tiempo haga que el tiempo haga su
+efecto.
+Hm. Vale,
+vamos a ver qué qué nos quedaban de
+ayer. Nos quedaba mirar un poquito las
+las
+vacas. Ya lo hemos visto. Creo que
+estaban subiendo. Cerdo suben hoy.
+Itingoir sube gaz l vaca. vaca su un
+287, lo que os he dicho, ¿no? Es decir,
+ahora se han pasado de frenada y ahora
+ya están subiendo. La gran pregunta es,
+¿tardará mucho en volver al máximo? No
+sé, ya veremos lo que dice Trump, ¿vale?
+No sé cuándo es la reunión, cuándo es la
+reunión de de Trump con
+con esto con
+con el otro con homólogo
+e con el homólogo chino, pero veremos la
+reunión de la Fed y luego veremos lo que
+hace lo que hará Trump, ¿no? Ah,
+sí. Volviendo al VIX,
+lo que ayer nos quedamos a medias o no
+no acabamos de de de verlo.
+¿Por qué no me aparece a mí la tabla?
+¿Veis?
+Aquí tenemos ya los precios.
+5
+13 26 29 57 13 Okay, lo que hemos
+hablado ahora. Hoy a lo mejor no, pero
+dentro de poco, en estos de abril, mayo,
+en mayo, junio, por ejemplo, aquí
+eh
+vemos que aquí en cinco hay bastante
+gente comprando, pues podemos poner
+órdenes aquí, por ejemplo, en medio.
+Lo que sí que tenemos que tener en
+cuenta aquí que no hay prisa para meter
+la orden. Entonces, la idea básica de la
+de la estrategia es pues
+empezar y y crear la crear una cartera
+que siempre se va a acercar hasta estos
+esos dos tr meses y tal. empezar. Vamos
+a operar esta parte de la curva, ¿no? El
+desde marzo, marzo, abril, abril, mayo,
+mayo, junio. Poquito jugaremos,
+jugaremos con estas tres. Dejaré órdenes
+puestas a ver qué pasa, si se hacen y
+realmente lo que buscamos aquí, lo que
+buscamos aquí es un movimiento del
+tiempo más que de la volatilidad y en
+ese movimiento del tiempo aprovechar
+para e para realmente ganar lo que es el
+contango de la curva. Entonces, la idea,
+¿cuál es? Pues preguntas, por ejemplo,
+mayos estos
+y también he pensado en estos create
+contract, ¿vale? Est a 14,
+pues aquí
+pocos, eh, es decir, en 10 dejas la
+orden y a ver quién se te hace.
+10 es un poquito mucho, por 10, 12, 7,
+así. Entonces ahí podemos aprovechar y
+dejar las órdenes y y esperar que el VIX
+haga su trabajo.
+¿Por qué? Porque hay tiempo. Entonces,
+cada vez que se nos acerca a este
+vencimiento de, por ejemplo, a
+noviembre, a dos, tres meses vistas,
+pues nos vamos siempre a los lejanos.
+Pillamos lejanos, nos esperamos dos dos
+tr meses porque aquí, claro, aquí
+hablamos de noviembre.
+Okay. Y aquí hablamos de mayo,
+es noviembre,
+noviembre, diciembre,
+enero,
+febrero,
+marzo, abril y mayo. ¿Vale? X. Entonces,
+aquí tenemos
+prontes 1 2 3 4 5 6. Vale, entonces
+jugar estos tres, que pase el tiempo,
+jugar en estos tres meses, ¿vale? Que es
+febrero, enero, febrero, marzo, de
+febrero para adelante. Y cuando ah
+ah cuando pasa el tiempo, todos estos
+todo esto lo pasamos aquí y siempre
+estamos lejos en la curva. Podemos
+aprovechar ese pequeño contango que
+tiene la curva.
+Esa es la idea.
+Yo creo que es esa la idea
+y todos todos los días revisar revisar
+el libro de las órdenes y poner y quitar
+y poner y quitar y poner y quitar.
+Inclusive lo que os puedo decir que
+las órdenes las pondría con un autooco
+de, por ejemplo,
+aquí es muy importante que 237 4000
+700 pavos. Ah, vale, porque va por dos
+lotes, 2000 y pico pavos de stop. Está
+bien. Si esto se invierte ahí, ya
+estamos jodidos. Y en objetivo yo iría a
+estos. Si este cortiza a 26, 13 son 10
+en un mes y estos estos siete 7 10 más o
+menos tal. Pues este lejano puede tener
+un 10, un 12
+así,
+¿vale? Y este como aquí 23 30. Ya
+veremos cómo acaba este. 14
+a 26 también. También puedes también
+puedo ir con 10 12
+y ya está.
+¿Entendéis un poquito el sentido de la
+estrategia?
+¿Por qué se hace?
+No
+queréis que lo revisemos en 5 minutos.
+¿Cómo lo colocas aloco?
+Pinchando este botón.
+Sí,
+que tienes o autooco. Le pongos el
+autoco 12 de limit y stop loss. Bien,
+bien lejano.
+Bien. ¿Y cómo coloca la orden?
+Ah, de la misma forma.
+O si quisieras comprarlo. Pones en el
+lado de la compra.
+Ah, igual está. Ahí está. Era eso.
+Gracias.
+No nos pasemos porque yo hoy no quiero
+poner más órdenes porque porque puede
+haber hoy volatilidad. Entonces, nos
+fijaremos en los precios, cómo
+evolucionan los precios y luego también
+dale dale dale, ¿cómo se llama? dale
+participación porque esto se te puede
+mover
+10, 15 pipos también. Es decir, si no le
+metas 10 porque se lía algo en el
+mercado, pues puedes llegar a tener
+algún problema.
+No, no, no está clarísimo.
+Vale, yo creo que en esta parte de la
+curva tener cuatro y y nivel para meter
+cuatro o cinco más, pues es la es la tal
+y luego vemos que pasa. Pasa medio mes,
+pues metemos otros, pero pasa medio mes
+más, siguiente mes que se abre, metemos
+otro y metemos otro y así nos hacemos un
+poquito la cartera,
+¿vale?
+la idea
+y y el
+y el y el arbitraje europeo.
+El arbitraje europeo esperamos que pase
+hoy la Fed está en -0,10.
+Está aquí en - 0,10.
+No tengo ninguno. Ahora estoy esperando
+que pase la noticia de hoy y cuando pase
+la noticia empezamos a meterle.
+Ya está.
+Dependiendo de cómo se va a ir para
+arriba o para abajo, ¿no?
+Sí.
+Está, no tiene nada que ver. Este no es
+como el como el otro que busca una
+curva. Este, busca,
+no este jugamos jugamos en la
+diferencia.
+Vale.
+Bien.
+A ver, la estrategia aquí es la
+siguiente, como hemos hablado ayer.
+¿Veis? Ah.
+Ah.
+Veis que esta parte de la curva es
+plana,
+inclusive si
+buscamos,
+¿vale?
+Esto es el 17 de octubre. 16 de octubre.
+para esto.
+Mira, si os he puesto aquí,
+esto es un poquito la zona pasada cuando
+hubo tensión, ¿vale?
+pasada cuando hubo tensión. Veis que
+esta parte de la curva está
+se tensionó,
+pero se tensionó
+bastante igualada, ¿vale?
+Entonces luego se venó abajo de forma
+igual
+y luego coge el contango. Entonces,
+claro, ¿por qué no operamos esta parte
+de la curva?
+Se podría, pero aquí esta parte de la
+curva lo operaremos cuando hay hay
+descición, cuando hay riesgo. ¿Por qué?
+Porque aquí aquí se puede aprovechar
+mejor, ¿no? A 90 o 120 días, pues meter
+esta spread que se fue a cero, ¿vale?
+Esta spread que se fue a cero hoy cotiza
+-30
+y 1, ¿vale? Entonces, aquí para
+entendernos, aquí haremos estrategias de
+value investing,
+¿vale? De
+siempre estamos en el mercado porque
+buscamos el paso del tiempo y aquí
+buscaremos oportunidad.
+¿Por qué? Porque esta parte de la curva
+es más estable y podemos estar, digamos,
+casi siempre en la curva y esta parte de
+la curva es esperando esperando el boom.
+Posiblemente te puedes encontrar que
+muchísimos meses no tendrás ningún boom,
+pero en esos muchísimos meses que no
+tienes ningún boom, tu estrategia
+de perd dividendos,
+¿vale? Tu estrategia de dividendos te
+irá dando un poquito de dividendo.
+¿Me entendéis o no?
+Claramente
+ya está.
+Y y al estar alejado siempre el riesgo
+es menor, ¿no?
+Sí. Pues mírate todos los gráficos.
+Decir, ¿cómo puedes ver el riesgo? ¿Cómo
+puedes ver el riesgo? Pues puedes ir así
+son algo, pero si quieres simplificarlo,
+te coges un [ __ ] te coges el [ __ ]
+este, ¿vale? el contrato y no, esto no
+lo coges, te coges el gráfico.
+Esto tampoco te lo coges. Soy un poquito
+disléxico.
+Te coges esto y
+tío dar por culo. Tú algo se me ha
+colgado
+le colg
+algo algo se lo colgué.
+Algo me hecho. Colguete.
+Me suele suceder también.
+¿Cómo
+me suele suceder con el Más cuando se me
+suspende el ordenador,
+cuando vuelvo
+lo tengo que recargar?
+No me pasa con Interactive, por lo
+menos.
+Sí, pero esto me pasa porque Interactive
+Rockers me está chupando la sangre
+con el gas te referís
+el gas es es eh en cada familia hay un
+niño tonto
+en cada cartera hay algo malo pues gas
+el niño tonto pues todos tenemos la
+expectativa de que algún día ese niño
+tonto volverá a
+a encontrar el nor el el sentido de la
+vida. Pues si hoy está en 230, no quiero
+hablar de él porque estoy hasta los
+huevos. Vale, mira, tú te coges un gas,
+un gas de un te coges, por ejemplo, el
+noviembre, diciembre, ¿no? El el que más
+el que más se ha movido, ¿vale? El
+noviembre, diciembre no mola porque
+vale, pues el noviembre, diciembre, el
+front, ¿vale? noviembre, diciembre, no
+mola por el precio. Ves que este estaba
+en cero, se te fue a menos 750.
+Esto te abro en abril del año pasado.
+Sí.
+Okay. Y ves que en todo este periodo de
+tiempo, podemos decir de abril a julio,
+que son 3 meses, tres o cu meses, ves
+que el rango del precio es, por ejemplo,
+de 50.
+También ten en cuenta que aquí tuvimos
+el crash, ¿vale?
+Eso también lo tienes que contar, pero
+normalmente
+eso fue los aranceles, ¿no?
+Sí, eso fueron los arranceles. Entonces,
+normalmente este [ __ ] aquí ves que se
+ha movido mucho, pero normalmente esos
+son 300 pavos,
+200, ¿vale? De volatilidad. Pero si tú
+te coges, por ejemplo, uno que entonces
+no existía, por eso es este contrato,
+ves que él no aquí no se mueve.
+y empieza a [ __ ] su forma.
+Pom, no se mueve.
+Aquí, aquí ya estamos cerca. Y luego
+aquí se mueve. Aquí aquí que lo aquí lo
+opera el que tiene huevos.
+Nosotros vamos a operar aquí.
+Y así te puedes mirar un poquito, un
+poquito todos o intentar mirar casi
+todos. Eh, lo es que todos todos los que
+están muy lejos tienen un movimiento
+parado.
+Ten en cuenta que aquí tú no tienes los
+los que no se te ejecutan en el que yo
+he puesto órdenes hoy.
+Vale, este se ha hecho cero órdenes.
+Aquí no hay nadie,
+¿me entiendes?
+Aquí el market maker eres tú
+y esos tíos que están ahí.
+Es otro tipo de es otro tipo de de de
+acercamiento al mercado. Ya sé que no es
+tan agresivo y no da tanto tanta
+adrenalina, pero para eso tienes el SP.
+Vale.
+Ah, os tengo que dejar.
+No sé si queríamos ver esto. Yo de
+cualquier forma voy a estar más o menos
+trabajando.
+Eh,
+¿puedes ver
+rapidito
+este spread de soja?
+Dime, ¿cuál
+es? El soja
+es
+HK 27.
+Es marzo, abril, ¿no?
+Y después el otro era enero, febrero 27.
+27.
+Sí.
+Así me gusta. Así me gusta.
+HK.
+Not bad
+más
+HK 100
+normalmente losemos los solemos cotizar
+más altos.
+Yo me marcaría una orden cerca de cero
+más contento.
+Sí. Y el de y el de enero, marzo.
+Ese da un poquito mejor.
+Tú ten en cuenta que cualquier
+movimiento de soja te va a mandar este
+spread a 10.
+cualquier típico Brasil que no saca los
+camiones, ¿vale? Típico que siempre digo
+el mismo ejemplo, un farber americano
+que no le da la gana sembrar por aquí y
+te y te lo tiran para arriba, ¿eh?
+Y el problema es que ves que cuando
+hay algún problema, esos esos creo que
+son 2023 y tal, cuando hay un problema
+se te escapaba mucho esto.
+Sería carry.
+Vale,
+ese
+yo creo que lo hice
+en febrero por ahí.
+Sí, este nosotros lo dejaremos que
+hombre haremos el 26 27. Sí, haremos
+este lo haremos nosotros en intentaremos
+hacerlo pues un poquito más adelante,
+¿entiendes?
+Más o menos por febrero, marzo haremos
+el de maíz y este.
+Excelente.
+José Manuel me pregunta la columna total
+que es
+en que en mi en mi cartera.
+No sé, igual igual no he visto no he
+visto tu pregunta, perdona.
+Columna total, ¿qué es?
+No.
+Ah, será
+será la straight.
+Ah, ah, sí, es el total.
+En el
+en cuál, en el de Straight, pero en el
+de Straight, en el en el dom del
+en el dom, ¿te te refieres del del VIX?
+En esto, esto, esto de aquí,
+eso el volumen
+por aquí. Es el precio, el precio de
+apertura, creo, el no, el mínimo, máximo
+y el volumen.
+Vosotros imaginar que todos los todos
+los quants tontos, todos estos pres los
+descartan porque no tienen volumen,
+porque tienen normalmente suelen tener
+filtros de menos de 500 lotes
+tradea. Y creo que hay creo que hay
+suficiente volumen para toda la panda.
+¿Cuánto sabes?
+[ __ ] se está viniendo abajo el mercado,
+¿eh?
+Y el 25 y el 10, 17 y el 15. Ah,
+ah, sí, sí, sí, sí. Eso es el volumen
+horizontal. Vale, esto significa que en
+este precio se han hecho 25 lotes, en
+este precio se han hecho 10 lotes, en
+este 18, en este 15.
+Esto es el esto si lo sumas te tendría
+que dar 66 coma. No siempre lo da
+porque los sintéticos no los calcula
+bien. Cuando tiene que meter el
+sintético por en medio, no te no te los
+da bien.
+Obviamente eso no da no termina en seis
+[risas] así simplemente.
+Vale, vale. Te da 68. Lo ves. Por eso te
+digo que eh son milagros de que 25 + 10
++ 18 más + 15 puesa 68. Sí, pues dos de
+dos se han perdido por el camino de
+cálculo, ¿no? A ver, problema que viene
+aquí que si te haces algún sintético
+contra este, pues ya te encuentras con
+el problema de que no te lo calculas
+bien, te da una estimación de lo que
+hay.
+Vale. Eh, seguiremos hablando la
+estrategia del del amigo
+del amigo Vix, porque yo creo que es
+algo que me gusta tener en cartera, algo
+que es bastante controlable y algo que
+tiene bastante ventaja sobre el resto de
+los productos, ¿vale?
+Y el gas natural, nuestro amigo gas
+natural, ¿qué hace?
+Ahí está.
+Aún no he tenido tiempo de calcular por
+cada futuro micro de gas natural cuántos
+bolis tienes que meter. ¿Tú cómo lo
+tienes? ¿Lo tienes calculado, Alejandro?
+Eh, no, en principio lo tenía cubierto
+con el doble de un ag del del simple.
+Ajá.
+¿Sabes? No, no tenía no lo usaba no
+usaba con futuro de momento. Estaba con
+con el otro, con el ETF, el UHG, no me
+acuerdo. Bueno, el de gas. Sí,
+sí, sí,
+porque el tema del futuro con los rolos
+y tal, todavía me explota la cabeza,
+tengo que echarle tiempo.
+Sí, sí, pero en el que estás pierdes por
+el oro.
+Claro, claro. Pero por eso si, a ver, mi
+estrategia es que pierde siempre más que
+el que el otro, que el simple por al
+estar apalancado.
+Ajá.
+No sé, yo ahora yo lo calcularé un
+poquito por por el delta, ¿no? Ya ya ya
+veré cómo lo calculo. Señores, os dejo
+porque quiero ir a eh
+mañana mañana tenemos clase porque te he
+ido como que ibas de por
+No, no, yo mañana me voy ya. Yo mañana
+yo ya no estoy ni mañana hasta el
+miércoles que vuelvo el miércoles por la
+noche creo. Vale. Eh, estaré con los
+niños fuera y
+clase no hacemos, pero analizaremos los
+datos.
+Os pandé cosas, miraremos, haré revisión
+de un poquito de cartera, os diré si hay
+algún cambio. Ah, y mientras pues
+intentaré entrar en mi ordenador y poner
+órdenes porque los cerdos se han
+ejecutado otra vez.
+Aquí tenemos
+nuestro amigo el cerdo y está a punto de
+salir. Yo no digo nada. Yo yo sé que
+esto parece una tontería,
+pero yo he hecho pasta así y estoy
+haciendo pasta así.
+50 de ahí, 100 de ahí, 200 de ahí, 50 de
+allá, ta ta ta. y va sumando.
+Os dije ayer que el primer nivel de
+cerdos lo pongo en esta zona 575 y el
+siguiente en 900. ¿Por qué? porque se
+han ido mucho para para abajo. Si no
+vuelve, pues mira, he cogido dos aquí y
+ya se ya pues a ver si tengo suerte y en
+cierre se me salen. Esos son cerdos de
+junio, agosto.
+Lo que preguntó Raúl, eh, es algo muy
+pequeño, sí, porque has visto que se ha
+ido a dos y tal, pero puedes jugar con
+ellos y la idea es poner, quitar, poner,
+quitar, poner, quitar, poner, quitar
+y claro, necesitas algo que te vayas
+pagando las el resto del gas.
+El cabrón no, el cabrón no para, ¿eh? Es
+decir, está ahí que tenía tenía ganas y
+el otro gas tampoco.
+Buay, no me ha llegado, no me ha
+llegado. Miraros, miraros los milagros
+de Lourdes, tío. Cabrones que son los
+mercados, tío. Mira que tenía los
+órdenes 178, me llegó 176 y se está
+dando la vuelta el gas de mayo, junio.
+Fuera.
+fuera porque tengo suficiente gas y esto
+lo anulo. La orden que tenía aquí abajo
+lo he anulado. ¿Veis?
+Ya, ya nos subiremos al carro de nuevo.
+Ah, y se me ha vuelto a vender otra vez
+el federc.
+¿Veis?
+Y casi se me hace el segundo nivel. ¿Lo
+veis? Los puntos rojos son las ventas.
+Me ha hecho aquí, lo he cerrado, me ha
+vendido y aquí casi me pilla el segundo.
+No lo
+est vendido el primero y comprado el
+segundo porque veo que pone el signo más
+septiembre menos octubre.
+Sí, pero eso es como están montado las
+pros, pero nosotros vendemos porque si
+te si miras aquí Federc Cel este es el
+septiembre, octubre, ¿vale? el puedo
+vender en la zona D y si te miras en el
+gráfico, te vienes al Stacket, si no
+sabes, dices, ¿tú qué harías? ¿Lo
+comprarías o lo venderías?
+Es que está aquí arriba. Sí,
+v, o sea, eh comprar, o sea, vender lo
+lo caro y comprar lo barato, ¿no? No
+vender el UR en Aquí tenemos nosotros
+hablamos de septiembre, octubre, ¿vale?
+Entonces tú dices, "No, no sé el
+septiembre, octubre cómo lo tengo que
+tradear." Pues en la cartera lo pone
+aquí Federc el septor octubre vender en
+la zona de 290 32 dice, "Vale, pero
+vender qué siempre vender el septiembre
+y el octubre no lo entiendo. ¿Cómo puedo
+hacer un check?" Pues pincho aquí y
+tienes al gráfico. Bueno, primero te
+saldrá
+Primero te saldrá tienes aquí te saldrá
+esto. Sale este gráfico. Dices aquí no
+lo entiendo porque aún no está la
+estacionalidad. Si no está la
+estacionalidad te vas a Stacket y aquí
+ves claramente que está muy arriba.
+Entonces claro, si está aquí, ¿qué tengo
+que hacer? Tengo que vender U y comprar
+V. Vender la spread que se llama.
+De acuerdo, me queda claro.
+Y si no lo preguntas y seguro que
+alguien el grupo, si no te contesto yo,
+alguien del grupo te te ayudará.
+Que yo ahora yo ahora lo que veo que el
+mercado muy roto es tremendo intentar
+hacer este tipo de de de movimientos pa
+con muy pocos flotes, pa pa pa pa. Ya
+está. Y esperar.
+¿Cómo está otra vez la energía subiendo?
+Nada, os dejo porque dentro de nada
+tenemos el otro directo. M,
+os dejo
+mil cosas que hemos visto hoy.
+Nos vemos. What?

@@ -1,0 +1,846 @@
+Mi cabeza va a explotar.
+Tar tar.
+Un tartar de atún. Buah, cómo me
+comería. Buenas tardes. ¿Cómo me comería
+un tartar de atún, tío? Un buen tartar
+de atún, tío. Qué suerte tenéis.
+Pesaba explota.
+Creo que se me está yendo totalmente
+esto. ¿Qué ha hecho, tío? cabrón este.
+Wow, ha aumentado 11,000 el de el de RAR
+ha aumentado la posición 11,000.
+Si sea algo de Dancar, alguna noticia
+está, yo también he intentado
+conectarle. Está un poquito lost.
+Está un poquito lost dance car, no sé
+nada de él. Dime por por qué lo
+preguntas.
+Vale, puedes crear una reunión de Zoom
+Melisen por aquí. Vale.
+Sí. Eh, yo también yo también le he
+escrito hace tiempo. A ver, voy a
+mirarlo
+aquí porque tengo un grupo de trabajo
+donde suele estar. No tengo ninguna.
+Iba a hacer ref. Ajá. Ah, pues vale,
+vamos a preguntarle.
+Le le mandaré yo también un mail y a ver
+qué a ver qué dice porque no sé nada de
+él. La verdad es, Francisco, que estoy
+yo estoy con si son algo, ya no seguido
+con él porque no es barato, pero al
+final tampoco te sirve para todo porque
+si no
+si no pues no sabes, si no puedes hacer
+pues no no se puede, no. Espera que
+tengo que probar una cosa.
+Vale.
+Ajá. Okay, vale. Em,
+por nostalgia. Yo a veces lo miro
+también por nostalgia porque era cuando
+yo empecé teníamos este y teníamos una
+cosa que se llama MRCI, el ¿cómo se
+llama? El el Moch y claro, eso da un
+poquito lo que tú dices de nostalgia. Es
+es es es Sí, el Moiser eso. Eso sí que
+es nostalgia, ¿sabes? de de a ver de a
+ver cómo están las cosas. Sí, sí, sí.
+¿Recuerdas los PDF de Mo Research, tío?
+Que qué interesante, ¿no? Qué
+interesante.
+Sí. Pues bien, estas cosas, tío, estas
+cosas se olvidan, ¿no? Eh, se olvidan y
+sí, además tengo cupones el 50% o no sé,
+un tirado precio y sí, sí, sí, estoy
+buscando algo antes de que prestío loco,
+¿no? Sí, estoy loco, pero estaba
+buscando algo, pero ya no sé el drive.
+Aquí está
+carteras drive. Vale,
+vale. Vamos a ver. Hoy tenemos bastante
+cosas de que hablar, ¿vale? Una de las
+cosas de las que tenemos que hablar es
+que está fallando el VIX, ¿vale? Voy a
+intentar vender unos VIX, ¿vale? El VIX
+europeo contra el VIX americano. Me
+quiero salir del del de él, ¿vale? Y
+tenemos un problemilla de que falta
+fallaba el VIX, ¿vale? Es decir, estoy
+aquí. A ver si lo puedo. A ver si los
+pongo y empezamos con
+con la nostalgia, ¿no? Es decir, voy a
+intentar a ver si me puedo salir de este
+Dix.
+lo da en cero.
+Vale, esto es el fix pequeño que
+tenemos.
+Recordar de que el mes pasado os he
+dicho de que me gustaría salir antes del
+vencimiento de VIX.
+El VIX, ¿cuánto vence? El VIX vence el
+cuándo vence. Ah.
+Vix
+expiration date
+vix expiration calendar dice
+vence el 19 de noviembre
+qué significa que el vix vence 19 de
+noviembre significa que Ah, claro, nos
+queda
+vence el miércoles que viene el VIX,
+¿vale?
+Pero no sé, yo tengo esa pequeña,
+digamos, ah,
+pequeña ideología o pequeña pequeño
+problema mental, ¿vale? De que
+posiblemente
+lo tengo que demostrar, ¿vale? Me faltan
+datos, ¿lo veis? Por eso quiero quiero
+ver a ver cómo pasamos al siguiente
+nivel, porque no
+esto no mola así. Hm. ¿Por qué digo que
+no mola así? Lo digo porque no mola así
+porque realmente e
+hay que tener un poquito más de datos y
+me gustaría eh este este gráfico también
+tenerlo más más trabajado. Pero ya
+veremos. Okay. ¿Qué qué qué decir? No
+puedo comparar los dos fixes, no sé el
+comportamiento. La última semana tendría
+que tener más datos porque lo que sí que
+me jode mucho que la semana pasada
+tuvimos o el mes pasado tuvimos un
+aumento de volatilidad antes de la
+expiración de los VIX y eso nos ha hecho
+o me ha hecho perder bastante basta.
+Recordar que de menos un se fue a -3,
+cambié algunos lotes de un mes a otro de
+-3 se fue a -1 -2 pero claro, en ese yo
+he sufrido, ¿vale? Entonces, cuando
+sufres ah,
+pues no te no te no te gusta, ¿no?
+Ajá.
+Vale,
+me está me estoy fallando yo a mí mismo.
+No sé qué pasa. Me acaba de fallar otra
+cosa. Cuatro. Okay. Dos. Hay que
+venderlos.
+Sí. V. Pero yo te cambié a ti el pic.
+Vale, mira, tengo un problema con el con
+el con el tema de custom strategies. ¿Lo
+veis? Tengo el DG, ¿vale? Edit.
+Y aquí tengo puesto el Sniper volume Lex
+Loop 1.
+Vale, esto no es uno, esto tiene que ser
+cuatro o ocho.
+Le das a update, le das a tal.
+Ahora está. Lo guardas, te vas fuera, lo
+vuelves a guardar
+y rezas que esté bien.
+Vale, me he salido los vixes. Vix is
+out.
+Vale, me he salido de los dixes y ahora
+tengo que verificar
+si se han hecho en todos los en todas
+las cuentas, ¿vale? Este este proceso
+que estoy haciendo. Ah,
+vale,
+no se ha hecho. ¿Lo veis? ¿Hay algún
+problema que no se no se ha hecho? Los
+VIX europeos no se han hecho.
+No se puede, no, algo falla en el vixo
+europeo,
+¿no? No puedo. Entonces, claro, tener
+tener el problema que el el
+CTS ha perdido la conexión con el VIX
+con el VIX europeo. Vale, hay algún
+problema que lo están intentando
+resolver. No puedo cerrar el VIX
+europeo. ¿Qué hago en este caso de que
+se me ha [ __ ] el tema? Vale, a ver si
+estoy compartiendo. Viste, visteis que
+me salí de este VIX de noviembre, pues
+lo primero que hago es estoy, esto estoy
+comprado, pues esto lo tengo que vender.
+Entonces cojo y los vendo. ¿Por qué?
+Porque así me quedo en la spread,
+¿vale? Porque porque ir ir por patas.
+Ah, ir por patas no mola. Entonces me me
+quedo en la spread y me cago en sus
+[ __ ] madres porque no podemos cerrar
+esta posición.
+Ahora hablaré con ellos y si no se puede
+si no se puede cerrar la operación,
+bien, pues que nos lo cierren a mano, ya
+está, que
+les decimos un precio medio y que nos lo
+cierra a mano, ¿vale?
+Eh, sí, pero ayer daba el mismo error,
+Aljandro. Vale,
+aer aer daba el mismo error. Entonces es
+raro que durante dos días tengas durante
+dos días tengas el mismo error, ¿vale?
+Es bastante es bastante raro, pero nos
+queda un par de días, tenemos la
+posibilidad de seguirlo y nos queda un
+par de días. Vamos con una cosa que es
+importante revisar. Entonces, ¿qué
+tenemos? Ah, me quité todos estos micros
+de granos. Vale, vamos a vamos a
+intentar ver qué se puede hacer con
+estos micros de granos. está bastante
+abandonado. Eh,
+estoy bastante liado y no no he podido
+adelantar tanto en el trabajo que quería
+adelantar con algunos spreads, inclusive
+ah, inclusive hm
+Fidel me pasó un montón de spreads
+intermercado que no me ha dado tiempo de
+mirarlos y
+las cosas están como están, pero vamos a
+mirar un poquito qué tenemos aquí. Life
+Cutle, agosto, octubre, diciembre. Me
+quedan pocos lotes,
+¿vale? Pero esto vemos uno y de esto
+tenemos que hablar. El mercado está
+roto. Roto significa algo, algo está
+pasando en el mercado de granos, en el
+mercado de carne, porque realmente vemos
+que se ha roto. Este spread lo hemos
+vendido en 1 y medio, 1750,
+está en 900 y pico. Tengo un orden de
+cerrarlo en cero en 0 850, que lo
+tenemos aquí, ¿vale? y a ver cómo sea. A
+lo mejor podríamos dejar algunos porque
+veo que tengo bastantes.
+Sí, igual se podía se podían se podría
+dejar. Eso está actualizado, tío.
+Marzo, abril, mayo.
+Feder cle marzo, abril, mayo.
+Posiblemente, posiblemente en esta
+cuenta ya no me quede. Marzo, abril,
+mayo de Feder Castle. Sí, igual me he
+salido de todos. Vale, este feederc de
+marzo, abril, mayos, porque ayer me
+entraron 275,000 lotes. Sí, es que es
+para estar fuera de este el marzo,
+abril, mayo. ¿Sabes por qué tienes que
+estar fuera? Porque ya está bien.
+Porque ya estás bien. Ya está bien.
+Vale, estoy verificando.
+Fran que me lo pasó, tío, pero me pasó.
+Y el feeder cattle.
+Claro. Ah,
+vale. Ellos sí que a ellos sí que le
+quedan. Pues tú te vas fuera, tío.
+Vale, te vas fuera. Ya está bien.
+Ya está bien. Ya estoy poniendo la orden
+de salida en una en tal. Pues esto lo
+hemos tradeado bien. Mirar aquí me
+preguntaría si oye, ¿no nos ponemos en
+corto, tío?
+Pa pa el corto. Buscaremos más arriba.
+Cerca de cero. Te diría que a lo mejor
+podríamos intentar buscar un corto, pero
+en principio no. Hemos pillado una buena
+desviación por la parte de abajo. ¿Lo
+veis? Aquí hablo del feeder cutterle
+marzo, abril, mayo. Tal. Si se va aquí
+arriba, pues podemos decidir intentar
+meterle meterle algún cortico, pero
+tampoco es tampoco es plan, ¿vale?
+Vamos a seguir revisando cosas de
+cartera, eh, así es lo mejor empezar el
+día. Esto fuera
+y federc septiembre, octubre. Sí, esto
+este va
+a su ritmo. Sí, este no,
+como podéis ver este [ __ ]
+pues
+vengo aquí arriba,
+él va entrando y saliendo.
+¿Por qué no ha entrado estos días? Sí,
+estos días sí. Pues ha tocado arriba. Ha
+tocado otra vez aquí. He vendido. A ver
+si toca. Esto es compra, ¿no? Si eso es
+compra. Ha tocado una venta aquí arriba
+ayer, pero eso no me lo marca. Se ha
+cerrado. Tengo la otra aquí. Recordar
+que vendo 300, 2900, 300, 2, 900. Voy
+comprando, voy vendiendo y y se va
+haciendo. Esto es el Federc septiembre,
+octubre. Si queréis verlo así también.
+Ah,
+vale. Vemos que estamos en la parte esta
+alta de aquí.
+Stacked está bien. Estamos muy
+desviados. Seguimos vendiendo. Ah.
+E sí. Ahora pasamos a los cerdos porque
+los cerdos lo que han hecho es de
+juzgado de guardia. El Yo no he visto no
+he visto tanta liquidación, pero ahora
+ahora llegaremos a los cerdos. Eso está
+bien. No hay nada que decir aquí.
+Septiembre de octubre Lifec diciembre.
+En esto sí que sigo haciendo tiquitacas.
+Me acabra acaban de entrar diciembre
+febrero 27 y además me acaban de entrar
+un precio bastante alto porque aquí en
+09 me han entrado estas vacas.
+Diciembre, febrero de vacas. Sí.
+Y febrero, abril también está subiendo.
+Aquí estoy haciendo tikias y parece que
+me han entrado y eso también a ti
+también te tiene que entrar. Sí, están
+entrando. Sí, están entrando vaquitas.
+Están entrando vaquitas. Y
+ya sabéis qué pasa en el mercado de
+BMBAX.
+Ayer los cerdos y eso es típico,
+¿recordáis que hemos hablado de esto de
+cerdos? de que ah de que cuando hace
+mucho estos viajes, ¿vale? ¿Veis aquí?
+¿Veis este este movimiento de cerdos
+aquí? Yo que sé, 27 días o no sé cuántos
+días
+de subida,
+un 30% de subidas en 69 días, ¿vale? 30
+en 40 en 49 barras
+menos tr todas verdes. Los cerdos, los
+cerdos son así, tío. Te cogen y dices,
+"Jefe, ¿a dónde vamos?" "Para arriba.
+Tiremos para arriba, tiremos para
+arriba, ya está." Así, así son los
+cerdos. Ah, te guste o no te guste.
+Entonces, claro, aquí viene el siguiente
+nivel que ahora miraremos ceros, pero
+míralos ahí. Se se ha tirado el el
+movimiento para abajo y ha hecho el gran
+el gran repunte. Hay que ver las
+noticias. Voy a ver lo que ha puesto
+Rubén y voy a ver qué noticias tenemos,
+pero en principio creo que no hay no
+debería haber nada. Lo importante, lo
+único que bajó mucho y tenía que tenía
+que recuperar, pero estas vacas me están
+entrando. Estas vacas de de diciembre,
+febrero me están entrando, pero claro,
+veo que estoy jugando a tikiitaca,
+¿vale? Es decir, me entran, me salen, me
+entran, me salen y eso a mí siempre me
+ha gustado y me seguirá gustando.
+A seguir con el resto de las vacas.
+febrero, abril lo mismo.
+Lo único que tengo ventas,
+tengo ventas y creo que un pelín más
+arriba.
+Sí, aquí tengo ventas, ¿lo veis? 1800 2.
+Tengo ventas más tengo. Depende de las
+cuentas porque parece que en las
+pequeñas,
+en las pequeñas, la más agresiva ya
+estoy vendiendo. Sí, aquí lo veis. Aquí
+ya tengo vendidos. Aquí ya tengo
+vendidos algunos. Aquí me he bajado un
+nivel a uno, ¿a cuánto lo tendré yo
+esto, tío? A 1 200.
+He puesto más niveles. ¿Por qué? porque
+este también
+digamos
+hizo
+hizo un viaje muy para abajo, está
+rebotando ahora, pero con pocos lotes
+también quiero e intentar aprovechar
+ah el movimiento. Vale, veo que los
+tengo bastante más abajo las ventas,
+pero intentar aprovechar ese movimiento
+que puede haber aquí, ¿vale?
+Es decir, me voy me voy poniendo entre
+entre el mercado, creo
+pero seguimos con estas vacas. Seguimos
+con estos.
+Ahora vienen los cerdos. ¿Qué ha pasado
+en los cerdos? Un rebote hiper super
+mega fuerte,
+¿vale? Y esto ha hecho que los spreads,
+¿vale? los spreads hagan lo que tienen
+que hacer, el pequeño rebote estacional
+que suelen hacer, ¿no? Pero vamos a
+mirar una spread ah
+bastante más importante,
+que son los spreads cercanos, ¿vale? El
+QV, por ejemplo, mirad como acabo
+arriba.
+VZ acabado arriba. Todos estos han
+acabado arriba. Pero ayer, ¿qué han
+hecho? Ayer, por ejemplo, la mariposa,
+mariposa muy conocida por parte de los
+espectadores de aquí, ¿vale?
+Ah, nos lo pasaron el nivel este a un
+nivel de más cu. Okay. Si entramos
+dentro de la mariposa,
+entramos Stocket, tío, ¿es normal que
+pase estas desviaciones en esta época
+del año? Pues podríamos llamarlo normal
+si queremos, pero no es normal, no es
+algo algo aquí se ha ido totalmente el
+cash, la el posicionamiento, pero este
+dentro de lo que cabe, este también se
+ha ido a un nivel muy raro, pero si
+vamos al diciembre febrero, ¿vale?
+Diciembre febrero, diciembre febrero se
+fue ayer, ¿vale? Aquí te pone que se fue
+a cero, pero eso no es verdad que se fue
+a cero, eso es mentira con como una
+casa. Vale, ¿por qué? Porque si tú coges
+un diciembre febrero,
+un gráfico de diciembre febrero, lo que
+se puesto ayer en pantalla, ¿vale? Este
+es el 27, no confundir con el de 26. Yo
+he ido comprando, tengo mis compras ahí,
+ya veremos cómo acaba la película. Pero
+si tú coges el diciembre 27, ¿vale? Ah,
+a un compañero
+antiguo de Spread estaba corto y la han
+stopeado. ¿Por qué? Porque se fue a
+cero. Mirad aquí a cero
+positivo. Aquí ya se fue. Luego bajó
+tres positivo y ayer hizo lo que suele
+hacer. Y eso se llama el petar culos.
+Okay. ¿Por qué? Porque si tú aquí
+estabas perdiendo pasta porque venías
+corto, cuando se te va a más dos, ¿vale?
+Son 800 pavos. Y miraros, miraros los
+muy, muy, muy, muy cabrones, porque no
+tengo otra cosa que decir.
+Arranca la sesión, ¿vale? Arranca la
+senión.
+Aquí ya veías que en el cierre hacían
+algo. Esto es el golman roll, ¿vale? El
+golman empezó a rolar, empezó aquí a
+rolar, va rolando los últimos días del
+gol roll y mira lo que te hace. Te
+empieza la sesión, ¿vale? Te empieza la
+sesión con 3400 lotes al alza.
+Ayer vi el orderbook. Ayer vi el
+orderbook de esto. El volumen que hizo
+fueron más de 20,000 lotes.
+¿Y cómo lo hicieron?
+Reviento a todos.
+A todos
+y para mí, eh, y el mercado para mí
+típico de Gold Marro. Y mirar aquí el
+volumen, pues 6000 en cierre y tal.
+Oh,
+este movimiento,
+este movimiento es totalmente atípico o
+y totalmente de de digamos de voy a
+reventar a todo el mundo que se ha
+puesto corto en esta estacionalidad.
+Y ahora lo más seguro que ya veremos
+cómo acaba, lo más seguro de que van a
+ir un poquito para abajo. ¿Por qué no
+opero? ¿Por qué no opero front? ¿Por qué
+no estoy aquí? ¿Por qué no hago esto?
+por por estas por exactamente por este
+movimiento. Aquí juegan los niños
+grandes, aquí juega la gente que tiene
+que que puede mover el mercado y yo no
+quiero yo no quiero jugar con ellos.
+Pero miraros lo que ha pasado.
+Febrero, abril,
+dijiste los cerdos de los cerdos, por
+ejemplo, de junio, julio, de junio,
+agosto, que son los nuestros. A ver,
+tío, ayer se fueron a -900 y a mí me
+quedaron lotes.
+Vale,
+a mí me quedó un lote.
+Hoy me están entrando ya. Vale, me están
+entrando,
+¿vale? De de estos niveles, ¿vale? Lo
+veis que me están entrando de ventas. Me
+quedó un lote en toda la cartera. Claro,
+en menos 900 lo tenía que haber lo tenía
+que haber cerrado, pero es que nos lo
+han roto. Mirar.
+Algo. Miren aquí.
+Lo mismo que en diciembre, febrero.
+Alguien ajustó aquí. 500 en cierre. ¿Por
+qué? No lo sé.
+Tal se va para arriba. Yo he empezado a
+vender poco a poco, poco a poco, pero he
+empezado a vender.
+Ya sabéis que esto se nos puede ir hasta
+más do más un +s do, ¿vale? Es decir,
+hay que estar con tranquilidad. Pero se
+puede empezar poco a poco a picotear
+aquí.
+¿Por qué? Porque si me bajo un pelín os
+voy recogiendo dinero, soltando,
+recogiendo, soltando, recogiendo la
+misma película, pero lo mismo que ha
+hecho nuestra queridísima mariposa,
+junio, julio, agosto.
+Wow. Un 800 y un 450. Lo h mandado aquí
+arriba. ¿Veis? Este estaba bien, pero no
+nos entraron los los lotes que
+queríamos.
+Guow.
+Está
+engañado. No ha entrado. No ha entrado.
+Tengo lotes, ¿vale? Pero está muy por
+debajo de lo que yo debería llevar. No,
+no tengo lotes porque se me han metido
+aquí un de agosto. No tengo lotes porque
+me han salido.
+Han entrado y han salido y no he podido
+parar bien esa estacionalidad.
+Pues ya sabes la solución de que te
+queda. Uno, intentar picotear por la
+parte de abajo.
+Vamos a ir para abajo.
+Lo que me queda es
+poner así dos órdenes
+y ver y rezar.
+Me gusta esto.
+¿Qué he hecho en diciembre febrero? Eso
+también es interesante mencionarlo en
+diciembre y febrero, el año que viene.
+Y he dicho que os daré la explicación,
+¿no?
+Diciembre, febrero, ¿vale? Coge y dices,
+"La madre que nos parió. [risas]
+Cerotes
+y de repente 300.
+De esos 300 yo también tengo culpa. No,
+pero de -4.2
+a -2.6,
+esto es realmente el problema del,
+digamos, de la liquidez, ¿no? Y por qué
+viene el problema de la liquidez? Pues
+mira, el problema de la liquidez, de la
+liquidez, ¿vale?
+Ah,
+el problema de la liquidez,
+el problema de la liquidez
+lo hemos explicado.
+Seguimiento para
+aquí, aquí os lo expliqué bastante bien
+más.
+¿Qué pasó? Mirad,
+esto es el contrato de febrero.
+Metieron aquí 51 lotes, ¿vale? Pero aquí
+51 y 11 y aquí 10. Este 10 luego ya no
+lo miré, pero supongo que ese 10 también
+al final era era una posición como esta.
+Son gente que deja órdenes de venta.
+¿Qué pasó? Que cuando febrero llegó a
+esta posición de 51 lotes, ¿vale?
+diciembre,
+¿vale?
+Diciembre. Este es este no es spread,
+¿vale? Diciembre estaba subiendo a sus
+anchas porque no tenía tanto volumen,
+¿vale? Es decir, febrero subía 1,3,
+¿vale? Mientras que diciembre, lo tenéis
+aquí, subía, perdón, aquí subía un 2,7.
+¿Por
+qué? Porque no había, no tenía tanto
+tapón, ¿vale? Y mientras el spread
+estaba, es decir, mientras los dos
+futuros querían subir, febrero, al no
+tener tanto volumen, febrero solo podía
+subir si machacaba los tapones. ¿Cómo
+machaco tapones? Subiendo Z y Vale. Eh,
+eh, subiendo Z, tirando de la spread y
+cuando se hacía spreads, ¿vale? le
+liquidaban parte de G y esto hacía que
+que G no podía subir y el Z subía como
+loco.
+¿Qué hice yo? Pues empezar a cascarle,
+¿okay? Empezar a cascarle y le casqué
+pues diferentes precios. Aquí veis que
+empecé con empecé con tres tenía media
+315, luego me subí hasta 2600 luego
+le le metí de órdenes, le metí de
+órdenes de todo tipo. Ahora, ¿qué estoy
+esperando? Hoy posiblemente no. Mañana
+posiblemente no. Pasamos mañana
+volveremos a la zona esta de 320 330,
+¿vale? Porque los dos futuros uno se
+despertará. Ah, mira que tengo futuros
+vendidos de diciembre y los febreros,
+¿cómo? Ah, pues me los voy a cambiar y
+voy a hacer un rolo. Y de repente
+empieza y te hace crack cra crac crac
+crac crack.
+¿Me entendéis? Pero diciembre y febrero
+te cotizaba -4, que era malo. A -2600 ya
+si queréis me lo llevo a largo plazo.
+Es que y mirar y y mirar y pensar en
+esto.
+cerdo de diciembre febrero.
+Un un cer en esta zona de 2,6 aquí en
+esta época del año está bien. Muy pocas
+veces se te va a ir por encima de cer de
+dos.
+Puedo montar a 27.
+¿Lo veis mejor?
+Aquí veis. V. Te puede llegar a poquito
+más arriba. Sí.
+Cuando los cerdos están en mínimos
+rebotando y tal, ¿es normal que esta
+spread esté en cero? No, pues mercado se
+ha dislocado, le hemos metido los
+tecicos
+a por a por el tikiakaca y quedadse.
+Este es una spread que entrará
+entraremos en esta época, ¿vale? Donde
+intentaremos vender en este soporte de
+-2 -2,5.
+¿Recordáis
+el chiquito que va por con 500, 400, 500
+lotes, ¿lo recordáis del año pasado?
+Pues este señor lo vamos a identificar.
+Ayer no lo vi. Ayer por ahora no lo vi.
+Entonces dejaron dejaron subir el precio
+y romper. Este señor vendrá y cuando
+este señor viene, pues nosotros iremos
+con él.
+Nosotros iremos con él.
+Pero se ha roto toda la línea. Han hecho
+un Yo no sé qué han hecho. Voy a
+preguntar a unos brokers americanos que
+qué han hecho ayer con los PR de cerdos,
+pero ayer hicieron una matanza eh de
+cerdos. Una matanza de cerdos que ahora
+me has oído la palabra. Fue una matanza
+de cerdos. Oye,
+pero claro, las matanzas si no te pilla
+dentro y lo puedes aprovechar, pues vas
+a por él.
+Siempre va bien.
+Siempre va bien.
+Okay.
+¿Qué más tenemos por aquí,
+cracks?
+Estoy en el siguiente, en el DZ.
+Y luego tenemos,
+me han entrado los dixes lejanos, ¿vale?
+el abril, mayo y el mayo, junio.
+Ya sabéis que estos son de
+los dejamos y a ver qué a ver qué pasa
+con los vixes.
+Y luego nos queda nuestra nuestro amigo
+este hoy casi está estuve a primer nivel
+de sacarme algunos el km. Está muy
+fuerte el gas. Está muy fuerte el gas.
+No entiendo por qué tan tan fuerte el
+gas. Por ahora aquí vamos a hacer hold.
+Y este
+este da miedo, tío.
+Este da miedo. Por ahora respeta ese
+nivel de 250,
+pero claro, no sé hasta no sé hasta
+cuándo respetaré el nivel 250.
+Luego también una cosa interesante,
+dices, "¿Y por qué no meto más
+operaciones?" Porque tengo muchas para
+el nivel de donde estamos ahora
+y más teniendo en cuenta todo lo que me
+entró ahora, voy bastante servido a
+operaciones.
+Fidel me pasó unos cracks de A ver si
+está aquí Fidel.
+Me pas unos cracks.
+Vale, eso es uno que pas HMQU.
+Y Fidel, ¿esto por qué lo has cogido
+así?
+Por pinta matemática.
+Lo primero por
+por un poco por la estacionalidad de la
+gasolina. Ajá. el Q,
+el Q
+y
+también un poquitín por la por
+matemáticas, vamos,
+para no estar tan tan cercano a los
+vencimientos como con el otro crack
+también. Claro.
+No, con otro crack, con el otro con las
+otras spread de de RB H.
+Tú estás en otra, ¿no? En RPH, una más
+cercana, ¿no?
+Tuve una más cercana y ya me salíamos.
+Sí, me saqué 000 de beneficio y y
+marqué.
+que toca
+para que me las ido pasar [ __ ] porque
+se me marchó 3000 y pico dólares hacia
+arriba,
+pero bueno, la la esperé poco a poco la
+según subía la fui cascando lotes
+y bueno, le tuve que cascar 15 lotes.
+A ver, a ver, a ver, a ver, a ver.
+Gasolina, gasolina.
+RB,
+heating oil, cracks y todo esto.
+Cuidado,
+son muy hijos de [ __ ] ¿vale? Y dos,
+la gasolinería de RB y más en estas
+épocas de año cuando hay cambio, ¿vale?
+Porque ahora cambiamos las refinerías,
+las estamos las cambian y las ajustan un
+poquito de no sé cómo es exactamente, si
+alguien lo sabe que nos ilumine, pero
+están cambiando como pueden hacer un
+poquito más de ho que RB, ¿vale? Es
+decir, hace unos ajustos ajustes en las
+refinerías y eso influye un poquito en
+la en la en la producción, ¿no? Pero a
+lo que me referir, cuidado con estos
+bichos, ¿vale? Y luego el dedito, ¿vale?
+Clac, clac, clac, clac, clac. intenta
+hacer otra cosa con él, ¿vale? Es decir,
+dibujar o lo que sea. ¿Por qué? Porque
+el error donde yo he reventado cuentas
+en spreads
+ha sido el el el meter meter meter meter
+meter. Y recordas el gráfico de los
+cerdos, ¿vale? El el a ver lo si lo
+tengo por aquí y lo vuelvo lo vuelvo a
+poner el gráfico el gráfico de los
+cerditos, ¿vale? Porque eso es típico
+que hacen, ¿vale? Eso eso es muy típico
+de spreads y más en spreads conocidos,
+¿vale? Esto
+esto
+te llevar al infinito,
+¿vale? Tú vas metiendo cortos, por
+ejemplo, desde aquí tal, te joden,
+vuelve, te joden, dices, "Coño, doble
+techo o lo que sea, mucho volumen, queda
+poco, estoy en el pico de la
+estacionalidad y te hacen pap."
+Claro, tú ten en cuenta que esto es -2,2
+hasta aquí estos son dos puntos, ¿vale?
+Y él aquí en en apertura de sesión, en
+apertura de sesión te hace dos puntos
+en cuestión de estos son gráficos de 15
+minutos, ¿vale? Pero si lo ponemos en un
+si lo ponemos en cinco, verás que el te
+hacen el las aperturas que llamo yo
+aperturas eh que te rompen. Es decir, te
+rompe.
+Tú imagínate,
+y eso es muy importante que lo tengas en
+mente, que esto lo hacen apuesta porque
+saben que alguien está accionamente está
+posicionado, está muy cerca y tal,
+dices, voy a romper. Pero claro, todo el
+movimiento que te ha ido en contra
+durante otras sesiones o durante
+semanas, ¿vale? o durante 4 o 5 días,
+dos puntos te lo hacen en un minuto, dos
+puntos, te rompen todos los esquemas de
+spreads. No puedes tener tantos spreads,
+aunque sea spread de spread, ten
+cuidado, márcate en o cada vez que
+quieres meter, piénsatelo dos o tres
+veces,
+¿no? Si si los 15 lotes Greg les metí en
+más de una semana, ¿eh? No, no es una
+cuestión ya de que
+Pero 15 lotes es mucho, ¿eh? Si yo te
+digo que
+es mucho. Vamos, me refiero que no se me
+fue el dedo, que lo hice un poquitín
+viendo la evolución de de cómo subía y
+bueno, ya viendo un poquitín el techo de
+ellos, pues
+pues ten mucho cuidado porque es la
+forma de llegar a poder perder dinero
+mucho dinero rápido y más en los
+mercados como puede ser un cacao, un
+azúcar, un RBHO,
+un una algo que que puede estar muy bien
+hasta que deja de serlo, ¿sabes?
+de gas, deja de serlo. Gas natural. Ah,
+yo por ahora me sigo queriendo quedar.
+Ah, bu, yo me tengo que ir, tío. Me
+tengo que ir con mi hijo a un sitio,
+pero mañana seguimos con con la tal. Ah,
+vale. Alejandro, no te expliqué lo de lo
+de la Fed, ¿vale? Luego luego tengo un
+vídeo de la Fed que te lo explica muy
+bien, Alejandro, luego te lo paso,
+¿vale? para entender bien la posición y
+y ponerlo lo del fat day y y os lo
+explico. Es que tenemos tengo que salir
+con mi hijo. Ah, le he prometido que
+vamos a hacer una cosa y se me ha ido.
+Ah, se me ha ido el santo, tío. Se me ha
+ido. Ah,
+cuestión.
+Vacas tenemos muy buen rango. Cerdos
+están volviendo a rango, dando buenas
+oportunidades. Vix está a rango dando eh
+RB, el crack del RB dando rango. El VIX
+dando dando el VIX calendarios dando
+rango. No hay que buscar por ahora
+nuevas superaciones,
+¿no? No, además porque me acaban de
+hacer llamada de margen, que tengo que
+verificar por qué es. Porque esos
+capullos también tengo un montón de
+problemas con ellos de cómo de cómo
+hacen los lo o qué hacen porque no me
+cuadra lo que están haciendo. Yo todos
+los días os pido aumento de margen a
+todos e porque no no estamos vamos a
+cambiar de broker porque no no broker no
+de broker nos quedamos con el broker lo
+único cambiamos de la empresa del FCM eh
+porque Strates no creo que está a la
+altura para gestionar estas posiciones.
+Vale,
+mañana,
+¿qué quería ver, tío?
+Mañana tenemos que ver a fondo el gas
+natural
+porque no me está gustando mucho por qué
+está subiendo o por qué está tan tan
+fuerte el gas. Vale. Eh,
+eso hablamos un poquito más tarde porque
+me esperan, ¿vale? Y mañana vemos.
+pasarme operaciones si queréis que
+veamos mañana. Es que yo yo os digo, yo
+estoy tan bien eh con la cartera máximo,
+eh que no en estos momentos y además
+cuando estoy bien en todos los mercados
+que más o menos puedo decir conozco, eh
+no suelo abrir en más mercados. ¿Por qué
+no suelo abrir en más mercado? Porque
+seguro que lo cago. Además, si te va
+bien feeder, te va bien vacas, te va
+bien cerdos, te va bien el BC, te va
+bien el crack, hacer operaciones
+tiquitaca y ya está.
+El mayor problema de lo que me se suele
+ocurrir en estos casos, cuando se me
+estrechan los mercados, no hay
+tiquitacas,
+me abro en muchos mercados y de repente
+empieza el movimiento y te saca, te
+empieza a mover los cerdos, te se
+empieza a mover las vacas, te se empieza
+a mover tal y como tienes muchas
+operaciones, te saca. Ahora tengo que
+verificar porque parece que tengo muchas
+operaciones.
+Vale, nos vemos más tarde y hablamos o
+mañana, ¿vale? Perdonar que me tengo que
+ir con con el pequeño que tiene que
+hacer una cosa él y quiere que vaya con
+él. Vale,
+que

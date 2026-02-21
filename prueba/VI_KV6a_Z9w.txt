@@ -1,0 +1,244 @@
+Hago este vídeo h un poquito para los
+nuevos y que se que nos tranquilicemos,
+que entendamos que esto es un proceso de
+más de un año o un año y hay cosas que
+la primera no se pilla y se pillarán
+poco a poco. ¿Vale? Estoy hablando y con
+otros compañeros y estamos viendo la
+forma de encontrar para que vosotros
+veáis y os sentéis más cómodo, digamos,
+con el ah
+con lo que hacemos. Es verdad que los
+avanzados ya están un nivel muy mucho
+más avanzado y entiende lo que hacemos,
+pero los otros nuevos es totalmente
+normal que no lo tengas. Por eso, bueno,
+voy a hacer un formato ahora. Em, os os
+lo presento, es decir, un formato. Vamos
+a hacer una trade desde inicio hasta
+colocarla, ¿vale? ¿Cómo lo vemos
+nosotros? ¿Vale? Para ello, ¿qué vamos a
+hacer? Utilizar pues la cartera,
+¿vale? El jueves o el miércoles por la
+tarde hablamos de una estrategia y en
+esa estrategia mencionamos que nos
+gustan dos trades. Vamos a verlo. Sí.
+¿Por qué no? ¿Por qué no hacerlo? poco a
+poco y con la idea de de [ __ ] pues
+vamos a vamos a hacer un trade desde
+inicio al final. ¿De qué trad? De dos
+trades lo hemos filtrado. El tema de hoy
+no es el filtrado. Veremos otras clases
+con temas de filtrados, pero vamos a ver
+dos trades muy simples. Mira, hemos
+quedado de que de que nos gusta el
+heating oil, ¿vale? Nos gusta el hitting
+oil y y es este trade, ¿vale? ¿Qué es
+esto? de una mariposa. Uy, ya me estás
+liando. Que cree que me has prometido
+que no me lías. Mariposa, es bastante
+fácil. Lo único que en vez de tener dos
+patas con unas tiene tres patas. En este
+caso, ¿qué tenemos? Tenemos un julio, un
+junio y un agosto, ¿vale? Tres patas.
+Una, dos, 1, + 1, -2 + 1. Nos gusta.
+¿Por qué? Porque ha bajado. Puede
+girarse un poquito al alza. Vamos a
+practicar. nos gusta el hitting oil
+porque hay una idea de frío dentro de
+una semana que podría venir y podría de
+nuevo tirar los precios de heating oil y
+de otros productos al alza. Vale, no
+entramos en más. Hemos seleccionado la
+estrategia, nos gusta esto, no es un
+spread, si no es un fly, ¿vale? Yo me
+referé a él a él como fly. Fly de
+futuros, como todos que conocéis de
+futuros, se pueden hacer sin ningún
+problema, ¿vale? Estadísticamente hemos
+visto que tenemos algo de ventaja,
+¿vale? Te puedes meter aquí en back
+test, eh, internal server error. Se ha
+caído la red. Vale, pues podemos ver
+que, hombre, ha estado ha estado plano
+durante años. Aquí pego una gran subida.
+Em, pero el rendimiento 70 80 pavos es
+lo que yo más o menos espero de esta
+spread. Ahora no es importante la
+selección, sino qué hacemos con esto
+visto estacionadamente nos conviene,
+hemos visto que puede subir, hemos visto
+que ahora que hay que hacerlo, meterlo
+en cartera. ¿Cómo lo hago? Mira, me voy
+a Interactive Brokers, me hago la
+pantalla Interactive Brokers y aquí,
+¿vale? En esta pantalla le digo,
+"¿Tan lento va?
+dejar de compartir. Va hiperlento esto.
+Compartir
+dos
+y ahora es compart. Vale. Entonces aquí,
+¿qué hago? Le pongo una pestaña, ¿vale?
+Ho, vale, porque tengo papo.
+Dices, ¿qué quiero? Combinaciones. ¿Qué
+combinaciones? Smart. Vale. Seleccionas
+combinaciones smart. dices, "¿Quieres
+una spread?" No, aquí las mariposas
+automáticamente no están. Tienes que ir
+por tramo. ¿Y qué le dices? Quiero un H.
+Vale, lo he probado un par de veces y no
+ha acertado los meses de Ho, ¿vale?
+Entonces, ¿qué qué puedo hacer? Pues le
+pones heating oil, le dices futuros
+más múltiple y cuál quieres de 202606
+añadir
+202607
+añadir.
+Ah.
+Eh, vale, esto tenemos que ir por así.
+Futuros futuros
+más múltiple siete. Añadir
+vale pues nos lo he puesto aquí. Okay. E
+ho a ver si me puedo dejar poner ocho.
+Añadir futuro ocho. Y aquí me dice, deja
+poner. Vale. Ah, lo veis, es un pocooso.
+Luego os enseñaré la otra plataforma
+cómo es cómo cómo exponerlo, ¿no? Aunque
+no os quiero liar, ¿vale? diferenciales
+de futuros de futuros
+por tramo.
+Ho es que sí quieres un futuro, quieres
+otro, quieres el seis, el 6 se añadir,
+lo cierras, le dices ho
+quieres el futuro
+múltiple que es el 7, añadir
+junio julio y quieres ho
+futuro
+más múltiple
+8. Añadir,
+añadir capullo. Ah, ya está aquí. Junio,
+julio, agosto. Dices, cierras. Lo único
+que Claro, de julio necesitas dos para
+tener una mariposa 1 2 1. Eso es es
+añadir. Te dice que esta mariposa es una
+mariposa
+y desde el contrato
+ta ta ta.
+Debería poner los las garantías que son
+una [ __ ] 100 pavos, pero no quieres
+ponértelo. Es que sí. Y aquí está,
+¿vale? 042* 043. Yo lo que voy a hacer,
+yo lo que voy a hacer es voy a comprobar
+si está bien con mi otra plataforma,
+¿vale? Pero está bien porque recuerdo
+que cotizaba este precio. Entonces, ¿qué
+tenéis aquí? Ya tenéis la mariposa.
+Vale, voy a voy a mi
+voy a mi ¿Dónde estás?
+Esto lo voy a quitar porque creo que
+chupa muchísima energía este también.
+Esto también chupa muchísima energía. ¿Y
+dónde está mi C3S?
+Mir aquí una pestaña. Yo, ¿dónde lo he
+puesto?
+Aquí cosas que flipo de de de
+tal, pero quedard esto lo que estaba
+buscando
+aquí
+en estrechos en estrechos lo tenía
+puesto el hitting hoy junio julio,
+agosto 42 por 45. Vale, aquí la
+diferencia es que tú te vas, abres un
+contrato, ¿vale? Abres un contrato y lo
+tienes así de fácil las mariposas y si
+quieres spreads los tienes al lado y
+aquí tienes todos los spreads, ¿vale? No
+entramos en esto, solo quería verificar
+lo que está bien. Volvemos a nuestro
+Interactive Brokers,
+Interactive Brokers y yo también le
+quiero comprar uno de estos a mi mujer.
+Le doy a buy.
+42* 43.
+Enviar. Vamos a jugar un poquito.
+43. Pues vamos a subirlo a 44
+para que veáis que cómo cómo se el
+mercado. Vale. 44. Ay, nos lo han dado
+directamente. 44. nos la han dado
+directamente. Ah, ya lo tengo comprado.
+176 pavos me piden el él piensa que esto
+vale 176 pavos, que más o menos es la
+garantía que te cobran por este
+contrato. Así de fácil. ¿Cuál fue el
+otro producto que nosotros hemos dicho?
+Pues vamos a volver la cartera de Greg.
+Volvemos la cartera de Greg. El otro
+producto que estábamos jugando es el
+julio agosto que decíamos. Hoy a Greg le
+gusta este contrato porque lo hemos
+seleccionado de la lista. Pues vemos que
+es lateral, puede bajar, ¿vale? Puede
+puede aquí tener su bajada. Hemos
+entrado, le estamos ganando algo de
+pasta, eh, no la que yo quiero. Pues
+vamos a vamos a poner una orden en la
+cuenta de mi mujer, ¿no? Cogemos,
+eh, vamos aquí y dices, "Vale, pues yo
+quiero un he que es un cerdo, ¿vale? Que
+quiero combinaciones." ¿Qué
+combinaciones quiero? Smart, ¿vale? Y
+aquí están todas las combinaciones. Y me
+voy aquí, le digo junio, julio, no,
+junio, agosto, no. Quiero julio, agosto.
+Julio, agosto, añadir. Ya tengo aquí el
+julio, agosto.
+No recuerdo dónde me ponía a mí las
+dónde pone aquí las garantías, pero no
+las pone. Vale, fuera. Lo cierras y
+tienes que julio, agosto y tú te dices,
+"Vale, aquí tenemos el julio agosto y
+dices, están 125 por tal, pues yo quiero
+vender en 125." Le digo sell, le pongo
+que goodtil cancel y lo pongo que el uno
+11125. Quiero vender 11125. Le digo, le
+doy a enviar. Ya está puesto el orden.
+¿Qué le digo? Que si se me hace,
+¿vale? Aquí si se va a 0,125,
+yo quiero que 0,850
+que lo cierre porque esta cuenta lo
+utilizo, pero no tanto como la otra. Y a
+ver si se me olvida. Le doy a enviar y
+ya tengo la orden puesta. Ya está.
+En CTS es mucho más fácil porque
+seleccionas cerdos. En CTS lo único que
+tienes son pestañas de este tipo. Y aquí
+y aquí tengo los cerdos y aquí está.
+Vale, es decir, estamos ganando 120
+pavos. Pues a ver si bajo un poquito y
+está esperando un poquito más de
+distribución hacia abajo, ¿no? Pero
+ahora nos vamos a quedarnos con la idea
+de Ah, me gusta un spread. Volvemos a la
+idea, ¿no?
+Me gusta una spread en la cartera de
+Greg o lo que estábamos hablando en no
+sé decir mi cartera es mi cartera,
+¿vale? Os lo enseño porque ya sabéis que
+soy bastante transparente, pero la idea
+es cuál. Tienes tienes una spread, lo
+miras en si son algo, dices, ay, que me
+gusta, lo quiero meter.
+Mariposas, visteis, te vas a interactive
+brokers y visteis cómo montamos la
+mariposa de Hitting Oil y ya está, no
+hay más. Es decir, podemos liarlo más,
+eh, hace falta liarlo un poquito más.
+Pues digo que no, yo creo que es
+bastante es bastante fácil montarlo,
+tenerlo. Así que espero que os gusta
+estos formatos. Lo dejo ahí para porque
+visteis una spread, cómo lo pongo en
+Interactive Brokers y cómo ah cómo
+ejecuto la operación.
+Ya está. A por otro. Gracias. Hasta
+luego.

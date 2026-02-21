@@ -1,35 +1,38 @@
+# descargar_transcripciones.py
 from youtube_transcript_api import YouTubeTranscriptApi
+from obtener_links import obtener_links_playlist
 from urllib.parse import urlparse, parse_qs
+import os
 
-def get_video_id(url):
-    query = urlparse(url)
-    if query.hostname == 'youtu.be':
-        return query.path[1:]
-    if query.hostname in ('www.youtube.com', 'youtube.com'):
-        return parse_qs(query.query).get('v', [None])[0]
-    return None
+def extraer_id(url):
+    return parse_qs(urlparse(url).query).get("v", [""])[0]
 
-def descargar_transcripcion(url, archivo_salida="transcripcion.txt"):
-    video_id = get_video_id(url)
-    if not video_id:
-        print("No se pudo extraer el ID del vídeo.")
-        return
+def guardar_transcripcion(video_id, transcript):
+    nombre_archivo = f"{video_id}.txt"
+    #nombre_archivo = os.path.join("lista", f"{video_id}.txt")
+    with open(nombre_archivo, "w", encoding="utf-8") as f:
+        for snippet in transcript:
+            f.write(snippet.text + "\n")
+    print(f"Transcripción guardada en {nombre_archivo}")
 
-    try:
-        # Usamos el método que tu instalación SÍ tiene
-        transcripts, _ = YouTubeTranscriptApi.get_transcripts([video_id], languages=['es', 'en'])
-        transcript = transcripts[video_id]
+def procesar_playlist(url_playlist=None):
+    ytt_api = YouTubeTranscriptApi()
 
-        with open(archivo_salida, "w", encoding="utf-8") as f:
-            for entry in transcript:
-                f.write(entry['text'] + "\n")
+    print("Obteniendo enlaces de la playlist...")
+    links = obtener_links_playlist(url_playlist)
 
-        print(f"Transcripción guardada en: {archivo_salida}")
+    print(f"Se han encontrado {len(links)} vídeos.\n")
 
-    except Exception as e:
-        print("Error al obtener la transcripción:", e)
+    for link in links:
+        video_id = extraer_id(link)
+        print(f"Procesando vídeo: {video_id}")
 
+        try:
+            transcript = ytt_api.fetch(video_id, languages=['es'])
+            guardar_transcripcion(video_id, transcript)
+        except Exception as e:
+            print(f"No se pudo obtener la transcripción de {video_id}: {e}")
 
-# Ejemplo de uso
-url_video = "https://www.youtube.com/watch?v=bsqLYAg-brU&list=PLp2uuQBLuFrnx3UIB1M6cE8VOzpG8udRN&index=1&pp=iAQB"
-descargar_transcripcion(url_video)
+if __name__ == "__main__":
+    # Si no pasas nada, usa la playlist por defecto
+    procesar_playlist()
