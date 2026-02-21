@@ -1,21 +1,11 @@
-import requests
+from youtube_transcript_api import YouTubeTranscriptApi
 
-API_TOKEN = "AQUÍ_TU_TOKEN"  # Debes poner tu token real
-VIDEO_ID = "jNQXAC9IVRw"
+ytt_api = YouTubeTranscriptApi()
+video_id = "bsqLYAg-brU"
+fetched_transcript=ytt_api.fetch(video_id, languages=['es'])
 
-url = "https://www.youtube-transcript.io/api/transcripts"
+# is iterable
+for snippet in fetched_transcript:
+    print(snippet.text)
 
-headers = {
-    "Authorization": f"Basic {API_TOKEN}",
-    "Content-Type": "application/json"
-}
-
-payload = {
-    "ids": [VIDEO_ID]
-}
-
-response = requests.post(url, headers=headers, json=payload)
-
-print("Código:", response.status_code)
-print("Respuesta:")
-print(response.json())
+#url_video = "https://www.youtube.com/watch?v=bsqLYAg-brU&list=PLp2uuQBLuFrnx3UIB1M6cE8VOzpG8udRN&index=1&pp=iAQB"
