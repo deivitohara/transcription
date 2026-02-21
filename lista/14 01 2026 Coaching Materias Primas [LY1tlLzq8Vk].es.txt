@@ -1,0 +1,8168 @@
+1
+00:00:00,160 --> 00:00:03,679
+¿Cómo estamos?
+
+2
+00:00:02,159 --> 00:00:08,440
+Bien, bien.
+
+3
+00:00:03,679 --> 00:00:10,679
+Señores traders, eh, ayer falló
+
+4
+00:00:08,440 --> 00:00:12,200
+ayer, ayer falló la conexión a Euro
+
+5
+00:00:10,679 --> 00:00:14,000
+Eurex,
+
+6
+00:00:12,200 --> 00:00:14,719
+me están diciendo los brokers, así que
+
+7
+00:00:14,000 --> 00:00:18,480
+hay que
+
+8
+00:00:14,719 --> 00:00:19,000
+traders. Ayer falló,
+
+9
+00:00:18,480 --> 00:00:21,240
+espera,
+
+10
+00:00:19,000 --> 00:00:23,880
+ayer, ayer falló la conexión a euro
+
+11
+00:00:21,240 --> 00:00:26,880
+euros. Va, eso lo he quitado porque es
+
+12
+00:00:23,880 --> 00:00:26,880
+duplicado.
+
+13
+00:00:28,800 --> 00:00:35,320
+Vamos a ver cómo me hago yo cosas cosas
+
+14
+00:00:30,759 --> 00:00:37,280
+bonitas aquí en Zoom. Em,
+
+15
+00:00:35,320 --> 00:00:38,360
+Santiago, buenas tardes.
+
+16
+00:00:37,280 --> 00:00:39,840
+Buenas tardes,
+
+17
+00:00:38,360 --> 00:00:42,000
+David, buenas tardes. José Manuel,
+
+18
+00:00:39,840 --> 00:00:44,120
+buenas tardes. Todo el mundo, buenas
+
+19
+00:00:42,000 --> 00:00:46,960
+tardes.
+
+20
+00:00:44,120 --> 00:00:50,600
+Javier, Manu,
+
+21
+00:00:46,960 --> 00:00:50,600
+Dere. Bien,
+
+22
+00:00:50,800 --> 00:00:56,879
+dicen que ha fallado la conexión del eh
+
+23
+00:00:53,079 --> 00:00:59,480
+la, ¿cómo se llama esto? del
+
+24
+00:00:56,879 --> 00:01:01,760
+tal y que los las operaciones de del VIX
+
+25
+00:00:59,480 --> 00:01:05,080
+europeo, ¿vale? Del VIX europeo se
+
+26
+00:01:01,760 --> 00:01:07,040
+tienen que se tienen que mirar porque ha
+
+27
+00:01:05,080 --> 00:01:09,640
+fallado y hay que volver a poner las
+
+28
+00:01:07,040 --> 00:01:12,880
+conexiones.
+
+29
+00:01:09,640 --> 00:01:15,040
+¿Alguien sabe? O sea, no salió a mí no
+
+30
+00:01:12,880 --> 00:01:16,880
+me salió la orden.
+
+31
+00:01:15,040 --> 00:01:18,720
+Se canceló como la orden. Está ahí
+
+32
+00:01:16,880 --> 00:01:20,720
+pendiente. Es cancélala y vuelve a
+
+33
+00:01:18,720 --> 00:01:22,920
+ponerla.
+
+34
+00:01:20,720 --> 00:01:25,840
+Ah, fue lo que hice igual.
+
+35
+00:01:22,920 --> 00:01:28,280
+O sea, la orden que le había puesto en
+
+36
+00:01:25,840 --> 00:01:29,840
+Good Deal Cancel se me no estaba más y
+
+37
+00:01:28,280 --> 00:01:31,640
+la puse de vuelta.
+
+38
+00:01:29,840 --> 00:01:34,840
+Sí, es como que se desconectó. Yo
+
+39
+00:01:31,640 --> 00:01:36,360
+también he visto ayer cosas raras. Ayer
+
+40
+00:01:34,840 --> 00:01:40,560
+otra vez
+
+41
+00:01:36,360 --> 00:01:43,560
+petaron las órdenes de stop del SPX.
+
+42
+00:01:40,560 --> 00:01:43,560
+Vale,
+
+43
+00:01:43,720 --> 00:01:48,840
+lo digo porque claro, las cosas como
+
+44
+00:01:46,799 --> 00:01:51,560
+son.
+
+45
+00:01:48,840 --> 00:01:53,600
+Inicio de sesión, he perdido pasta hoy.
+
+46
+00:01:51,560 --> 00:01:55,920
+Lo hecho desde está esperando mi hija,
+
+47
+00:01:53,600 --> 00:01:57,039
+pero no no ha ido bien
+
+48
+00:01:55,920 --> 00:01:58,159
+también,
+
+49
+00:01:57,039 --> 00:02:00,039
+¿eh? Para
+
+50
+00:01:58,159 --> 00:02:03,240
+Pero, ¿sabes sabes por qué? ¿Sabes por
+
+51
+00:02:00,039 --> 00:02:04,840
+qué perdí? Por no respetar
+
+52
+00:02:03,240 --> 00:02:06,840
+no respetar la estrategia. Si le hubiera
+
+53
+00:02:04,840 --> 00:02:07,520
+dejado los 5 minutos correr, creo que ha
+
+54
+00:02:06,840 --> 00:02:09,160
+ganado
+
+55
+00:02:07,520 --> 00:02:11,480
+no, no he ganado, no ha ganado 5
+
+56
+00:02:09,160 --> 00:02:11,959
+minutos. No, él tampoco ha ganado.
+
+57
+00:02:11,480 --> 00:02:12,560
+No,
+
+58
+00:02:11,959 --> 00:02:15,000
+bien.
+
+59
+00:02:12,560 --> 00:02:16,800
+No ha ganado. Ha salido,
+
+60
+00:02:15,000 --> 00:02:18,519
+eh,
+
+61
+00:02:16,800 --> 00:02:19,680
+a ver, te lo digo
+
+62
+00:02:18,519 --> 00:02:22,360
+yo. ¿Dónde me salí?
+
+63
+00:02:19,680 --> 00:02:25,440
+Ha perdido, ha perdido estos
+
+64
+00:02:22,360 --> 00:02:28,080
+60, 70 pavos por operación. A ver,
+
+65
+00:02:25,440 --> 00:02:30,480
+lleva lleva lleva dos malas. También es
+
+66
+00:02:28,080 --> 00:02:32,800
+verdad que está algo pasa en el mercado
+
+67
+00:02:30,480 --> 00:02:34,720
+y y
+
+68
+00:02:32,800 --> 00:02:36,120
+recuerdas hace una semana antes de
+
+69
+00:02:34,720 --> 00:02:37,760
+Navidad cuando estábamos operando y
+
+70
+00:02:36,120 --> 00:02:39,080
+decíamos, [ __ ] en corto de Nashdaq no
+
+71
+00:02:37,760 --> 00:02:42,280
+me pongo, el corto de Nashdack no me
+
+72
+00:02:39,080 --> 00:02:44,159
+pongo. Pues ahora es la misma sensación
+
+73
+00:02:42,280 --> 00:02:46,159
+de el largo del Nashdaq no me pongo, el
+
+74
+00:02:44,159 --> 00:02:48,560
+largo de Naras no me pongo. Son
+
+75
+00:02:46,159 --> 00:02:51,640
+estadísticas, ¿vale? Eh, en principio
+
+76
+00:02:48,560 --> 00:02:52,879
+pues ya veremos por dónde va.
+
+77
+00:02:51,640 --> 00:02:54,879
+Yo lo sigo haciendo, es decir, no
+
+78
+00:02:52,879 --> 00:02:59,480
+tampoco es son pérdidas de 100 pavos por
+
+79
+00:02:54,879 --> 00:03:02,480
+lote, pues para mí es aguantable.
+
+80
+00:02:59,480 --> 00:03:02,480
+Ah,
+
+81
+00:03:02,720 --> 00:03:09,000
+vale. ¿Qué más quería decir yo?
+
+82
+00:03:06,200 --> 00:03:13,640
+Ah, eso de del del tal que se ha hecho
+
+83
+00:03:09,000 --> 00:03:17,480
+está bien. Ah, okay. Está cayendo, está
+
+84
+00:03:13,640 --> 00:03:20,000
+está poniéndose guapetón esto, ¿no?
+
+85
+00:03:17,480 --> 00:03:22,720
+A ver,
+
+86
+00:03:20,000 --> 00:03:25,920
+el gas con tan poco como hay en Europa,
+
+87
+00:03:22,720 --> 00:03:29,920
+¿cómo es que está cayendo tanto?
+
+88
+00:03:25,920 --> 00:03:33,400
+Pues respóndete a tu propia pregunta
+
+89
+00:03:29,920 --> 00:03:35,120
+porque viene la sesión de horas bajas
+
+90
+00:03:33,400 --> 00:03:37,159
+del gas.
+
+91
+00:03:35,120 --> 00:03:40,000
+No,
+
+92
+00:03:37,159 --> 00:03:42,599
+no, sino fácilmente.
+
+93
+00:03:40,000 --> 00:03:43,480
+Es que da igual que esté en Europa.
+
+94
+00:03:42,599 --> 00:03:45,000
+Vale,
+
+95
+00:03:43,480 --> 00:03:46,319
+bueno, me da,
+
+96
+00:03:45,000 --> 00:03:49,159
+¿verdad? Da igual que en Estados Unidos
+
+97
+00:03:46,319 --> 00:03:51,319
+tengas mucho gas. Es como en la
+
+98
+00:03:49,159 --> 00:03:53,480
+discoteca de enfrente hay un montón de
+
+99
+00:03:51,319 --> 00:03:55,920
+tías, sí, pero la nuestra no. ¿Me
+
+100
+00:03:53,480 --> 00:03:57,200
+entiendes? Vamos aar. Pues no, porque no
+
+101
+00:03:55,920 --> 00:03:59,079
+vienen las tías, ¿me entiendes? Es
+
+102
+00:03:57,200 --> 00:04:01,720
+decir, quieren venir a nuestra
+
+103
+00:03:59,079 --> 00:04:04,439
+discoteca, no hay cómo es decir, eh, no
+
+104
+00:04:01,720 --> 00:04:08,159
+hay un muro en medio y no llega, no. Tú
+
+105
+00:04:04,439 --> 00:04:09,920
+ten en cuenta que, a ver, esto como te
+
+106
+00:04:08,159 --> 00:04:12,760
+pediré que me ayudes en en cosas de este
+
+107
+00:04:09,920 --> 00:04:15,159
+tipo. Es decir,
+
+108
+00:04:12,760 --> 00:04:18,799
+la capacidad de exportación de gas
+
+109
+00:04:15,159 --> 00:04:21,479
+liquificado es X, ¿vale? La única forma
+
+110
+00:04:18,799 --> 00:04:23,360
+de traer gas a Europa es mediante gas
+
+111
+00:04:21,479 --> 00:04:26,800
+liquificado. No se puede otra forma,
+
+112
+00:04:23,360 --> 00:04:29,039
+¿no? Hay. dices, si pusiéramos todos los
+
+113
+00:04:26,800 --> 00:04:31,199
+todos los barcos del mundo a traer gas,
+
+114
+00:04:29,039 --> 00:04:36,720
+también nos tenemos que preguntar cuánta
+
+115
+00:04:31,199 --> 00:04:39,720
+es la capacidad de ah de los terminales
+
+116
+00:04:36,720 --> 00:04:42,120
+de liquified natural gas en Europa, por
+
+117
+00:04:39,720 --> 00:04:43,880
+ejemplo, en Reus tenéis uno, en
+
+118
+00:04:42,120 --> 00:04:48,840
+Tarragona o Reus, pues da igual, en la
+
+119
+00:04:43,880 --> 00:04:51,560
+zona de delante tenéis uno, pero este eh
+
+120
+00:04:48,840 --> 00:04:53,680
+los franceses no han dejado que pase la
+
+121
+00:04:51,560 --> 00:04:55,600
+tubería a Francia porque Francia no
+
+122
+00:04:53,680 --> 00:05:03,160
+quiere gas para que cregas cuando tiene
+
+123
+00:04:55,600 --> 00:05:03,160
+tiene átomo. Vale, entonces e ah
+
+124
+00:05:04,880 --> 00:05:09,000
+sí, ahora miraremos lo de registration
+
+125
+00:05:06,919 --> 00:05:12,560
+form advantage y los de advantage y las
+
+126
+00:05:09,000 --> 00:05:13,960
+tonterías suyas, pero sí. Ah, entonces,
+
+127
+00:05:12,560 --> 00:05:16,840
+por ejemplo, el terminal de Tarragona
+
+128
+00:05:13,960 --> 00:05:19,000
+siempre suele ir muy lleno porque como
+
+129
+00:05:16,840 --> 00:05:20,840
+que o lo consumes en la zona o no lo
+
+130
+00:05:19,000 --> 00:05:23,000
+puedes explotar, pero en vosotros en
+
+131
+00:05:20,840 --> 00:05:25,400
+España tenéis mucha generación de viento
+
+132
+00:05:23,000 --> 00:05:27,080
+y mucha generación solar, entonces no se
+
+133
+00:05:25,400 --> 00:05:29,639
+utiliza tanto gas. Entonces tenemos
+
+134
+00:05:27,080 --> 00:05:31,360
+otros terminales, pero si los toks al
+
+135
+00:05:29,639 --> 00:05:34,000
+lado del terminal están llenos, no
+
+136
+00:05:31,360 --> 00:05:36,199
+pueden descargarlo. Entonces es un río.
+
+137
+00:05:34,000 --> 00:05:38,720
+Europa está muy A ver, Europa tenía
+
+138
+00:05:36,199 --> 00:05:41,800
+solucionado todo de [ __ ] madre con los
+
+139
+00:05:38,720 --> 00:05:44,360
+rusos, ¿vale? Pero el problema es que
+
+140
+00:05:41,800 --> 00:05:46,479
+ahora soluciona, estamos pagando el gas.
+
+141
+00:05:44,360 --> 00:05:48,800
+El otro día leí un artículo al armista,
+
+142
+00:05:46,479 --> 00:05:50,720
+por supuesto, en el artículo se decía
+
+143
+00:05:48,800 --> 00:05:52,919
+que desde la guerra estamos todo el gas
+
+144
+00:05:50,720 --> 00:05:55,560
+que hemos comprado lo hemos pagado al
+
+145
+00:05:52,919 --> 00:05:58,080
+triple del precio de lo que estaba se lo
+
+146
+00:05:55,560 --> 00:06:01,520
+estábamos pagando los rusos. Tú dices,
+
+147
+00:05:58,080 --> 00:06:03,440
+"Good, ah, pues no, no muy good." Y da
+
+148
+00:06:01,520 --> 00:06:05,120
+igual si tú en Europa, ahora el problema
+
+149
+00:06:03,440 --> 00:06:07,759
+de Europa, eso creo que lo expliqué en
+
+150
+00:06:05,120 --> 00:06:09,720
+el curso de gas, en el curso de que el
+
+151
+00:06:07,759 --> 00:06:13,039
+problema es cuando
+
+152
+00:06:09,720 --> 00:06:18,160
+eh cuando te quedas con poco gas,
+
+153
+00:06:13,039 --> 00:06:21,400
+¿vale?, en los en los sitios estos, eh,
+
+154
+00:06:18,160 --> 00:06:23,000
+se ve que se crea un líquido, ¿vale? Y
+
+155
+00:06:21,400 --> 00:06:24,720
+este líquido, ya sabéis, hay un montón
+
+156
+00:06:23,000 --> 00:06:27,000
+en cada pueblo, en cada zona, hay bombas
+
+157
+00:06:24,720 --> 00:06:30,080
+de gas y ese líquido se va por las
+
+158
+00:06:27,000 --> 00:06:33,319
+tuberías, ¿vale? Y cuando quedan 20 30%
+
+159
+00:06:30,080 --> 00:06:35,120
+hay muy poca presión y hay mucho líquido
+
+160
+00:06:33,319 --> 00:06:37,599
+y ese líquido se mete por las tuberías y
+
+161
+00:06:35,120 --> 00:06:40,120
+se congelan las bombas de gas. En
+
+162
+00:06:37,599 --> 00:06:42,479
+Hungría tenemos el riesgo y ha pasado ya
+
+163
+00:06:40,120 --> 00:06:45,080
+de que si nos quedamos sin gas, el
+
+164
+00:06:42,479 --> 00:06:48,039
+problema es que que hay 30 40% de gas,
+
+165
+00:06:45,080 --> 00:06:49,639
+pero si se congelan las bombas no se
+
+166
+00:06:48,039 --> 00:06:51,759
+puede bombear gas y nos vamos a quedar
+
+167
+00:06:49,639 --> 00:06:55,599
+sin gas. Ya, ya están diciendo de que no
+
+168
+00:06:51,759 --> 00:06:58,360
+estamos bien, ¿vale? Y mira que nosotros
+
+169
+00:06:55,599 --> 00:07:00,879
+somos los únicos, no sé, pero casi los
+
+170
+00:06:58,360 --> 00:07:04,160
+únicos del queridísimo
+
+171
+00:07:00,879 --> 00:07:06,840
+eh, ¿cómo se llama?, del queridísimo
+
+172
+00:07:04,160 --> 00:07:08,599
+mercado europeo, ¿vale? del mercado
+
+173
+00:07:06,840 --> 00:07:10,639
+europeo, donde tenemos derecho a
+
+174
+00:07:08,599 --> 00:07:12,280
+importar gas ruso. Ya sabéis que
+
+175
+00:07:10,639 --> 00:07:15,360
+nosotros podemos utilizarlo porque
+
+176
+00:07:12,280 --> 00:07:17,160
+nuestro amigo el pequeño, eh ha ido a
+
+177
+00:07:15,360 --> 00:07:19,479
+Rusia y ha negociado unas condiciones
+
+178
+00:07:17,160 --> 00:07:21,720
+especiales para él, supongo. Y nosotros
+
+179
+00:07:19,479 --> 00:07:23,039
+pagamos y él cobra, ¿no? Pero nosotros
+
+180
+00:07:21,720 --> 00:07:25,680
+tenemos gas. El problema es que han
+
+181
+00:07:23,039 --> 00:07:28,960
+bombardeado la una de las zonas más
+
+182
+00:07:25,680 --> 00:07:31,520
+importantes de del depósito subterráneo
+
+183
+00:07:28,960 --> 00:07:34,599
+de gas de Ucraina, eh, y tampoco hay
+
+184
+00:07:31,520 --> 00:07:36,479
+gas. Entonces,
+
+185
+00:07:34,599 --> 00:07:39,280
+ten en cuenta el problema. ¿Cuál es?
+
+186
+00:07:36,479 --> 00:07:41,759
+Eh, que eneconomía explicaron que en
+
+187
+00:07:39,280 --> 00:07:45,240
+Europa hay mucha planta de biogas y se
+
+188
+00:07:41,759 --> 00:07:48,360
+está utilizando muchísimo biogas.
+
+189
+00:07:45,240 --> 00:07:50,000
+Sí, pero a ver, esto pues muchísimas
+
+190
+00:07:48,360 --> 00:07:52,800
+plantas de biogas te puede producir el
+
+191
+00:07:50,000 --> 00:07:54,360
+0,5% del consumo, ¿no? No, hablaron de
+
+192
+00:07:52,800 --> 00:07:56,240
+una cantidad, bueno, no te sé decir, lo
+
+193
+00:07:54,360 --> 00:07:58,840
+escuché hace ya un par de semanas, pero
+
+194
+00:07:56,240 --> 00:08:01,199
+una cantidad respetable
+
+195
+00:07:58,840 --> 00:08:03,720
+y vamos, hablaban de las plantas que
+
+196
+00:08:01,199 --> 00:08:06,840
+había por país y yo que sé, pues 200
+
+197
+00:08:03,720 --> 00:08:07,520
+plantas en España, 50 en Italia o una
+
+198
+00:08:06,840 --> 00:08:09,159
+cosa así.
+
+199
+00:08:07,520 --> 00:08:13,599
+Sí, yo tengo amigos que tienen plantas
+
+200
+00:08:09,159 --> 00:08:13,599
+de biogas, están arruinados.
+
+201
+00:08:15,400 --> 00:08:19,440
+Dido, está arruinado,
+
+202
+00:08:17,479 --> 00:08:22,520
+¿eh? No, no es no es un no es el negocio
+
+203
+00:08:19,440 --> 00:08:25,520
+del siglo. No, no. A uno le arruinaron
+
+204
+00:08:22,520 --> 00:08:29,039
+apuesta porque construyó la planta de
+
+205
+00:08:25,520 --> 00:08:32,519
+biogas al lado de una de de estos de de
+
+206
+00:08:29,039 --> 00:08:34,320
+de tenían vacas, ¿vale? Y un día el que
+
+207
+00:08:32,519 --> 00:08:36,959
+le vendía la [ __ ] a la vaca decidió no
+
+208
+00:08:34,320 --> 00:08:39,159
+verércelo y ya está. Dice, "Métete las
+
+209
+00:08:36,959 --> 00:08:40,959
+plantas por donde quieras, que hasta
+
+210
+00:08:39,159 --> 00:08:43,399
+ahora lo están arruinando y está en su
+
+211
+00:08:40,959 --> 00:08:46,120
+basta para comprarla.
+
+212
+00:08:43,399 --> 00:08:48,000
+cosas de de cosas de mercados. Pero sí,
+
+213
+00:08:46,120 --> 00:08:51,000
+yo yo, hombre, voy a hablar, voy a,
+
+214
+00:08:48,000 --> 00:08:52,399
+mira, mi amigo es el el jefe eh es el
+
+215
+00:08:51,000 --> 00:08:55,040
+máximo responsable de energía de aquí
+
+216
+00:08:52,399 --> 00:08:56,519
+del país. Voy a preguntárselo que cuánto
+
+217
+00:08:55,040 --> 00:08:58,480
+es la ponderación de las plantas de
+
+218
+00:08:56,519 --> 00:09:00,320
+biogas en Europa, pero creo que no es
+
+219
+00:08:58,480 --> 00:09:03,320
+grande y se podría se podría buscar,
+
+220
+00:09:00,320 --> 00:09:06,079
+pero no es una yo creo que no es una no
+
+221
+00:09:03,320 --> 00:09:08,519
+es una cantidad no es una cantidad muy
+
+222
+00:09:06,079 --> 00:09:10,959
+importante, pero de cualquier forma hay
+
+223
+00:09:08,519 --> 00:09:13,920
+más tipos de energía, ¿no?, que podemos
+
+224
+00:09:10,959 --> 00:09:15,800
+utilizar. Pero si baja mucho y sigue
+
+225
+00:09:13,920 --> 00:09:19,320
+haciendo frío y lo que me dice Edit, mi
+
+226
+00:09:15,800 --> 00:09:21,560
+mujer o que parece que en Hungría, en
+
+227
+00:09:19,320 --> 00:09:24,240
+esta zona de Hungría, tendremos hasta
+
+228
+00:09:21,560 --> 00:09:29,040
+mitad de abril las temperaturas, no no
+
+229
+00:09:24,240 --> 00:09:30,000
+superarán los 10 12 gr y eso es mucho.
+
+230
+00:09:29,040 --> 00:09:31,000
+10 12 gr
+
+231
+00:09:30,000 --> 00:09:33,040
+mucho frío.
+
+232
+00:09:31,000 --> 00:09:35,399
+Mucho frío. Sí, sí, porque ahora hace
+
+233
+00:09:33,040 --> 00:09:40,560
+frío, ¿vale? Ahora llevamos 3 semanas
+
+234
+00:09:35,399 --> 00:09:44,560
+con -6, -7, 0, -1, -14. Pero la idea,
+
+235
+00:09:40,560 --> 00:09:46,480
+¿cuál sería? La idea sería ah eh empezar
+
+236
+00:09:44,560 --> 00:09:48,839
+a tener pues que se caliente un poquito,
+
+237
+00:09:46,480 --> 00:09:50,480
+pero parece que no se calentará. Eso es
+
+238
+00:09:48,839 --> 00:09:51,920
+mucho frío. Sí, yo también estoy estoy
+
+239
+00:09:50,480 --> 00:09:55,480
+empezando a estar hasta los huevos del
+
+240
+00:09:51,920 --> 00:09:55,480
+frío, pero sí.
+
+241
+00:09:57,680 --> 00:10:03,800
+¿Qué más, hombre? Y el gas y por eso
+
+242
+00:10:00,480 --> 00:10:07,000
+vemos que el gas en el gas en A ver si a
+
+243
+00:10:03,800 --> 00:10:10,519
+ver si se nota. A ver, mira esto. Vamos
+
+244
+00:10:07,000 --> 00:10:10,519
+a empezar así.
+
+245
+00:10:26,279 --> 00:10:30,920
+Mm. ¿Lo veis? El TTFC ya está subiendo.
+
+246
+00:10:32,120 --> 00:10:37,399
+¿Te saliste de los feeders?
+
+247
+00:10:34,640 --> 00:10:40,000
+Yo no, yo yo tengo los lejanos. Vosotros
+
+248
+00:10:37,399 --> 00:10:43,000
+sois los grandes que operáis el cercano.
+
+249
+00:10:40,000 --> 00:10:43,000
+No,
+
+250
+00:10:43,120 --> 00:10:50,320
+yo tengo el el que el que entraste ayer.
+
+251
+00:10:46,600 --> 00:10:52,760
+Entré a 2900, tío. Aún no. No,
+
+252
+00:10:50,320 --> 00:10:55,760
+yo salí en dos
+
+253
+00:10:52,760 --> 00:10:55,760
+2800
+
+254
+00:10:57,200 --> 00:11:04,560
+2625. Tengo la orden de salida. Miraros,
+
+255
+00:11:00,800 --> 00:11:07,560
+esto es el TTF, ¿vale?
+
+256
+00:11:04,560 --> 00:11:07,560
+¿Veis?
+
+257
+00:11:10,680 --> 00:11:16,600
+El TTF es el gas natural de tal. Pues
+
+258
+00:11:13,639 --> 00:11:18,160
+sí, Europa en Estados Unidos baja. ¿Veis
+
+259
+00:11:16,600 --> 00:11:21,160
+en la estoy compartiendo? No, estoy
+
+260
+00:11:18,160 --> 00:11:21,160
+compartiendo.
+
+261
+00:11:21,399 --> 00:11:26,240
+Lo ves en en aquí sube y aquí baja. Es
+
+262
+00:11:23,720 --> 00:11:29,200
+decir, el gas natural y eso es el TTF. Y
+
+263
+00:11:26,240 --> 00:11:31,440
+luego tenemos este otro que el esto es
+
+264
+00:11:29,200 --> 00:11:35,800
+el japo
+
+265
+00:11:31,440 --> 00:11:38,040
+y este es uno inglés. Este,
+
+266
+00:11:35,800 --> 00:11:39,880
+¿y por qué no me los pones, cabrón? Ah,
+
+267
+00:11:38,040 --> 00:11:42,880
+porque está en 30 minutos. Igual esto va
+
+268
+00:11:39,880 --> 00:11:42,880
+por
+
+269
+00:11:43,680 --> 00:11:47,600
+el referencias mundiales están están
+
+270
+00:11:45,959 --> 00:11:49,680
+cayendo,
+
+271
+00:11:47,600 --> 00:11:52,839
+están subiendo.
+
+272
+00:11:49,680 --> 00:11:57,480
+Vale, hace frío en Europa, eso es
+
+273
+00:11:52,839 --> 00:12:02,680
+Inglaterra y Europa. El TTFG, el JM, no,
+
+274
+00:11:57,480 --> 00:12:02,680
+en NPG. Esto esto es Inglaterra.
+
+275
+00:12:04,160 --> 00:12:12,519
+Vale, esto es Inglaterra,
+
+276
+00:12:07,360 --> 00:12:15,000
+esto es el el Holanda y no, esto es
+
+277
+00:12:12,519 --> 00:12:18,279
+Inglaterra, esto es Holanda y el JKMG.
+
+278
+00:12:15,000 --> 00:12:22,519
+Esto es eh, ¿cómo se llama? Tokio. Es
+
+279
+00:12:18,279 --> 00:12:24,680
+una entrega en Tokio, ¿vale?
+
+280
+00:12:22,519 --> 00:12:26,959
+Y tú dices, "¿Y el gas que ha hecho
+
+281
+00:12:24,680 --> 00:12:29,199
+esto, ¿por qué lo ha hecho esto?"
+
+282
+00:12:26,959 --> 00:12:32,079
+Eh,
+
+283
+00:12:29,199 --> 00:12:33,839
+ningún sentido, tío, ningún sentido. Yo
+
+284
+00:12:32,079 --> 00:12:37,040
+no esto yo yo no he entendido el
+
+285
+00:12:33,839 --> 00:12:39,160
+movimiento que ha pasado ahí y y claro y
+
+286
+00:12:37,040 --> 00:12:41,480
+y lo han correg y luego no ha entendido
+
+287
+00:12:39,160 --> 00:12:44,160
+el la corrección tan fuerte que ha
+
+288
+00:12:41,480 --> 00:12:45,760
+hecho.
+
+289
+00:12:44,160 --> 00:12:47,760
+Pero así es el mercado de gasat que le
+
+290
+00:12:45,760 --> 00:12:49,680
+vamos a hacer. Nosotros recemos, la
+
+291
+00:12:47,760 --> 00:12:53,040
+mariposa está bajando, ya empieza a
+
+292
+00:12:49,680 --> 00:12:53,040
+hacer sus tikios,
+
+293
+00:12:53,480 --> 00:12:58,639
+eso es tal. Ah, sí. Explicación. ¿Qué es
+
+294
+00:12:55,680 --> 00:13:03,000
+tikiitaca? No, porque creo que hay gente
+
+295
+00:12:58,639 --> 00:13:05,600
+nueva y también es una expresión. Ah,
+
+296
+00:13:03,000 --> 00:13:08,600
+tampoco es una es una expresión José
+
+297
+00:13:05,600 --> 00:13:08,600
+Manuel.
+
+298
+00:13:11,839 --> 00:13:15,519
+En España la expresión tiquitaca es
+
+299
+00:13:14,399 --> 00:13:17,800
+conocida.
+
+300
+00:13:15,519 --> 00:13:20,000
+Sí, era el el el chico este, el de este
+
+301
+00:13:17,800 --> 00:13:22,240
+falleció, ¿no? El el tal. A ver, en
+
+302
+00:13:20,000 --> 00:13:23,880
+Tiga, me refiero a operaciones cuando
+
+303
+00:13:22,240 --> 00:13:26,240
+encontramos una spread que se empieza a
+
+304
+00:13:23,880 --> 00:13:28,519
+mover un rango y le ponemos rangos muy
+
+305
+00:13:26,240 --> 00:13:31,720
+pequeños de precios donde intentamos
+
+306
+00:13:28,519 --> 00:13:33,440
+comprar y vender. Básicamente si te si
+
+307
+00:13:31,720 --> 00:13:37,279
+el ejemplo de ayer, que ayer lo vimos,
+
+308
+00:13:33,440 --> 00:13:40,519
+¿vale? Es decir, aquí tenéis unas vacas,
+
+309
+00:13:37,279 --> 00:13:43,839
+unas vacas que inclusive me han salido.
+
+310
+00:13:40,519 --> 00:13:45,399
+Vale, ¿lo veis? No, [ __ ] No me lo
+
+311
+00:13:43,839 --> 00:13:47,639
+veis. El punto azul es donde se ha
+
+312
+00:13:45,399 --> 00:13:49,680
+vendido, ¿no? El punto azul es donde se
+
+313
+00:13:47,639 --> 00:13:52,560
+ha comprado y tengo otro nivel más
+
+314
+00:13:49,680 --> 00:13:55,360
+abajo. Vale, yo tengo aquí en este he
+
+315
+00:13:52,560 --> 00:13:57,040
+puesto ayer 750, creo, si no miraron en
+
+316
+00:13:55,360 --> 00:13:59,600
+el siguiente vídeo. Hemos puesto una
+
+317
+00:13:57,040 --> 00:14:01,720
+aquí, ya se me ha cerrado. Este es otro
+
+318
+00:13:59,600 --> 00:14:04,079
+nivel de otra. Si esta se me cierra, se
+
+319
+00:14:01,720 --> 00:14:05,880
+me puede una vender por aquí. Entonces
+
+320
+00:14:04,079 --> 00:14:09,720
+si que es el significado de tikiita es
+
+321
+00:14:05,880 --> 00:14:13,040
+básicamente sube, vendes, compras,
+
+322
+00:14:09,720 --> 00:14:15,480
+vendes, compras, vendes. Aquí a lo mejor
+
+323
+00:14:13,040 --> 00:14:19,240
+no, aquí te quedas bloqueado. Aquí a lo
+
+324
+00:14:15,480 --> 00:14:21,440
+mejor puedes comprar. Aquí, aquí, aquí.
+
+325
+00:14:19,240 --> 00:14:26,639
+Vendes, compras,
+
+326
+00:14:21,440 --> 00:14:28,560
+compras, vendes, compras, vendes. Vale,
+
+327
+00:14:26,639 --> 00:14:30,720
+lo que tenemos que entender en en los
+
+328
+00:14:28,560 --> 00:14:35,240
+presquos,
+
+329
+00:14:30,720 --> 00:14:38,279
+hay menos gente. Al haber menos gente en
+
+330
+00:14:35,240 --> 00:14:39,959
+los prets lejanos, eh, cuando un
+
+331
+00:14:38,279 --> 00:14:43,839
+comercial
+
+332
+00:14:39,959 --> 00:14:46,279
+dedica o se mete a comprar, ¿vale?,
+
+333
+00:14:43,839 --> 00:14:50,399
+o a vender, te desequilibra un poquito
+
+334
+00:14:46,279 --> 00:14:52,480
+el spread y esas y esos movimientos eh
+
+335
+00:14:50,399 --> 00:14:55,360
+te hace que muchos de estos prets tenga
+
+336
+00:14:52,480 --> 00:14:57,120
+su estacionalidad. Greg,
+
+337
+00:14:55,360 --> 00:14:58,880
+febrero abrir de vacas. ¿Cómo es el
+
+338
+00:14:57,120 --> 00:15:01,600
+febrero abril de vacas? Pues te vienes
+
+339
+00:14:58,880 --> 00:15:04,639
+aquí, ¿ves? La cartera spread greg creo
+
+340
+00:15:01,600 --> 00:15:07,199
+que lo tengo en cartera,
+
+341
+00:15:04,639 --> 00:15:09,160
+¿eh? Pero si no lo buscas en season son
+
+342
+00:15:07,199 --> 00:15:10,639
+algo. Febrero, abril. Yo tengo
+
+343
+00:15:09,160 --> 00:15:13,440
+bastantes, eso es bueno. Pues eso es
+
+344
+00:15:10,639 --> 00:15:15,120
+dinero. E febrero, abril de vacas. Aquí
+
+345
+00:15:13,440 --> 00:15:18,160
+no lo ves aún porque es tan lejano que
+
+346
+00:15:15,120 --> 00:15:19,720
+que tal, pero lo pones el pattern y
+
+347
+00:15:18,160 --> 00:15:22,959
+dices, "Vale, vemos que esto es
+
+348
+00:15:19,720 --> 00:15:25,279
+bajista." Okay, es una spread bajista.
+
+349
+00:15:22,959 --> 00:15:27,639
+Entonces, tú puedes decir que en toda la
+
+350
+00:15:25,279 --> 00:15:31,279
+época que aún no hay estacionalidad
+
+351
+00:15:27,639 --> 00:15:33,360
+porque lo voy a enseñar bien, voy a
+
+352
+00:15:31,279 --> 00:15:36,240
+enseñar con algo de estacional, ¿vale?
+
+353
+00:15:33,360 --> 00:15:39,279
+Tú te coges un febrero, abril del 2026 y
+
+354
+00:15:36,240 --> 00:15:41,720
+sabes que 2027 será casi igual, ¿vale?
+
+355
+00:15:39,279 --> 00:15:42,959
+Esto es febrero, ¿okay? El mes que
+
+356
+00:15:41,720 --> 00:15:44,920
+viene. Entonces, aquí empezará la
+
+357
+00:15:42,959 --> 00:15:46,639
+estacionalidad, ¿okay? ¿Cómo es la
+
+358
+00:15:44,920 --> 00:15:48,560
+estacionalidad de este [ __ ] Pues la
+
+359
+00:15:46,639 --> 00:15:50,800
+estacionad de este [ __ ] es bajista.
+
+360
+00:15:48,560 --> 00:15:52,959
+¿Qué hizo el año pasado? Nos la metió
+
+361
+00:15:50,800 --> 00:15:54,440
+doblada, ¿vale? Entonces, yo ahí, ¿qué
+
+362
+00:15:52,959 --> 00:15:56,600
+hago? ¿Qué hago en esta
+
+363
+00:15:54,440 --> 00:15:58,519
+preestacionalidad? Vale, pues vamos a
+
+364
+00:15:56,600 --> 00:16:02,120
+llamarlo
+
+365
+00:15:58,519 --> 00:16:05,079
+preestacionalidad. No sé, pues yo veo
+
+366
+00:16:02,120 --> 00:16:08,959
+que el precio es alto. Okay. En este
+
+367
+00:16:05,079 --> 00:16:13,440
+caso yo veo que el precio es alto. Okay.
+
+368
+00:16:08,959 --> 00:16:14,920
+2026. Aquí me falta. Vale,
+
+369
+00:16:13,440 --> 00:16:17,680
+yo veo que el precio es alto, es decir,
+
+370
+00:16:14,920 --> 00:16:19,440
+nosotros ahora en este spread estamos
+
+371
+00:16:17,680 --> 00:16:23,079
+trabajando
+
+372
+00:16:19,440 --> 00:16:25,800
+hasta está más o menos aquí.
+
+373
+00:16:23,079 --> 00:16:28,199
+Si este es uno, pues ponle cerca de uno.
+
+374
+00:16:25,800 --> 00:16:30,839
+[ __ ] ¿qué precio tiene? ¿Es bueno?
+
+375
+00:16:28,199 --> 00:16:32,800
+¿Es malo? Está bien. Pues yo, ¿qué hago?
+
+376
+00:16:30,839 --> 00:16:34,680
+Vendo, compro, vendo, compro, vendo,
+
+377
+00:16:32,800 --> 00:16:37,040
+compro, vendo, compro. Luego cuando
+
+378
+00:16:34,680 --> 00:16:39,639
+empezar la estacionalidad, ¿okay? Cuando
+
+379
+00:16:37,040 --> 00:16:41,800
+empiece ya la estacionalidad
+
+380
+00:16:39,639 --> 00:16:44,319
+esta, pues a lo mejor aquí desde desde
+
+381
+00:16:41,800 --> 00:16:47,160
+marzo o si hago, imagínate que hago
+
+382
+00:16:44,319 --> 00:16:50,560
+cuatro lotes, pues de tikiitaca, pues
+
+383
+00:16:47,160 --> 00:16:53,560
+meteré otros cuatro más o vamos a poner
+
+384
+00:16:50,560 --> 00:16:55,240
+hago un lote de tiquitaca y un lote de
+
+385
+00:16:53,560 --> 00:16:57,800
+de que meteré cuándo cuando viene la
+
+386
+00:16:55,240 --> 00:16:58,839
+estacionalidad. ¿Por qué? Porque claro,
+
+387
+00:16:57,800 --> 00:17:00,600
+yo me quiero aprovechar de la
+
+388
+00:16:58,839 --> 00:17:02,720
+estacionaridad
+
+389
+00:17:00,600 --> 00:17:05,919
+y claro, si tú si tú entras y sales en
+
+390
+00:17:02,720 --> 00:17:08,199
+en un principio empezará a bajar, ¿okay?
+
+391
+00:17:05,919 --> 00:17:14,439
+y entonces no puedes seguir el precio.
+
+392
+00:17:08,199 --> 00:17:17,760
+Pero ah la idea viene de que
+
+393
+00:17:14,439 --> 00:17:20,880
+mi observación de los últimos muchísimos
+
+394
+00:17:17,760 --> 00:17:23,079
+años de que una spread eh tú en un
+
+395
+00:17:20,880 --> 00:17:25,520
+gráfico diario no lo ves, pero en un
+
+396
+00:17:23,079 --> 00:17:27,439
+gráfico normal ves claramente que tiene
+
+397
+00:17:25,520 --> 00:17:29,360
+un rango y se mueve mucho en este rango.
+
+398
+00:17:27,439 --> 00:17:31,320
+A lo mejor baja, pero sigue siendo un
+
+399
+00:17:29,360 --> 00:17:33,480
+rango bastante amplio porque es una
+
+400
+00:17:31,320 --> 00:17:35,160
+spread muy lejana y eso yo creo que hay
+
+401
+00:17:33,480 --> 00:17:37,200
+que aprovecharlo. Entonces, volviendo el
+
+402
+00:17:35,160 --> 00:17:39,360
+tikiita básicamente son operaciones
+
+403
+00:17:37,200 --> 00:17:41,760
+laterales. Son operaciones laterales que
+
+404
+00:17:39,360 --> 00:17:44,600
+yo pongo en los spreads y los trabajo
+
+405
+00:17:41,760 --> 00:17:47,919
+antes o durante la estacionalidad. No
+
+406
+00:17:44,600 --> 00:17:50,280
+tiene no tiene que estar ah solo después
+
+407
+00:17:47,919 --> 00:17:52,000
+de la estacionalidad. Este gráfico lo
+
+408
+00:17:50,280 --> 00:17:53,919
+conocemos, está puesto y lo mismo tengo
+
+409
+00:17:52,000 --> 00:17:56,919
+gas natural, en cerdos, por ejemplo,
+
+410
+00:17:53,919 --> 00:17:56,919
+cerdos.
+
+411
+00:17:56,960 --> 00:18:02,720
+Okay, pues cerditos cuberos. Mirad lo
+
+412
+00:18:00,679 --> 00:18:05,960
+que está haciendo.
+
+413
+00:18:02,720 --> 00:18:09,840
+Está rebotando. Me han salido ayer lotes
+
+414
+00:18:05,960 --> 00:18:12,559
+-03. Sí. Y estoy y estoy ahora pegando.
+
+415
+00:18:09,840 --> 00:18:14,320
+Acaban de entrar aquí en 150. Mira,
+
+416
+00:18:12,559 --> 00:18:17,320
+dentro de poco toca toca el siguiente
+
+417
+00:18:14,320 --> 00:18:17,320
+nivel.
+
+418
+00:18:17,720 --> 00:18:21,960
+A ver si esto los tengo a revés.
+
+419
+00:18:20,440 --> 00:18:24,039
+Ah, no, que son cerdos. Claro. Yo
+
+420
+00:18:21,960 --> 00:18:26,799
+mirando las vacas, ¿sabes? Y digo, "No
+
+421
+00:18:24,039 --> 00:18:29,679
+me Sí, aquí tengo otro nivel. Entrarán.
+
+422
+00:18:26,799 --> 00:18:34,880
+Aquí tengo otro nivel. Otro nivel. Esos
+
+423
+00:18:29,679 --> 00:18:38,240
+todas estas órdenes van con autocos.
+
+424
+00:18:34,880 --> 00:18:40,440
+Autocos significa que si se ejecuta me
+
+425
+00:18:38,240 --> 00:18:42,480
+pone la compra. Si se ejecuta me pone la
+
+426
+00:18:40,440 --> 00:18:45,200
+compra. Si se ejecuta, pone la compra.
+
+427
+00:18:42,480 --> 00:18:47,679
+¿Qué hago yo cada dos o tres días? Miro
+
+428
+00:18:45,200 --> 00:18:49,000
+la miro esta pantalla y si veo que no
+
+429
+00:18:47,679 --> 00:18:51,600
+tengo ninguna es que se me han
+
+430
+00:18:49,000 --> 00:18:53,440
+ejecutado. Porque claro, tú dices,
+
+431
+00:18:51,600 --> 00:18:55,000
+"¿Cuántos de cuántas pantallas de estas
+
+432
+00:18:53,440 --> 00:18:57,039
+tengo?" Pues ahora no tengo muchas
+
+433
+00:18:55,000 --> 00:18:58,880
+porque estamos arrancando el año. Tengo
+
+434
+00:18:57,039 --> 00:19:02,280
+siete o
+
+435
+00:18:58,880 --> 00:19:04,400
+vale siete o no llega. Una, dos, 3, cu,
+
+436
+00:19:02,280 --> 00:19:06,280
+no tengo muchas gas, no sé cuántas
+
+437
+00:19:04,400 --> 00:19:08,480
+tendré. Entonces, claro, todas no las
+
+438
+00:19:06,280 --> 00:19:10,720
+puedo. Debería virarlas todas, pero no
+
+439
+00:19:08,480 --> 00:19:13,799
+llego a virarlas todas, pero es una
+
+440
+00:19:10,720 --> 00:19:17,200
+forma de tenerlo. ¿Qué qué es lo que no
+
+441
+00:19:13,799 --> 00:19:20,000
+hago en tikiitacas? Por ejemplo, no
+
+442
+00:19:17,200 --> 00:19:22,000
+lleno, no relleno. Aquí tengo un nivel
+
+443
+00:19:20,000 --> 00:19:23,320
+alto. Esto inclusive lo quito y todo,
+
+444
+00:19:22,000 --> 00:19:25,880
+¿vale?
+
+445
+00:19:23,320 --> 00:19:29,200
+Este nivel quito.
+
+446
+00:19:25,880 --> 00:19:31,840
+¿Por qué no hago?
+
+447
+00:19:29,200 --> 00:19:33,760
+¿Por qué no pongo 10 niveles? No pongo
+
+448
+00:19:31,840 --> 00:19:37,000
+10 niveles porque tienes que tener en
+
+449
+00:19:33,760 --> 00:19:40,880
+cuenta que a veces estos bichos se fuman
+
+450
+00:19:37,000 --> 00:19:42,679
+un peta y te se plantan en dos y tú
+
+451
+00:19:40,880 --> 00:19:44,720
+dices, "¿Por qué se tenido a dos?" Pues
+
+452
+00:19:42,679 --> 00:19:47,080
+buena pregunta, porque tenía un montón
+
+453
+00:19:44,720 --> 00:19:49,880
+de órdenes de venta. Entonces, tú dices,
+
+454
+00:19:47,080 --> 00:19:52,440
+quiero hacer una zona, luego dejarlo que
+
+455
+00:19:49,880 --> 00:19:54,200
+extienda a dos, por ejemplo, y cuando he
+
+456
+00:19:52,440 --> 00:19:56,919
+extendido a dos, pues empezaré a
+
+457
+00:19:54,200 --> 00:19:59,400
+trabajar otra zona
+
+458
+00:19:56,919 --> 00:20:01,000
+y dos, no quiero acumular tanto al alza.
+
+459
+00:19:59,400 --> 00:20:03,360
+Estos órdenes de autooco, lo que me
+
+460
+00:20:01,000 --> 00:20:06,200
+permite es se ejecuta, se compra, se
+
+461
+00:20:03,360 --> 00:20:07,840
+ejecuta, se compra. El día que sabe
+
+462
+00:20:06,200 --> 00:20:10,720
+programar y tener dinero para pagar a
+
+463
+00:20:07,840 --> 00:20:13,600
+alguien, pues la idea a lo mejor podría
+
+464
+00:20:10,720 --> 00:20:15,720
+ser la de hacer un poquito más
+
+465
+00:20:13,600 --> 00:20:17,600
+automatismos, ¿no? Pero no lleg no
+
+466
+00:20:15,720 --> 00:20:20,039
+llegamos a tanto, ¿vale? Tanto no
+
+467
+00:20:17,600 --> 00:20:23,760
+llegamos. Pero tikiitaca, básicamente es
+
+468
+00:20:20,039 --> 00:20:27,679
+cuando nos referimos a tikiitaca es ah
+
+469
+00:20:23,760 --> 00:20:31,559
+órdenes a muy corto que que realmente
+
+470
+00:20:27,679 --> 00:20:33,400
+están ah buscando un rango muy pequeño.
+
+471
+00:20:31,559 --> 00:20:34,840
+Claro. ¿Qué rangos estamos buscando?
+
+472
+00:20:33,400 --> 00:20:38,200
+Pues dependiendo un poquito de cómo se
+
+473
+00:20:34,840 --> 00:20:39,960
+mueva aquí en este rango de este en este
+
+474
+00:20:38,200 --> 00:20:43,280
+en este rango de cerdos, por ejemplo,
+
+475
+00:20:39,960 --> 00:20:46,240
+estoy buscando 70 pavos
+
+476
+00:20:43,280 --> 00:20:49,919
+cada rango este por contrato. Un
+
+477
+00:20:46,240 --> 00:20:54,919
+contrato 70 pavos.
+
+478
+00:20:49,919 --> 00:20:58,280
+Pues poco a poco, así poco a poco.
+
+479
+00:20:54,919 --> 00:21:00,440
+Lo bueno que tienes que cada día algo te
+
+480
+00:20:58,280 --> 00:21:01,919
+se está moviendo, que si son las vacas,
+
+481
+00:21:00,440 --> 00:21:03,919
+que si son los cerdos, que si son las
+
+482
+00:21:01,919 --> 00:21:07,600
+feeders, que si es el gas natural, que
+
+483
+00:21:03,919 --> 00:21:07,600
+si son otros mercados.
+
+484
+00:21:08,640 --> 00:21:11,600
+Entonces es el concepto de tiquitajas.
+
+485
+00:21:10,000 --> 00:21:13,520
+Esto el otro concepto que tenéis que
+
+486
+00:21:11,600 --> 00:21:15,880
+entender, vamos a mejorarlo, voy a
+
+487
+00:21:13,520 --> 00:21:17,919
+intentar mejorarlo, es esta cartera.
+
+488
+00:21:15,880 --> 00:21:19,919
+Esta cartera aquí pone siempre lo del
+
+489
+00:21:17,919 --> 00:21:23,799
+producto. Lo que tengo es como viene
+
+490
+00:21:19,919 --> 00:21:26,840
+copiado de un vi viene copiado de otro
+
+491
+00:21:23,799 --> 00:21:29,080
+don API, eh a veces pone aquí cosas
+
+492
+00:21:26,840 --> 00:21:31,440
+raras, ¿no? De de nombres, pero
+
+493
+00:21:29,080 --> 00:21:34,320
+básicamente aquí se entiende lo que es y
+
+494
+00:21:31,440 --> 00:21:36,640
+no pongo compra y venta, sino está el
+
+495
+00:21:34,320 --> 00:21:39,279
+signo. Si está en corto es que estoy
+
+496
+00:21:36,640 --> 00:21:41,720
+vendido de este producto, ¿vale? Como
+
+497
+00:21:39,279 --> 00:21:46,440
+podéis ver,
+
+498
+00:21:41,720 --> 00:21:46,440
+menos este, todos, todos están vendidos.
+
+499
+00:21:46,520 --> 00:21:51,080
+Gasolina, no tengo. Ah, sí que tengo
+
+500
+00:21:49,200 --> 00:21:53,120
+gasolina. Vale, tenemos tendremos que
+
+501
+00:21:51,080 --> 00:21:54,919
+poner el link de la gasolina. Voy a voy
+
+502
+00:21:53,120 --> 00:21:57,039
+a empezar a trabajar un poquito esta
+
+503
+00:21:54,919 --> 00:22:01,159
+esta cuenta, pero aquí lo que tenéis que
+
+504
+00:21:57,039 --> 00:22:03,240
+tener en es un poquito el el más o menos
+
+505
+00:22:01,159 --> 00:22:05,120
+ver por dónde por por dónde nos estoy
+
+506
+00:22:03,240 --> 00:22:06,720
+por dónde nos estamos moviendo. Voy a
+
+507
+00:22:05,120 --> 00:22:09,320
+rellenar un poquito más porque respecto
+
+508
+00:22:06,720 --> 00:22:12,559
+al año pasado aquí los niveles y todo
+
+509
+00:22:09,320 --> 00:22:15,559
+esto eh se han ido borrando, pero yo
+
+510
+00:22:12,559 --> 00:22:18,720
+aquí os pongo más o menos lo que hago.
+
+511
+00:22:15,559 --> 00:22:20,880
+Como podéis ver los nuevos,
+
+512
+00:22:18,720 --> 00:22:23,360
+hay gente que opera una parte de la
+
+513
+00:22:20,880 --> 00:22:26,000
+opera front, hay gente que opera otra
+
+514
+00:22:23,360 --> 00:22:27,960
+parte, hay gente que que están haciendo,
+
+515
+00:22:26,000 --> 00:22:30,039
+pues es decir, que que están trabajando,
+
+516
+00:22:27,960 --> 00:22:35,720
+están intentando trabajar diferentes
+
+517
+00:22:30,039 --> 00:22:40,039
+zonas del mercado o más de forma más
+
+518
+00:22:35,720 --> 00:22:44,360
+opa e de forma totalmente diferente y de
+
+519
+00:22:40,039 --> 00:22:45,480
+forma, digamos, ajena al a lo que yo
+
+520
+00:22:44,360 --> 00:22:47,960
+tengo.
+
+521
+00:22:45,480 --> 00:22:51,720
+Lo podéis preguntar. Hay gente que lleva
+
+522
+00:22:47,960 --> 00:22:54,559
+muchos años superando spreads y y
+
+523
+00:22:51,720 --> 00:22:57,360
+se puede se puede aprender de ellos. Sí,
+
+524
+00:22:54,559 --> 00:22:59,600
+se puede aprender.
+
+525
+00:22:57,360 --> 00:23:02,400
+No significa que me guste o no me guste
+
+526
+00:22:59,600 --> 00:23:05,039
+esta operación, sino que
+
+527
+00:23:02,400 --> 00:23:07,279
+cada uno tomamos nuestras decisiones. Yo
+
+528
+00:23:05,039 --> 00:23:09,080
+lo que sí que digo, por ejemplo, y
+
+529
+00:23:07,279 --> 00:23:12,240
+estaba mirando esta mañana, estaba
+
+530
+00:23:09,080 --> 00:23:15,279
+mirando spread, es que, por ejemplo, la
+
+531
+00:23:12,240 --> 00:23:17,080
+gasolina, gasolina
+
+532
+00:23:15,279 --> 00:23:20,840
+e
+
+533
+00:23:17,080 --> 00:23:23,960
+el otro es el crudo, ¿vale? Me parecen
+
+534
+00:23:20,840 --> 00:23:25,360
+unos mercados que hoy, decir, creo que
+
+535
+00:23:23,960 --> 00:23:27,039
+ayer no está diciendo alien que el
+
+536
+00:23:25,360 --> 00:23:30,240
+crudo, todo el mundo esperaba que baje
+
+537
+00:23:27,039 --> 00:23:32,360
+el crudo, todo el mundo estaba qué va a
+
+538
+00:23:30,240 --> 00:23:36,320
+pasar con con el tal y el crudo se pegó
+
+539
+00:23:32,360 --> 00:23:38,480
+un rebote 56 de 61 de un 10%. ¿Por qué
+
+540
+00:23:36,320 --> 00:23:40,320
+está rebotando el crudo? Pues no lo sabe
+
+541
+00:23:38,480 --> 00:23:42,240
+nadie.
+
+542
+00:23:40,320 --> 00:23:44,360
+Es decir, sí que lo saben. No saben
+
+543
+00:23:42,240 --> 00:23:46,559
+exactamente qué va a pasar con Venezuela
+
+544
+00:23:44,360 --> 00:23:48,679
+y cómo acabará el tema de Venezuela.
+
+545
+00:23:46,559 --> 00:23:51,440
+Entonces, por ejemplo, yo uno, no me
+
+546
+00:23:48,679 --> 00:23:56,400
+gustan las estrategias de crudo, no me
+
+547
+00:23:51,440 --> 00:23:58,159
+gustan. Dos, ah,
+
+548
+00:23:56,400 --> 00:24:01,120
+no me gustan los press de crudo porque
+
+549
+00:23:58,159 --> 00:24:03,480
+llevan años muy raros. Desde que empezó
+
+550
+00:24:01,120 --> 00:24:06,039
+la guerra con con Rusia, los PR de crudo
+
+551
+00:24:03,480 --> 00:24:08,279
+se se están comportando de una forma muy
+
+552
+00:24:06,039 --> 00:24:10,720
+rara. Y tres, ahora veo que hay un
+
+553
+00:24:08,279 --> 00:24:13,320
+movimiento muy fuerte, ¿vale? Hay un
+
+554
+00:24:10,720 --> 00:24:15,159
+movimiento muy fuerte que no me no me
+
+555
+00:24:13,320 --> 00:24:19,000
+convence. No sé, no sé por qué está
+
+556
+00:24:15,159 --> 00:24:20,720
+pasando. Entonces, ¿qué hago yo a nivel
+
+557
+00:24:19,000 --> 00:24:23,480
+personal?
+
+558
+00:24:20,720 --> 00:24:26,799
+Solo evitar estos mercados. ¿Qué es lo
+
+559
+00:24:23,480 --> 00:24:29,159
+que tengo? Pues tengo arbitrajes de gas
+
+560
+00:24:26,799 --> 00:24:32,000
+arbitrajes de spread que es totalmente
+
+561
+00:24:29,159 --> 00:24:34,720
+diferente. Es totalmente diferente tener
+
+562
+00:24:32,000 --> 00:24:36,360
+una spread de crudo, un CL, yo que sé,
+
+563
+00:24:34,720 --> 00:24:37,880
+HM
+
+564
+00:24:36,360 --> 00:24:39,760
+que tener, por ejemplo, lo que tengo en
+
+565
+00:24:37,880 --> 00:24:44,039
+cartera. Ahora tengo un RB, tengo un
+
+566
+00:24:39,760 --> 00:24:47,840
+poquito tal que tener un go spread.
+
+567
+00:24:44,039 --> 00:24:50,000
+contra H spread. ¿Okay? ¿Por qué? Porque
+
+568
+00:24:47,840 --> 00:24:51,760
+aquí estoy jugando a un diferencial de
+
+569
+00:24:50,000 --> 00:24:55,640
+refinerías.
+
+570
+00:24:51,760 --> 00:24:58,600
+Entonces, este o este diferencial se
+
+571
+00:24:55,640 --> 00:25:01,279
+comporta a vez en su vida embajadas es
+
+572
+00:24:58,600 --> 00:25:03,440
+más diferencial por el tema de lo que
+
+573
+00:25:01,279 --> 00:25:06,279
+está pasando en por el tema de
+
+574
+00:25:03,440 --> 00:25:09,520
+refinerías que que los tonterías de de
+
+575
+00:25:06,279 --> 00:25:11,600
+Trump. Puede ir bien, sí, puede ir mal,
+
+576
+00:25:09,520 --> 00:25:13,720
+sí, como todo, pero en principio no te
+
+577
+00:25:11,600 --> 00:25:15,799
+vas a la curva del crudo. La curva del
+
+578
+00:25:13,720 --> 00:25:19,640
+crudo yo no le veo ventaja. Ahora sí que
+
+579
+00:25:15,799 --> 00:25:22,240
+tenemos o Hos tenemos, tenemos RBs ahora
+
+580
+00:25:19,640 --> 00:25:25,799
+porque toca los RBs y sí que tenemos gas
+
+581
+00:25:22,240 --> 00:25:28,039
+natural, el NG. El NG a mí me gusta, el
+
+582
+00:25:25,799 --> 00:25:31,159
+RB a mí me gusta y el H también me
+
+583
+00:25:28,039 --> 00:25:34,679
+gusta. Escrudo. No,
+
+584
+00:25:31,159 --> 00:25:34,679
+no soy muy descrudo.
+
+585
+00:25:36,720 --> 00:25:40,880
+Okay.
+
+586
+00:25:39,399 --> 00:25:43,159
+No, perdón,
+
+587
+00:25:40,880 --> 00:25:46,120
+está muy manipulado el crudo.
+
+588
+00:25:43,159 --> 00:25:49,480
+Yo yo oficialmente te digo que que si tú
+
+589
+00:25:46,120 --> 00:25:49,480
+te vas al
+
+590
+00:25:52,000 --> 00:25:56,120
+Trading View
+
+591
+00:25:54,880 --> 00:25:58,799
+Trading Viw han puesto cosas
+
+592
+00:25:56,120 --> 00:26:01,919
+interesantes. Mira, si pinchas aquí y le
+
+593
+00:25:58,799 --> 00:26:05,120
+dices forbar curve,
+
+594
+00:26:01,919 --> 00:26:10,720
+¿vale? Esta es la curva del gas natural,
+
+595
+00:26:05,120 --> 00:26:13,399
+¿vale? De de la la la curva de gas la
+
+596
+00:26:10,720 --> 00:26:17,200
+con el forma del gas natural.
+
+597
+00:26:13,399 --> 00:26:20,799
+Okay. Si tú aquí pones
+
+598
+00:26:17,200 --> 00:26:20,799
+e por CL,
+
+599
+00:26:25,640 --> 00:26:29,360
+esta es la curva, esta es la curva del
+
+600
+00:26:27,720 --> 00:26:30,919
+crudo,
+
+601
+00:26:29,360 --> 00:26:33,799
+¿vale?
+
+602
+00:26:30,919 --> 00:26:36,799
+Entonces tú dices,
+
+603
+00:26:33,799 --> 00:26:38,480
+"Esto no está bien,
+
+604
+00:26:36,799 --> 00:26:41,799
+¿no?"
+
+605
+00:26:38,480 --> 00:26:44,480
+Y dice, "¿Y por qué no está bien?"
+
+606
+00:26:41,799 --> 00:26:47,240
+Y yo que sé.
+
+607
+00:26:44,480 --> 00:26:49,399
+Y yo que sé. Miraros, miraros, ¿vale?
+
+608
+00:26:47,240 --> 00:26:49,919
+Miraros que
+
+609
+00:26:49,399 --> 00:26:53,799
+en
+
+610
+00:26:49,919 --> 00:26:56,120
+que lo lo de Venezuela, eh, para que se
+
+611
+00:26:53,799 --> 00:26:57,840
+pueda usar ese petróleo tienen que meter
+
+612
+00:26:56,120 --> 00:26:59,720
+inversiones y nadie puede meter
+
+613
+00:26:57,840 --> 00:27:00,480
+inversiones con los precios que hay de
+
+614
+00:26:59,720 --> 00:27:02,399
+crudo.
+
+615
+00:27:00,480 --> 00:27:04,880
+Tenemos un compañero, tenemos un
+
+616
+00:27:02,399 --> 00:27:08,000
+compañero en el grupo, ¿vale?, que ha
+
+617
+00:27:04,880 --> 00:27:10,880
+entrado pelín más tarde y también es del
+
+618
+00:27:08,000 --> 00:27:13,279
+norte, como cómo no es de es de es del
+
+619
+00:27:10,880 --> 00:27:15,919
+es de Bilbao, es decir, él es venezolano
+
+620
+00:27:13,279 --> 00:27:17,840
+y vive en Bilbao, pero ha trabajado en
+
+621
+00:27:15,919 --> 00:27:21,559
+la industria petroquímica venezolana.
+
+622
+00:27:17,840 --> 00:27:23,919
+Vale. Ah, y ayer antes de ayer cuando
+
+623
+00:27:21,559 --> 00:27:26,200
+decidió Antonio, estamos hablando de ti.
+
+624
+00:27:23,919 --> 00:27:28,279
+Ah, cuando decidió entrar el grupo, al
+
+625
+00:27:26,200 --> 00:27:31,000
+final la decisión fue 3 minutos y
+
+626
+00:27:28,279 --> 00:27:33,200
+hablamos 40 de la de la situación de
+
+627
+00:27:31,000 --> 00:27:35,159
+Venezuela y los crudos. No solo que
+
+628
+00:27:33,200 --> 00:27:38,120
+tiene que invertir, sino tú ten en
+
+629
+00:27:35,159 --> 00:27:40,480
+cuenta que para sacar crudo pesado de
+
+630
+00:27:38,120 --> 00:27:42,640
+Estados de de Venezuela tienes que
+
+631
+00:27:40,480 --> 00:27:45,440
+inyectar crudo,
+
+632
+00:27:42,640 --> 00:27:47,519
+¿vale? ¿Qué significa inyectar crudo?
+
+633
+00:27:45,440 --> 00:27:49,880
+Eh, el el crudo venezolano es muy
+
+634
+00:27:47,519 --> 00:27:52,799
+pesado, ¿vale? y no lo pueden sacar
+
+635
+00:27:49,880 --> 00:27:54,640
+porque al sacarlo como como está muy
+
+636
+00:27:52,799 --> 00:27:58,640
+digamos, vamos a llamarlo, no se llama
+
+637
+00:27:54,640 --> 00:28:00,080
+tenso, pero eh muy digamos muy muy
+
+638
+00:27:58,640 --> 00:28:00,960
+encogido. Okay.
+
+639
+00:28:00,080 --> 00:28:04,440
+Viscoso,
+
+640
+00:28:00,960 --> 00:28:08,600
+viscoso, lo que hacen es inyectarle
+
+641
+00:28:04,440 --> 00:28:11,360
+inyectarle crudo ah de crudo de ruso o
+
+642
+00:28:08,600 --> 00:28:14,720
+crudo light, light crude, que es lo
+
+643
+00:28:11,360 --> 00:28:17,080
+inyectan dentro, se mezcla y lo vuelven
+
+644
+00:28:14,720 --> 00:28:18,960
+a sacar, ¿vale?
+
+645
+00:28:17,080 --> 00:28:20,840
+y me estaba contando, ¿no?, todos los
+
+646
+00:28:18,960 --> 00:28:22,480
+problemas que tienen, todo lo que y me
+
+647
+00:28:20,840 --> 00:28:24,080
+estaba contando por qué tuberías van,
+
+648
+00:28:22,480 --> 00:28:26,480
+dónde están las tuberías, dónde están
+
+649
+00:28:24,080 --> 00:28:28,279
+las refinerías para para hacernos un
+
+650
+00:28:26,480 --> 00:28:33,919
+para para hacerme yo un poquito de idea
+
+651
+00:28:28,279 --> 00:28:36,279
+de de del de digamos del del tema de de
+
+652
+00:28:33,919 --> 00:28:38,320
+Venezuela, ¿no? Y con él podremos yo no
+
+653
+00:28:36,279 --> 00:28:40,840
+es decir, yo ya sabéis muy bien que yo
+
+654
+00:28:38,320 --> 00:28:43,120
+soy yo soy un trader teórico de materias
+
+655
+00:28:40,840 --> 00:28:45,600
+primas. Eh, si me pillas en un campo
+
+656
+00:28:43,120 --> 00:28:47,240
+igual la cebada de Tri decir puedo
+
+657
+00:28:45,600 --> 00:28:49,600
+equivocarme porque no conozco tan bien
+
+658
+00:28:47,240 --> 00:28:52,320
+las cosas, pero me ha gustado y hablado
+
+659
+00:28:49,600 --> 00:28:55,279
+con él y dice, "No hay infraestructura.
+
+660
+00:28:52,320 --> 00:28:58,039
+Eh, hay que hay que ver qué petróleo se
+
+661
+00:28:55,279 --> 00:29:00,200
+lleva, hay que invertir muchísimo, pero
+
+662
+00:28:58,039 --> 00:29:02,240
+sí, pero es un potencial enorme. Es un
+
+663
+00:29:00,200 --> 00:29:03,799
+potencial enorme, enorme, enorme,
+
+664
+00:29:02,240 --> 00:29:06,080
+enorme, enorme que se
+
+665
+00:29:03,799 --> 00:29:09,840
+y y controlan lo que estaban sacando
+
+666
+00:29:06,080 --> 00:29:13,399
+ahora también que antes no.
+
+667
+00:29:09,840 --> 00:29:15,039
+Hombre, China, lo que va a otros sitios
+
+668
+00:29:13,399 --> 00:29:17,919
+ahora pueden, bueno, de hecho habían
+
+669
+00:29:15,039 --> 00:29:20,679
+detenido algún barco por ahí, hombre. Y
+
+670
+00:29:17,919 --> 00:29:22,559
+sí, porque claro, los los ex malignos de
+
+671
+00:29:20,679 --> 00:29:23,919
+ahí están intentando sacar el dinero
+
+672
+00:29:22,559 --> 00:29:26,159
+porque ellos dineros no tienen, ellos
+
+673
+00:29:23,919 --> 00:29:28,640
+tienen materias primas. Ellos tienen
+
+674
+00:29:26,159 --> 00:29:31,320
+materias primas.
+
+675
+00:29:28,640 --> 00:29:34,480
+Dejarme ver una cosa. Mira, mira, mirar
+
+676
+00:29:31,320 --> 00:29:36,320
+la [ __ ] maga de los [ __ ] ¿eh?
+
+677
+00:29:34,480 --> 00:29:37,960
+Mira,
+
+678
+00:29:36,320 --> 00:29:40,360
+zona de venta volatilidad dice, si llega
+
+679
+00:29:37,960 --> 00:29:42,640
+aquí venden volatilidad mercado. Es que
+
+680
+00:29:40,360 --> 00:29:44,279
+comprado unos futuros y quería mirar y
+
+681
+00:29:42,640 --> 00:29:47,559
+sí ha llegado al centroid y ha empezado
+
+682
+00:29:44,279 --> 00:29:50,919
+a roberar, tío. Es que es es esta tía es
+
+683
+00:29:47,559 --> 00:29:52,519
+esta tía es la [ __ ] Vale. Ah,
+
+684
+00:29:50,919 --> 00:29:55,399
+entonces, por ejemplo, yo en esto yo en
+
+685
+00:29:52,519 --> 00:29:58,840
+este caso yo en este caso que dices esto
+
+686
+00:29:55,399 --> 00:30:01,720
+invertido y esto esto con tago,
+
+687
+00:29:58,840 --> 00:30:04,440
+a mí no me no me convencéis. no me
+
+688
+00:30:01,720 --> 00:30:06,440
+convencéis y no y por eso tenía unas
+
+689
+00:30:04,440 --> 00:30:11,200
+estrategias de largo plazo, del crudo y
+
+690
+00:30:06,440 --> 00:30:13,679
+tal, no sé, no sé cuándo y he decidido
+
+691
+00:30:11,200 --> 00:30:15,440
+no empezar a implementarlas porque no me
+
+692
+00:30:13,679 --> 00:30:17,279
+porque no me aclaro, ¿vale? Porque no me
+
+693
+00:30:15,440 --> 00:30:19,159
+aclaro, no es que no me aclaro, porque
+
+694
+00:30:17,279 --> 00:30:22,600
+no
+
+695
+00:30:19,159 --> 00:30:26,080
+esperar que es algo de esto,
+
+696
+00:30:22,600 --> 00:30:28,440
+¿vale? No, porque no lo
+
+697
+00:30:26,080 --> 00:30:32,880
+yo cuando hay un problema yo cuando hay
+
+698
+00:30:28,440 --> 00:30:32,880
+un problema eh
+
+699
+00:30:32,960 --> 00:30:36,039
+momento,
+
+700
+00:30:34,559 --> 00:30:39,720
+como podéis ver, es que yo creo yo hago
+
+701
+00:30:36,039 --> 00:30:39,720
+más cosas a la vez.
+
+702
+00:30:44,960 --> 00:30:50,039
+Estoy haciendo unas pruebas y quiero
+
+703
+00:30:46,360 --> 00:30:52,559
+apuntar las pruebas que hago porque no
+
+704
+00:30:50,039 --> 00:30:55,200
+h quiero tener el control. Entonces,
+
+705
+00:30:52,559 --> 00:30:57,840
+claro, tú dices, muchas veces Greg no
+
+706
+00:30:55,200 --> 00:31:01,559
+opera, muchas veces Greg no opera
+
+707
+00:30:57,840 --> 00:31:03,519
+mercados locos. ¿Por qué?
+
+708
+00:31:01,559 --> 00:31:05,919
+Porque porque me he quemado, me he
+
+709
+00:31:03,519 --> 00:31:09,320
+quemado muchísimo.
+
+710
+00:31:05,919 --> 00:31:10,919
+Por ejemplo, yo voy yo voy con
+
+711
+00:31:09,320 --> 00:31:14,360
+pinceladas
+
+712
+00:31:10,919 --> 00:31:14,360
+el año pasado.
+
+713
+00:31:15,480 --> 00:31:20,279
+A ver si
+
+714
+00:31:18,559 --> 00:31:24,039
+a ver,
+
+715
+00:31:20,279 --> 00:31:26,440
+se me ha sacado los números. Francisco
+
+716
+00:31:24,039 --> 00:31:28,720
+día. Y el año pasado y y para que veáis
+
+717
+00:31:26,440 --> 00:31:33,760
+un poquito la curva de Kitty, ¿no? Y el
+
+718
+00:31:28,720 --> 00:31:35,720
+año pasado con este setup, ¿vale? Creo
+
+719
+00:31:33,760 --> 00:31:37,919
+eso la cuenta, esa cuenta hay más o
+
+720
+00:31:35,720 --> 00:31:41,120
+menos 40. Es posible que haya más
+
+721
+00:31:37,919 --> 00:31:44,120
+dinero, pero más o menos la cuenta. Ah,
+
+722
+00:31:41,120 --> 00:31:47,360
+puedes llegar a sacar 10, 15, 20,000
+
+723
+00:31:44,120 --> 00:31:51,480
+pavos, ir con un apalancamiento, como
+
+724
+00:31:47,360 --> 00:31:54,840
+veis en la cartera. No tengo más.
+
+725
+00:31:51,480 --> 00:31:58,080
+Vale, y en spread, acordaros de una
+
+726
+00:31:54,840 --> 00:32:01,200
+cosa, en spread vais a tener esto,
+
+727
+00:31:58,080 --> 00:32:04,679
+rendimiento totalmente plano,
+
+728
+00:32:01,200 --> 00:32:08,200
+boom, drawdown, otra es totalmente
+
+729
+00:32:04,679 --> 00:32:10,840
+planos y otra es booms. Okay, esto es
+
+730
+00:32:08,200 --> 00:32:13,399
+spread trading es esto. No os podéis no
+
+731
+00:32:10,840 --> 00:32:15,639
+os podéis agobiar. ¿Qué pasa ahora? El
+
+732
+00:32:13,399 --> 00:32:18,120
+año pasado esto, esto se llama lo que
+
+733
+00:32:15,639 --> 00:32:19,679
+veis aquí se llama cacao, ¿vale? Aquí es
+
+734
+00:32:18,120 --> 00:32:24,720
+lo donde a mí me jodió, me jodió
+
+735
+00:32:19,679 --> 00:32:27,240
+bastante, me jodió el cacao. Eh,
+
+736
+00:32:24,720 --> 00:32:28,840
+en los spreads, lo hemos hablado mil
+
+737
+00:32:27,240 --> 00:32:31,840
+veces,
+
+738
+00:32:28,840 --> 00:32:34,240
+si no estás, si si este año te matas, el
+
+739
+00:32:31,840 --> 00:32:36,159
+año que viene no estás.
+
+740
+00:32:34,240 --> 00:32:37,960
+Y hay muchas zonas así laterales. Las
+
+741
+00:32:36,159 --> 00:32:40,039
+zonas laterales, ¿por qué las tengo? que
+
+742
+00:32:37,960 --> 00:32:42,159
+no pongo operaciones o pongo muy pocas
+
+743
+00:32:40,039 --> 00:32:44,120
+posiciones.
+
+744
+00:32:42,159 --> 00:32:45,600
+Se puede hacer más, sí, pero luego
+
+745
+00:32:44,120 --> 00:32:48,039
+siempre tienes que preguntar con qué
+
+746
+00:32:45,600 --> 00:32:49,919
+riesgo. Aquí los luego tengo un gráfico
+
+747
+00:32:48,039 --> 00:32:52,120
+de drawons.
+
+748
+00:32:49,919 --> 00:32:53,880
+Está sacando. Le he pedido a Fran que me
+
+749
+00:32:52,120 --> 00:32:56,240
+haga
+
+750
+00:32:53,880 --> 00:32:58,000
+que que me haga cosas de las cuentas
+
+751
+00:32:56,240 --> 00:33:00,600
+porque en Estados Unidos también la
+
+752
+00:32:58,000 --> 00:33:03,840
+cuenta del broker para sacar las cifras
+
+753
+00:33:00,600 --> 00:33:08,600
+es de es de locos. Es decir, es una es
+
+754
+00:33:03,840 --> 00:33:08,600
+una cosa ¿Dónde est WhatsApp?
+
+755
+00:33:12,080 --> 00:33:17,919
+Okay,
+
+756
+00:33:13,880 --> 00:33:17,919
+más tenemos nosotros aquí
+
+757
+00:33:20,039 --> 00:33:25,240
+así volatilidades. Vale, que esto es
+
+758
+00:33:22,240 --> 00:33:25,240
+importante.
+
+759
+00:33:27,080 --> 00:33:33,000
+Miraros que con ese ese poco, a ver, hay
+
+760
+00:33:30,360 --> 00:33:37,399
+errores de volatilidad porque a veces al
+
+761
+00:33:33,000 --> 00:33:39,120
+tener VIX, ¿okay? Eh, el VIX europeo y
+
+762
+00:33:37,399 --> 00:33:40,880
+ahora pasaremos a hablar de est de estos
+
+763
+00:33:39,120 --> 00:33:43,159
+temas porque son los que más me están
+
+764
+00:33:40,880 --> 00:33:45,679
+chiflando ahora y además como no hay
+
+765
+00:33:43,159 --> 00:33:48,360
+otra cosa, cuando tienes un VIX VIX
+
+766
+00:33:45,679 --> 00:33:51,840
+americano y tienes el VST, creo que se
+
+767
+00:33:48,360 --> 00:33:55,480
+llama el europeo, este cierra las 22 y
+
+768
+00:33:51,840 --> 00:33:58,799
+este cierra a las 17.
+
+769
+00:33:55,480 --> 00:34:01,080
+Okay. Oficialmente el settlement,
+
+770
+00:33:58,799 --> 00:34:03,120
+a veces tienes movimientos muy fuertes a
+
+771
+00:34:01,080 --> 00:34:05,880
+favor y en contra en tu cartera porque
+
+772
+00:34:03,120 --> 00:34:08,399
+claro, el oficialmente te cierran en dos
+
+773
+00:34:05,880 --> 00:34:10,079
+horarios diferentes. Al cerrarte
+
+774
+00:34:08,399 --> 00:34:12,399
+oficialmente en dos horarios diferentes
+
+775
+00:34:10,079 --> 00:34:15,520
+la velocidad de carretera. Pero miraros,
+
+776
+00:34:12,399 --> 00:34:18,000
+miraros que por cada, digamos, aquí hay
+
+777
+00:34:15,520 --> 00:34:21,879
+pues ahora hay 60, 60 y pico 1000 pavos,
+
+778
+00:34:18,000 --> 00:34:25,320
+¿no? Eh, miraros las duratilidades que
+
+779
+00:34:21,879 --> 00:34:25,320
+tienes en la cuenta,
+
+780
+00:34:26,000 --> 00:34:32,040
+es decir, 2 3 4% al día.
+
+781
+00:34:30,280 --> 00:34:34,679
+¿Por qué? Porque los preds a pesar de
+
+782
+00:34:32,040 --> 00:34:36,000
+tal se mueven y y voy muy poco cargado.
+
+783
+00:34:34,679 --> 00:34:38,000
+También es verdad que aquí hago la
+
+784
+00:34:36,000 --> 00:34:41,079
+estrategia de apertura de sesión. A
+
+785
+00:34:38,000 --> 00:34:42,679
+veces aquí voy a dejar de hacerlo, pero
+
+786
+00:34:41,079 --> 00:34:46,200
+yo creo que el máximo dragodón que he
+
+787
+00:34:42,679 --> 00:34:48,480
+tenido aquí ha sido por el [ __ ] SP,
+
+788
+00:34:46,200 --> 00:34:50,879
+porque le le he metido muy largo el SP y
+
+789
+00:34:48,480 --> 00:34:52,879
+digo, voy a dejar de hacerlo. He dejado
+
+790
+00:34:50,879 --> 00:34:56,839
+de hacerlo y estoy llevándolo a otras
+
+791
+00:34:52,879 --> 00:34:59,839
+cuentas. No, pero pero
+
+792
+00:34:56,839 --> 00:35:02,040
+imag es decir, no está pasando casi nada
+
+793
+00:34:59,839 --> 00:35:05,160
+en el mercado y mira lo que se te mueve
+
+794
+00:35:02,040 --> 00:35:05,160
+la cuenta.
+
+795
+00:35:06,040 --> 00:35:12,599
+Lo bueno lo bueno que tienes lo bueno lo
+
+796
+00:35:08,400 --> 00:35:14,359
+bueno de los pre es si si haces un un zo
+
+797
+00:35:12,599 --> 00:35:16,680
+de que un día te joden y al día
+
+798
+00:35:14,359 --> 00:35:19,359
+siguiente te lo devuelven,
+
+799
+00:35:16,680 --> 00:35:21,960
+¿vale? Un día un día un día te lo dan,
+
+800
+00:35:19,359 --> 00:35:24,480
+el otro día te lo quitan. ¿Veis los
+
+801
+00:35:21,960 --> 00:35:28,079
+rendimientos diarios? Esto es esto es
+
+802
+00:35:24,480 --> 00:35:28,079
+por porque por
+
+803
+00:35:28,720 --> 00:35:34,480
+la base del tikiitaca, la base del ticka
+
+804
+00:35:31,920 --> 00:35:37,079
+viene de est de estos gráficos porque
+
+805
+00:35:34,480 --> 00:35:40,520
+dices, tío, claro, tú estás un día,
+
+806
+00:35:37,079 --> 00:35:42,359
+miras tu pantalla y dices, "Qué bien, te
+
+807
+00:35:40,520 --> 00:35:43,599
+vas y al día siguiente dices, qué
+
+808
+00:35:42,359 --> 00:35:44,920
+mierda."
+
+809
+00:35:43,599 --> 00:35:47,680
+Entonces llegas a la conclusión que
+
+810
+00:35:44,920 --> 00:35:49,680
+dices, "¿Y si empiezo a quitarme la
+
+811
+00:35:47,680 --> 00:35:53,520
+mitad de la la mitad de las cosas que
+
+812
+00:35:49,680 --> 00:35:55,560
+llevo y pa pa pa pa pa pa y dices, vale,
+
+813
+00:35:53,520 --> 00:35:57,520
+pues ahora ya empieza a tener, ahora ya
+
+814
+00:35:55,560 --> 00:36:01,040
+empieza a tener sentido y por eso por
+
+815
+00:35:57,520 --> 00:36:01,040
+esto hacemos tikiitacas.
+
+816
+00:36:02,160 --> 00:36:08,720
+Y lo bueno que es que en
+
+817
+00:36:05,960 --> 00:36:10,960
+vas haciendo tikiitacas, tienes y y en
+
+818
+00:36:08,720 --> 00:36:13,160
+las épocas de vacas flock que no hay
+
+819
+00:36:10,960 --> 00:36:15,200
+muchas cosas que hacer, los tikiitacas
+
+820
+00:36:13,160 --> 00:36:17,079
+te van tirando la cartera para arriba y
+
+821
+00:36:15,200 --> 00:36:19,880
+luego viene una buena estacionalidad que
+
+822
+00:36:17,079 --> 00:36:22,440
+lo pillas bien, y te sube la cuenta y
+
+823
+00:36:19,880 --> 00:36:26,920
+luego otra vez estás plano y luego otra
+
+824
+00:36:22,440 --> 00:36:29,040
+es fum y y te sube la cuenta. ¿Vale?
+
+825
+00:36:26,920 --> 00:36:31,920
+Okay, señores, señoras, os he dicho, os
+
+826
+00:36:29,040 --> 00:36:34,560
+he prometido para ir hoy dos cositas y
+
+827
+00:36:31,920 --> 00:36:39,079
+me he enrollado. Una de las cosas eh
+
+828
+00:36:34,560 --> 00:36:42,280
+cerdos, el el ¿por qué empiezo a operar
+
+829
+00:36:39,079 --> 00:36:43,920
+cerdos de diciembre febrero, okay? Y
+
+830
+00:36:42,280 --> 00:36:45,319
+esto lo tenemos que ver en lo siguiente,
+
+831
+00:36:43,920 --> 00:36:47,960
+lo tenemos que ver con unos gráficos
+
+832
+00:36:45,319 --> 00:36:50,160
+bastante raros, ¿okay? que la gente el
+
+833
+00:36:47,960 --> 00:36:55,880
+año pasado ya ya ya ya ya se os puede
+
+834
+00:36:50,160 --> 00:36:58,319
+decir ahora no veo a ninguno, pero ah,
+
+835
+00:36:55,880 --> 00:36:59,960
+okay, yo lo que os decir estos son los
+
+836
+00:36:58,319 --> 00:37:03,160
+estos son los gráficos que utilizamos en
+
+837
+00:36:59,960 --> 00:37:05,040
+CTS, ¿okay? Aquí veis que ahora ahora no
+
+838
+00:37:03,160 --> 00:37:08,160
+hay volumen, esos son los cerdos del año
+
+839
+00:37:05,040 --> 00:37:10,760
+diciembre de 2026 con diciembre de 2027
+
+840
+00:37:08,160 --> 00:37:12,680
+dentro de un año. ¿Qué pasa? Este spread
+
+841
+00:37:10,760 --> 00:37:14,920
+es muy famoso. ¿Okay? Famoso,
+
+842
+00:37:12,680 --> 00:37:17,440
+famosísimo. Aquí hay mucha gente
+
+843
+00:37:14,920 --> 00:37:20,839
+operando, como podéis ver. Como podéis
+
+844
+00:37:17,440 --> 00:37:23,640
+ver, en algunas zonas, en algunas zonas
+
+845
+00:37:20,839 --> 00:37:25,760
+están poniendo lotecitos. ¿Qué significa
+
+846
+00:37:23,640 --> 00:37:29,119
+que están poniendo lotecitos? Hay un
+
+847
+00:37:25,760 --> 00:37:31,319
+señor que suele meter e
+
+848
+00:37:29,119 --> 00:37:33,640
+hay un señor que suele meter ocultos, es
+
+849
+00:37:31,319 --> 00:37:36,480
+decir, aquí no ves nada y te meten
+
+850
+00:37:33,640 --> 00:37:39,480
+oculto e
+
+851
+00:37:36,480 --> 00:37:39,480
+100.
+
+852
+00:37:39,800 --> 00:37:44,880
+Normalmente tiene ahora al principio de
+
+853
+00:37:41,560 --> 00:37:46,400
+la temporada tiene 100, pero suele meter
+
+854
+00:37:44,880 --> 00:37:48,880
+200
+
+855
+00:37:46,400 --> 00:37:51,000
+inclusive 400 lotes ocultos. Entonces,
+
+856
+00:37:48,880 --> 00:37:54,079
+¿qué pasa en pretemporada? Okay. En
+
+857
+00:37:51,000 --> 00:37:55,839
+pretemporada, porque esta spread al
+
+858
+00:37:54,079 --> 00:37:59,280
+igual que el resto de los spreads que
+
+859
+00:37:55,839 --> 00:37:59,280
+nosotros operamos,
+
+860
+00:38:03,960 --> 00:38:08,839
+ayer no guardé el spread, no es que soy
+
+861
+00:38:06,400 --> 00:38:12,079
+creo que soy un poquito
+
+862
+00:38:08,839 --> 00:38:12,079
+un poquito
+
+863
+00:38:17,800 --> 00:38:23,000
+esto, esto es nuestra spread. Okay, esa
+
+864
+00:38:20,640 --> 00:38:25,040
+las que nosotros operábamos, tal, están
+
+865
+00:38:23,000 --> 00:38:26,800
+los están los cerdos on fire, ¿eh? Están
+
+866
+00:38:25,040 --> 00:38:28,480
+los cerdos on fire porque me han entrado
+
+867
+00:38:26,800 --> 00:38:32,680
+ya diferentes me están entrando
+
+868
+00:38:28,480 --> 00:38:35,680
+diferentes niveles de de del otro.
+
+869
+00:38:32,680 --> 00:38:35,680
+Mirad,
+
+870
+00:38:39,880 --> 00:38:44,160
+me están atacando. Vale, pap, pap. Y
+
+871
+00:38:42,520 --> 00:38:47,680
+veis como él va poniendo las
+
+872
+00:38:44,160 --> 00:38:47,680
+operaciones. Están subiendo, ¿eh?
+
+873
+00:38:53,200 --> 00:38:56,720
+Gre, eso no lo haces nunca en
+
+874
+00:38:55,040 --> 00:38:58,400
+Interactive Brokers, ¿verdad?
+
+875
+00:38:56,720 --> 00:39:00,000
+Sí, sí, sí, sí que lo hago. Ahora, ahora
+
+876
+00:38:58,400 --> 00:39:02,359
+la cuenta de mi mujer voy a empezar a
+
+877
+00:39:00,000 --> 00:39:04,160
+ponerlo. Sí, voy a, mira, si queréis
+
+878
+00:39:02,359 --> 00:39:06,640
+ahora ahora lo miraremos. Pondremos un
+
+879
+00:39:04,160 --> 00:39:07,920
+par de órdenes aquí, pocas, eh, pocos,
+
+880
+00:39:06,640 --> 00:39:11,560
+porque estos ya para mí son muy
+
+881
+00:39:07,920 --> 00:39:13,200
+cercanos. Okay. Em, entonces que lo
+
+882
+00:39:11,560 --> 00:39:14,480
+veis, él va trabajando. Me ha entrado,
+
+883
+00:39:13,200 --> 00:39:16,200
+me ha puesto la orden. Me ha entrado, me
+
+884
+00:39:14,480 --> 00:39:18,839
+ha puesto la orden. Ya veremos de cara
+
+885
+00:39:16,200 --> 00:39:22,400
+al final de la sesión, pero ahora
+
+886
+00:39:18,839 --> 00:39:25,800
+ahora para para ver aquí eh lo
+
+887
+00:39:22,400 --> 00:39:29,119
+interesante, ¿cuál es? Que esta gente,
+
+888
+00:39:25,800 --> 00:39:31,160
+¿vale? Yo suelo pillarlo porque porque
+
+889
+00:39:29,119 --> 00:39:33,240
+miro los volúmenes que tiene, ¿vale?
+
+890
+00:39:31,160 --> 00:39:35,480
+Aquí 55.
+
+891
+00:39:33,240 --> 00:39:37,359
+Mira, aquí ha puesto esto es poco. Aquí
+
+892
+00:39:35,480 --> 00:39:41,760
+27.
+
+893
+00:39:37,359 --> 00:39:43,640
+Aquí hay otros otro 58. Vale, ¿qué hago?
+
+894
+00:39:41,760 --> 00:39:46,160
+Le identifico en en volúmenes en
+
+895
+00:39:43,640 --> 00:39:50,240
+volúmenes fuertes, ¿vale? Normalmente él
+
+896
+00:39:46,160 --> 00:39:51,839
+en en números redondos 250 245 suele
+
+897
+00:39:50,240 --> 00:39:57,240
+poner orden. Suelen poner órdenes
+
+898
+00:39:51,839 --> 00:40:00,079
+fuertes. Órdenes fuertes son e
+
+899
+00:39:57,240 --> 00:40:02,599
+50. A ver si lo identificamos por aquí,
+
+900
+00:40:00,079 --> 00:40:06,520
+¿no? Aú. Aún yo lo he visto el otro día
+
+901
+00:40:02,599 --> 00:40:10,119
+con 100, 150. Entonces, yo qué hago? Yo
+
+902
+00:40:06,520 --> 00:40:13,079
+sé que él está por esta zona
+
+903
+00:40:10,119 --> 00:40:14,720
+bastante activo. Entonces yo yo empiezo
+
+904
+00:40:13,079 --> 00:40:17,280
+y cuando le veo, por ejemplo, una orden
+
+905
+00:40:14,720 --> 00:40:19,200
+más fuerte de él y ahora menos 250 en
+
+906
+00:40:17,280 --> 00:40:21,920
+esta zona, yo ya compro. Para mí es una
+
+907
+00:40:19,200 --> 00:40:24,480
+zona buena, viene de años, horas, de
+
+908
+00:40:21,920 --> 00:40:27,280
+años de de Entonces, ¿qué hago? 250
+
+909
+00:40:24,480 --> 00:40:29,440
+compro, 270
+
+910
+00:40:27,280 --> 00:40:31,319
+vendo, compro, vendo. ¿Por qué? Porque
+
+911
+00:40:29,440 --> 00:40:34,319
+el tío me está parando el mercado y
+
+912
+00:40:31,319 --> 00:40:37,319
+siempre veis, llega a un nivel, rug,
+
+913
+00:40:34,319 --> 00:40:40,880
+llega a un nivel baja, llega a un nivel
+
+914
+00:40:37,319 --> 00:40:43,200
+baja, llega a un nivel baja, llega a un
+
+915
+00:40:40,880 --> 00:40:45,200
+nivel baja. En estos día, no llega a
+
+916
+00:40:43,200 --> 00:40:46,800
+este nivel y baja. Amarillo siempre
+
+917
+00:40:45,200 --> 00:40:49,280
+cierre decepción. Eso son gráficos de
+
+918
+00:40:46,800 --> 00:40:51,960
+TPOS, ¿vale? De de market profile.
+
+919
+00:40:49,280 --> 00:40:54,440
+Entonces, lo bueno, ¿cuál es? Que este
+
+920
+00:40:51,960 --> 00:40:57,720
+tío, aquí veo, es que me interesa ver
+
+921
+00:40:54,440 --> 00:41:00,079
+también la volumetría. Empiezo muy
+
+922
+00:40:57,720 --> 00:41:02,079
+pronto con muy poco volumen porque
+
+923
+00:41:00,079 --> 00:41:04,720
+claro, dices, [ __ ] te queda toda la
+
+924
+00:41:02,079 --> 00:41:07,520
+estacionalidad. Sí.
+
+925
+00:41:04,720 --> 00:41:11,000
+¿Por qué? Porque poca muchas veces
+
+926
+00:41:07,520 --> 00:41:14,880
+ocurre muchas veces ocurre de que este
+
+927
+00:41:11,000 --> 00:41:16,920
+tío bloquea el mercado, ¿vale? Por
+
+928
+00:41:14,880 --> 00:41:19,400
+ejemplo, el año pasado no lo dejó pasar
+
+929
+00:41:16,920 --> 00:41:21,839
+de tres. Estábamos mucho tiempo aquí por
+
+930
+00:41:19,400 --> 00:41:23,520
+abajo de tres y veis, está aquí, ta.
+
+931
+00:41:21,839 --> 00:41:27,200
+Luego rompió, se empezó a ir para
+
+932
+00:41:23,520 --> 00:41:28,760
+arriba, está corrige. Luego también
+
+933
+00:41:27,200 --> 00:41:30,800
+tienes años donde se le va la olla a los
+
+934
+00:41:28,760 --> 00:41:33,599
+cerdos y empieza a subir. Pero veis, no
+
+935
+00:41:30,800 --> 00:41:36,000
+no suele no suele pasar más de más de
+
+936
+00:41:33,599 --> 00:41:37,960
+cero. Entonces, claro, yo qué hago en
+
+937
+00:41:36,000 --> 00:41:40,319
+esta pretemporada, igual que las vacas,
+
+938
+00:41:37,960 --> 00:41:42,400
+me marco niveles, vendo, compro, vendo,
+
+939
+00:41:40,319 --> 00:41:44,599
+compro, pero no acumulo, ¿vale? No, no
+
+940
+00:41:42,400 --> 00:41:46,880
+suelo tener muchos lotes, muy poquitos.
+
+941
+00:41:44,599 --> 00:41:49,680
+¿Por qué? Porque al igual que los otros
+
+942
+00:41:46,880 --> 00:41:52,599
+tiquitacas cada dos semanas, cada tres
+
+943
+00:41:49,680 --> 00:41:56,160
+semanas si se me hacen tres, cinco lotes
+
+944
+00:41:52,599 --> 00:41:58,720
+y y puedo recuperar, puedo hacer 200,
+
+945
+00:41:56,160 --> 00:42:01,920
+300 pavos de un spread que está
+
+946
+00:41:58,720 --> 00:42:04,079
+lejísimo, lejísimo de de entrar en de
+
+947
+00:42:01,920 --> 00:42:06,839
+entrar a trabajarlo
+
+948
+00:42:04,079 --> 00:42:09,079
+fuerte, pues yo estoy contento. Eh,
+
+949
+00:42:06,839 --> 00:42:10,839
+Greg, una pregunta, ¿ahí se ve, o sea,
+
+950
+00:42:09,079 --> 00:42:13,520
+esta es la que estás trabajando? Quiero
+
+951
+00:42:10,839 --> 00:42:16,880
+decir, está eso superliso,
+
+952
+00:42:13,520 --> 00:42:18,440
+o sea, tanto se mueve el precio.
+
+953
+00:42:16,880 --> 00:42:19,359
+Es que yo no me sé este cuánto vale el
+
+954
+00:42:18,440 --> 00:42:21,359
+punto, pero
+
+955
+00:42:19,359 --> 00:42:23,760
+400.
+
+956
+00:42:21,359 --> 00:42:24,760
+[ __ ] pero la curva no tiene esos
+
+957
+00:42:23,760 --> 00:42:27,200
+tiquitacas.
+
+958
+00:42:24,760 --> 00:42:32,440
+Pues la curva la curva la curva es la
+
+959
+00:42:27,200 --> 00:42:32,440
+curva. Mira, mira,
+
+960
+00:42:32,800 --> 00:42:37,079
+esto es 2400.
+
+961
+00:42:34,640 --> 00:42:39,760
+Tengo ventas en 2500,
+
+962
+00:42:37,079 --> 00:42:42,760
+¿vale? Y me voy hasta aquí. Aquí hago 70
+
+963
+00:42:39,760 --> 00:42:42,760
+pavos.
+
+964
+00:42:43,280 --> 00:42:49,960
+Ya sé que, a ver, el spread trading es
+
+965
+00:42:47,280 --> 00:42:52,400
+mu operaciones a menudas, las pones, te
+
+966
+00:42:49,960 --> 00:42:54,880
+olvidas de ellas y y van trabajando y
+
+967
+00:42:52,400 --> 00:42:56,559
+poco a poco es el trabajo de la hormiga,
+
+968
+00:42:54,880 --> 00:42:59,119
+poco a poco vamos haciendo dinero. Aquí
+
+969
+00:42:56,559 --> 00:43:01,319
+no hay home bruns, muy pocas veces
+
+970
+00:42:59,119 --> 00:43:04,160
+tienes home runs, ¿vale? Aquí yo que
+
+971
+00:43:01,319 --> 00:43:06,599
+poco a poco va a ser, mira, mira el mira
+
+972
+00:43:04,160 --> 00:43:09,000
+que se queda, se estos ya son gráficos
+
+973
+00:43:06,599 --> 00:43:11,200
+de una hora, ¿vale? Si lo ponemos en más
+
+974
+00:43:09,000 --> 00:43:15,440
+tiempo, mira, estos son los movimientos
+
+975
+00:43:11,200 --> 00:43:19,280
+que me gustan, pap. Es que de aquí de
+
+976
+00:43:15,440 --> 00:43:22,079
+2600 se nos se nos fue a 2900. Mira,
+
+977
+00:43:19,280 --> 00:43:23,640
+llegó a 2700, ¿vale? Y se nos fue a
+
+978
+00:43:22,079 --> 00:43:27,359
+3700.
+
+979
+00:43:23,640 --> 00:43:29,559
+Esta subida, esta subida
+
+980
+00:43:27,359 --> 00:43:32,720
+yo no hay hay un vídeo por ahí, pero yo
+
+981
+00:43:29,559 --> 00:43:34,359
+le metí 16 luces.
+
+982
+00:43:32,720 --> 00:43:38,000
+¿Por qué? Porque se ha roto el mercado
+
+983
+00:43:34,359 --> 00:43:41,720
+de cerdos. Empezaron a comprar toda la
+
+984
+00:43:38,000 --> 00:43:44,240
+curva menos febrero. Se olvidaron de
+
+985
+00:43:41,720 --> 00:43:47,400
+febrero, dice, "Eso ya está lo lejos." Y
+
+986
+00:43:44,240 --> 00:43:49,559
+yo por yo por aquí por 3300 empecé a
+
+987
+00:43:47,400 --> 00:43:51,680
+meterle, me subía, le metía, me subía,
+
+988
+00:43:49,559 --> 00:43:54,119
+me metía, le subía, me metía. En cierre
+
+989
+00:43:51,680 --> 00:43:57,480
+ya me han dado algunos y lo ves en 4
+
+990
+00:43:54,119 --> 00:43:58,839
+días todo fuera.
+
+991
+00:43:57,480 --> 00:44:02,160
+¿Por qué? Porque porque no tiene
+
+992
+00:43:58,839 --> 00:44:03,640
+sentido. ¿Qué pasó? Que el chaval no
+
+993
+00:44:02,160 --> 00:44:05,359
+estaba.
+
+994
+00:44:03,640 --> 00:44:07,880
+El chaval no estaba no estaba control
+
+995
+00:44:05,359 --> 00:44:10,680
+porque está porque si no no si esto no
+
+996
+00:44:07,880 --> 00:44:12,599
+lo hace y claro al día los tres días
+
+997
+00:44:10,680 --> 00:44:15,720
+cuatro días siguientes ya veo que está
+
+998
+00:44:12,599 --> 00:44:18,440
+apareciendo alguien con lotes de 25
+
+999
+00:44:15,720 --> 00:44:21,559
+ahora que ahora qué hay pues él ya poco
+
+1000
+00:44:18,440 --> 00:44:24,240
+a poco está vendiendo. No lo os os
+
+1001
+00:44:21,559 --> 00:44:27,000
+pondré. Si hacéis scroll en en mucho en
+
+1002
+00:44:24,240 --> 00:44:30,800
+el Telegram, veréis del año pasado del
+
+1003
+00:44:27,000 --> 00:44:33,040
+año pasado lotes, pero pone pone 400 en
+
+1004
+00:44:30,800 --> 00:44:35,920
+un precio. Te pone que hay un lote y se
+
+1005
+00:44:33,040 --> 00:44:38,079
+pone al lado que se han hecho 400.
+
+1006
+00:44:35,920 --> 00:44:41,200
+El tío tiene una orden oculta de un lote
+
+1007
+00:44:38,079 --> 00:44:43,319
+y hay 400 lotes detrás y está días,
+
+1008
+00:44:41,200 --> 00:44:47,200
+días, días, días, días, días, días, días
+
+1009
+00:44:43,319 --> 00:44:49,440
+y ves que el precio se te queda plano.
+
+1010
+00:44:47,200 --> 00:44:51,680
+El abuelo llegó a tener 5000 lotes un
+
+1011
+00:44:49,440 --> 00:44:53,760
+año
+
+1012
+00:44:51,680 --> 00:44:56,079
+y casi lo arruina. Es un gran productor
+
+1013
+00:44:53,760 --> 00:44:59,000
+de cerdos. Es un productor enorme de
+
+1014
+00:44:56,079 --> 00:45:01,079
+cerdos y está es cliente de Dortman. Yo
+
+1015
+00:44:59,000 --> 00:45:04,119
+yo conocía al al hijo y al padre de
+
+1016
+00:45:01,079 --> 00:45:05,839
+Dorman, a los brokers y dices, "Pap,
+
+1017
+00:45:04,119 --> 00:45:07,240
+¿sabes?
+
+1018
+00:45:05,839 --> 00:45:09,720
+Así que esto es un poquito la ¿Por qué
+
+1019
+00:45:07,240 --> 00:45:11,920
+me pongo y qué hago? Pocas operaciones y
+
+1020
+00:45:09,720 --> 00:45:13,480
+cuando veo que está él, cuando veo que
+
+1021
+00:45:11,920 --> 00:45:15,680
+ya lo veremos, cuando veo que está él
+
+1022
+00:45:13,480 --> 00:45:17,559
+bloqueado, siempre me vendo un tic por
+
+1023
+00:45:15,680 --> 00:45:19,800
+debajo de él.
+
+1024
+00:45:17,559 --> 00:45:22,000
+¿Por qué? Porque él a lo mejor tarda 3
+
+1025
+00:45:19,800 --> 00:45:24,280
+cu días, me bloquea el precio y
+
+1026
+00:45:22,000 --> 00:45:26,200
+cualquier movimiento que hay pequeño se
+
+1027
+00:45:24,280 --> 00:45:27,559
+se me mueve de su precio, vuelve a su
+
+1028
+00:45:26,200 --> 00:45:29,480
+precio, vuelvo a vender, se mueve
+
+1029
+00:45:27,559 --> 00:45:31,200
+precio, vuelvo a vender y hago estas
+
+1030
+00:45:29,480 --> 00:45:32,760
+cosas.
+
+1031
+00:45:31,200 --> 00:45:36,160
+Okay,
+
+1032
+00:45:32,760 --> 00:45:37,559
+esto creo que más o menos cuando veréis
+
+1033
+00:45:36,160 --> 00:45:40,200
+que os pongo gráficos de este tipo y
+
+1034
+00:45:37,559 --> 00:45:42,319
+veréis lotes muy fuertes, ya es que es
+
+1035
+00:45:40,200 --> 00:45:45,559
+que ya ya ha parecido, pero de cualquier
+
+1036
+00:45:42,319 --> 00:45:48,440
+forma os lo explicaré. Okay, esto ya se
+
+1037
+00:45:45,559 --> 00:45:52,559
+ha visto. Ah, dejarme un momento. Yo
+
+1038
+00:45:48,440 --> 00:45:52,559
+tenía yo tenía un [ __ ]
+
+1039
+00:45:55,000 --> 00:45:58,000
+cu
+
+1040
+00:46:05,720 --> 00:46:11,800
+Ah,
+
+1041
+00:46:08,599 --> 00:46:14,559
+okay. Vamos a a
+
+1042
+00:46:11,800 --> 00:46:17,680
+hacer una sesión de BX.
+
+1043
+00:46:14,559 --> 00:46:20,079
+Okay. Y
+
+1044
+00:46:17,680 --> 00:46:25,760
+os explicaré dos dos cositas. Una es
+
+1045
+00:46:20,079 --> 00:46:30,319
+novedosa y la otra es más en plan
+
+1046
+00:46:25,760 --> 00:46:31,920
+en plan en plan en tal en hogs. Vale.
+
+1047
+00:46:30,319 --> 00:46:35,240
+Okay.
+
+1048
+00:46:31,920 --> 00:46:38,599
+Hay un vídeo de Vix
+
+1049
+00:46:35,240 --> 00:46:38,599
+que arre.
+
+1050
+00:46:39,559 --> 00:46:43,200
+¿Dónde está esto?
+
+1051
+00:46:48,480 --> 00:46:54,240
+haré un listado para vosotros, pero eh
+
+1052
+00:46:51,880 --> 00:46:56,839
+análisis diario, Fed, no sé qué vi
+
+1053
+00:46:54,240 --> 00:46:59,200
+calendar con futuros. Vale, esto quería
+
+1054
+00:46:56,839 --> 00:47:00,480
+copiároslo.
+
+1055
+00:46:59,200 --> 00:47:02,480
+Lo que
+
+1056
+00:47:00,480 --> 00:47:04,520
+aquí hay una explicación de no sea en 20
+
+1057
+00:47:02,480 --> 00:47:08,440
+minutos, una hora.
+
+1058
+00:47:04,520 --> 00:47:08,440
+Eso lo hemos cortado, tío.
+
+1059
+00:47:12,040 --> 00:47:16,720
+Tiene que haber un recorte de esto. Ah,
+
+1060
+00:47:14,920 --> 00:47:19,280
+vale, pues lo buscaré. Pues no está. Yo
+
+1061
+00:47:16,720 --> 00:47:24,680
+pensaba que aquí he puesto recorte.
+
+1062
+00:47:19,280 --> 00:47:24,680
+Buscaré el recorte. Hay un contin
+
+1063
+00:47:30,280 --> 00:47:36,040
+las las lo que son los las ideas de Vix,
+
+1064
+00:47:33,319 --> 00:47:40,200
+pero vamos a verlas hoy y los repasamos
+
+1065
+00:47:36,040 --> 00:47:44,599
+porque como conlleva viaje en el tiempo,
+
+1066
+00:47:40,200 --> 00:47:45,920
+eh, es es interesante entenderlo, ¿vale?
+
+1067
+00:47:44,599 --> 00:47:49,000
+VI sabemos que es el índice de
+
+1068
+00:47:45,920 --> 00:47:51,720
+volatilidad y yo creo que es un activo
+
+1069
+00:47:49,000 --> 00:47:53,480
+bastante bueno para operar. Ayer
+
+1070
+00:47:51,720 --> 00:47:56,000
+teníamos 10 de diferencia, hoy tenemos
+
+1071
+00:47:53,480 --> 00:47:59,079
+cuatro. Ah, se ha roto un cuatro. Okay.
+
+1072
+00:47:56,000 --> 00:48:00,559
+¿Qué es el trade más convencional en
+
+1073
+00:47:59,079 --> 00:48:03,680
+cuanto al VIX y todo el mundo está
+
+1074
+00:48:00,559 --> 00:48:06,559
+metido en ello? Es vender un futuro
+
+1075
+00:48:03,680 --> 00:48:08,800
+aquí, comprarlo aquí y llevarse el 610%
+
+1076
+00:48:06,559 --> 00:48:11,319
+mensual. ¿Qué problema tiene esta
+
+1077
+00:48:08,800 --> 00:48:12,480
+estrategia? Hoy es un día bueno para
+
+1078
+00:48:11,319 --> 00:48:14,440
+enseñaros el problema de esta
+
+1079
+00:48:12,480 --> 00:48:18,119
+estrategia. El problema de esta
+
+1080
+00:48:14,440 --> 00:48:21,480
+estrategia es que si tú estás haciendo
+
+1081
+00:48:18,119 --> 00:48:23,119
+ese trade, ¿vale?
+
+1082
+00:48:21,480 --> 00:48:25,280
+Ois aquí que lo está lo está operando,
+
+1083
+00:48:23,119 --> 00:48:26,480
+14,000 lotes lleva hoy de spreads,
+
+1084
+00:48:25,280 --> 00:48:31,400
+¿okay?
+
+1085
+00:48:26,480 --> 00:48:34,160
+Eh, realmente, vale, es decir,
+
+1086
+00:48:31,400 --> 00:48:36,520
+vale, eso es una, es decir, perdona, si
+
+1087
+00:48:34,160 --> 00:48:38,800
+lo haces a pelo,
+
+1088
+00:48:36,520 --> 00:48:42,400
+si primero a pelo, si lo haces a pelo
+
+1089
+00:48:38,800 --> 00:48:44,040
+hoy, el mercado
+
+1090
+00:48:42,400 --> 00:48:46,160
+es que te revienta porque sube el VIX,
+
+1091
+00:48:44,040 --> 00:48:47,960
+¿vale? Sube el VIX, tres, cuatro puntos,
+
+1092
+00:48:46,160 --> 00:48:49,880
+pierdes 3 4,000 pavos. Entonces, tenemos
+
+1093
+00:48:47,960 --> 00:48:51,599
+que ir a spreads. ¿Qué pasa con los
+
+1094
+00:48:49,880 --> 00:48:55,119
+spreads cercanos? Con los spreads
+
+1095
+00:48:51,599 --> 00:48:56,839
+cercanos lo que pasa es que el spread
+
+1096
+00:48:55,119 --> 00:48:58,960
+cercano
+
+1097
+00:48:56,839 --> 00:49:00,680
+más o menos
+
+1098
+00:48:58,960 --> 00:49:02,559
+e
+
+1099
+00:49:00,680 --> 00:49:04,680
+coge el contango, ¿vale? Si empieza pa
+
+1100
+00:49:02,559 --> 00:49:09,000
+pa pa p. Nosotros solemos empezar a
+
+1101
+00:49:04,680 --> 00:49:12,079
+operar aquí, ¿eh? Vale, aquí. Vale, eso
+
+1102
+00:49:09,000 --> 00:49:16,480
+es julio.
+
+1103
+00:49:12,079 --> 00:49:16,480
+Ahora estamos en enero,
+
+1104
+00:49:16,839 --> 00:49:21,760
+¿vale? julio, como podéis ver, tenemos
+
+1105
+00:49:19,920 --> 00:49:25,760
+temporadas de riesgo, ¿okay? En
+
+1106
+00:49:21,760 --> 00:49:28,400
+diferentes partes, pero cuando más cerca
+
+1107
+00:49:25,760 --> 00:49:31,640
+estás al vencimiento del contrato de
+
+1108
+00:49:28,400 --> 00:49:34,920
+futuro, ¿vale?, más amplio es el
+
+1109
+00:49:31,640 --> 00:49:36,760
+movimiento del BX. Okay.
+
+1110
+00:49:34,920 --> 00:49:39,920
+Entonces, claro que vemos que en el
+
+1111
+00:49:36,760 --> 00:49:44,200
+front es muy rentable, front es muy muy
+
+1112
+00:49:39,920 --> 00:49:46,520
+muy muy rentable, pero es muy volátil el
+
+1113
+00:49:44,200 --> 00:49:49,760
+front.
+
+1114
+00:49:46,520 --> 00:49:54,240
+Y tenemos que entender, como podéis ver,
+
+1115
+00:49:49,760 --> 00:49:57,000
+cuando estamos a eh 180 días,
+
+1116
+00:49:54,240 --> 00:49:59,760
+la volatilidad es
+
+1117
+00:49:57,000 --> 00:50:01,799
+casi nula. Es decir, podemos hablar
+
+1118
+00:49:59,760 --> 00:50:05,400
+aquí, podemos hablar, ¿no? Aquí tenéis
+
+1119
+00:50:01,799 --> 00:50:08,200
+al ATR. Aquí tenemos un ATR.
+
+1120
+00:50:05,400 --> 00:50:12,119
+Ah, vale. Necesito esto. Aquí tenemos
+
+1121
+00:50:08,200 --> 00:50:14,960
+una ATR que es cero. No puede ser ATR0,
+
+1122
+00:50:12,119 --> 00:50:17,040
+pero da igual. No lo calcula. ¿Por qué
+
+1123
+00:50:14,960 --> 00:50:19,760
+no lo calculas, cabrón? Calcula ATR,
+
+1124
+00:50:17,040 --> 00:50:22,760
+tío. Eres un idiota, ¿eh? Vale, no
+
+1125
+00:50:19,760 --> 00:50:25,359
+calcula ATR. Pero aquí tenemos una TR de
+
+1126
+00:50:22,760 --> 00:50:28,799
+100, 150 pavos y aquí vamos a tener una
+
+1127
+00:50:25,359 --> 00:50:31,520
+ATR de 1500 pavos. A mí me gusta mucho
+
+1128
+00:50:28,799 --> 00:50:34,079
+operar esta parte de la curva,
+
+1129
+00:50:31,520 --> 00:50:36,119
+¿vale? esta esta parte de la curva
+
+1130
+00:50:34,079 --> 00:50:37,640
+porque es la más la más interesante.
+
+1131
+00:50:36,119 --> 00:50:38,839
+Luego entraremos. Claro, el problema que
+
+1132
+00:50:37,640 --> 00:50:40,880
+tenemos en el dix es que si tienes un
+
+1133
+00:50:38,839 --> 00:50:43,920
+movimiento raro te mata directamente y
+
+1134
+00:50:40,880 --> 00:50:45,520
+te deja con te deja sin nada, ¿vale? Es
+
+1135
+00:50:43,920 --> 00:50:50,079
+decir, te te puedes arruinarte
+
+1136
+00:50:45,520 --> 00:50:50,079
+muchísimas veces. Ahora os enseñaré
+
+1137
+00:50:50,440 --> 00:50:57,040
+o un back test que he hecho de de unos
+
+1138
+00:50:53,960 --> 00:51:00,440
+con con futuros, pero
+
+1139
+00:50:57,040 --> 00:51:03,599
+esta curva es la más apetecible, ¿vale?
+
+1140
+00:51:00,440 --> 00:51:07,880
+Pero la más volátil. ¿Qué hago yo?
+
+1141
+00:51:03,599 --> 00:51:13,319
+Spread Greg. Yo lo que hago es me voy si
+
+1142
+00:51:07,880 --> 00:51:13,319
+estos son 30, 60,
+
+1143
+00:51:13,960 --> 00:51:24,160
+120, 160, ¿no? 1 2 3 está y estos son
+
+1144
+00:51:21,160 --> 00:51:24,160
+190
+
+1145
+00:51:25,040 --> 00:51:31,640
+o te vas a 220.
+
+1146
+00:51:28,799 --> 00:51:34,079
+Yo estoy ahora aquí.
+
+1147
+00:51:31,640 --> 00:51:36,400
+Julio Agosto.
+
+1148
+00:51:34,079 --> 00:51:38,480
+¿Qué pasó con Julio Agosto? Que tenéis
+
+1149
+00:51:36,400 --> 00:51:42,280
+que entender de Julio Agosto Julio
+
+1150
+00:51:38,480 --> 00:51:45,200
+Agosto es un contrato. Está muerto
+
+1151
+00:51:42,280 --> 00:51:47,720
+porque está muerto el contrato. Aquí lo
+
+1152
+00:51:45,200 --> 00:51:49,400
+Aquí no hay nadie. Si no hay nadie,
+
+1153
+00:51:47,720 --> 00:51:51,760
+¿vale? Para que entendamos que cuando
+
+1154
+00:51:49,400 --> 00:51:53,640
+digo que no hay nadie,
+
+1155
+00:51:51,760 --> 00:51:55,520
+es decir, aunque se haga muy pocos
+
+1156
+00:51:53,640 --> 00:51:58,119
+lotes, los creadores de mercado están en
+
+1157
+00:51:55,520 --> 00:52:02,160
+el mercado. ¿Vale? ¿Veis que hay un
+
+1158
+00:51:58,119 --> 00:52:05,680
+capullo comprando 273 lotes? Eh, será el
+
+1159
+00:52:02,160 --> 00:52:08,240
+este mismo no sé. Sol. Entonces, yo qué
+
+1160
+00:52:05,680 --> 00:52:11,440
+hago esto lo puedo observar.
+
+1161
+00:52:08,240 --> 00:52:13,119
+Si miras el gráfico, ¿vale? Si miras el
+
+1162
+00:52:11,440 --> 00:52:16,119
+gráfico,
+
+1163
+00:52:13,119 --> 00:52:18,000
+esto se mueve
+
+1164
+00:52:16,119 --> 00:52:19,839
+0405
+
+1165
+00:52:18,000 --> 00:52:22,760
+020.
+
+1166
+00:52:19,839 --> 00:52:25,079
+Bueno,
+
+1167
+00:52:22,760 --> 00:52:26,680
+¿por qué es este movimiento tan pequeño
+
+1168
+00:52:25,079 --> 00:52:31,200
+de precio?
+
+1169
+00:52:26,680 --> 00:52:33,760
+Porque estos futuros que veis aquí,
+
+1170
+00:52:31,200 --> 00:52:35,280
+estos futuros que veis aquí,
+
+1171
+00:52:33,760 --> 00:52:38,319
+comportamiento de la curva, ya sabéis
+
+1172
+00:52:35,280 --> 00:52:41,319
+cómo es. Ayer estábamos
+
+1173
+00:52:38,319 --> 00:52:41,319
+así,
+
+1174
+00:52:42,160 --> 00:52:47,960
+¿vale? Cuando hay algún problema, la
+
+1175
+00:52:44,280 --> 00:52:47,960
+curva se pone así,
+
+1176
+00:52:49,040 --> 00:52:52,839
+¿vale?
+
+1177
+00:52:50,640 --> 00:52:56,520
+Cuando el problema es gordo del cojón,
+
+1178
+00:52:52,839 --> 00:52:58,079
+la curva se pone así.
+
+1179
+00:52:56,520 --> 00:53:03,359
+Vale,
+
+1180
+00:52:58,079 --> 00:53:06,640
+si tú estás a 120 más
+
+1181
+00:53:03,359 --> 00:53:06,640
+esta delta
+
+1182
+00:53:08,240 --> 00:53:13,400
+es pequeñísima, pequeñísima. Puede ser
+
+1183
+00:53:11,480 --> 00:53:18,799
+grande, pero hablamos de que aquí se te
+
+1184
+00:53:13,400 --> 00:53:20,079
+puede mover 200 pavos. Okay. Entonces, a
+
+1185
+00:53:18,799 --> 00:53:21,839
+mí me gusta mucho esta parte de la
+
+1186
+00:53:20,079 --> 00:53:26,280
+curva. ¿Por qué? Porque luego cuando se
+
+1187
+00:53:21,839 --> 00:53:27,839
+tranquiliza el mercado
+
+1188
+00:53:26,280 --> 00:53:30,359
+vemos como evoluciona un poquito la
+
+1189
+00:53:27,839 --> 00:53:33,359
+curva, ¿no? No sé si se verá.
+
+1190
+00:53:30,359 --> 00:53:36,319
+Voy a hacer, voy a hacer otra cosa. Ya
+
+1191
+00:53:33,359 --> 00:53:39,319
+hago una foto.
+
+1192
+00:53:36,319 --> 00:53:39,319
+Eh,
+
+1193
+00:53:47,599 --> 00:53:51,319
+así lo veréis y todo.
+
+1194
+00:53:52,880 --> 00:53:57,319
+Vale, aquí tenemos los distintos los
+
+1195
+00:53:55,000 --> 00:54:00,440
+distintos meses, ¿vale?
+
+1196
+00:53:57,319 --> 00:54:04,119
+Eh, no, perdonar, antes, antes tenemos
+
+1197
+00:54:00,440 --> 00:54:07,240
+que ir a operar, ¿vale? Eh, materias
+
+1198
+00:54:04,119 --> 00:54:12,400
+primas, ponemos aquí H. Vale,
+
+1199
+00:54:07,240 --> 00:54:15,000
+necesitamos eh futuros, necesitamos eh
+
+1200
+00:54:12,400 --> 00:54:17,640
+diferencias diferenciales de futuros y
+
+1201
+00:54:15,000 --> 00:54:19,160
+necesitamos un
+
+1202
+00:54:17,640 --> 00:54:21,880
+junio.
+
+1203
+00:54:19,160 --> 00:54:26,079
+Necesitamos un junio,
+
+1204
+00:54:21,880 --> 00:54:28,359
+un junio, agosto. Junio, junio,
+
+1205
+00:54:26,079 --> 00:54:30,640
+junio, junio. Junio, abril, tío. Me
+
+1206
+00:54:28,359 --> 00:54:32,599
+estás contando, tío. Junio, julio,
+
+1207
+00:54:30,640 --> 00:54:34,920
+junio, agosto. Julio, agosto, no, junio,
+
+1208
+00:54:32,599 --> 00:54:37,040
+agosto, quiero yo. Junio, agosto, este.
+
+1209
+00:54:34,920 --> 00:54:40,000
+A ver qué a ver qué [ __ ] me vas a
+
+1210
+00:54:37,040 --> 00:54:41,640
+poner.
+
+1211
+00:54:40,000 --> 00:54:43,920
+Vale, me gusta como me lo has puesto.
+
+1212
+00:54:41,640 --> 00:54:46,920
+Vale, si yo aquí le digo, vale, así
+
+1213
+00:54:43,920 --> 00:54:48,680
+estoy le digo, si alguien sabe decirme
+
+1214
+00:54:46,920 --> 00:54:51,599
+si le pincho una vez porque me pone dos
+
+1215
+00:54:48,680 --> 00:54:54,400
+órdenes, ¿vale? Le digo que yo en cuatro
+
+1216
+00:54:51,599 --> 00:54:57,880
+quiero vender un lote, ¿vale? Y ya estoy
+
+1217
+00:54:54,400 --> 00:54:59,920
+puesto en el mercado,
+
+1218
+00:54:57,880 --> 00:55:03,480
+¿vale? Estoy aquí con estos dos, ¿lo
+
+1219
+00:54:59,920 --> 00:55:05,680
+veis? Y mira, un tío ya ya está haciendo
+
+1220
+00:55:03,480 --> 00:55:07,119
+ocultas. Este ha sido comprador, ¿eh?
+
+1221
+00:55:05,680 --> 00:55:09,160
+Esto lo he visto que ha sido comprador
+
+1222
+00:55:07,119 --> 00:55:11,559
+porque estaba puesto. Mira, aquí hay
+
+1223
+00:55:09,160 --> 00:55:14,079
+arriba en cinco y hay un tío con con más
+
+1224
+00:55:11,559 --> 00:55:15,799
+ocultos. Ya veremos. Este es mi lote.
+
+1225
+00:55:14,079 --> 00:55:17,960
+Ese es mi lote. Ahora, entonces, ¿qué
+
+1226
+00:55:15,799 --> 00:55:19,960
+hago yo con este lote? Esto lo pongo
+
+1227
+00:55:17,960 --> 00:55:21,520
+aquí. Perdonad que yo salto así. Tú
+
+1228
+00:55:19,960 --> 00:55:23,920
+también vete arriba. Entonces, yo le
+
+1229
+00:55:21,520 --> 00:55:28,240
+digo, "Este es 400. Si me lo haces
+
+1230
+00:55:23,920 --> 00:55:30,480
+adjuntar límite, ¿vale? Es 0400, por
+
+1231
+00:55:28,240 --> 00:55:32,880
+ejemplo, en 0,150.
+
+1232
+00:55:30,480 --> 00:55:35,039
+Para mí, para hoy es suficiente. Esto lo
+
+1233
+00:55:32,880 --> 00:55:39,079
+pongo útil cancel y esto lo pongo útil
+
+1234
+00:55:35,039 --> 00:55:40,599
+cancel. Eh, actualizar. Ya está.
+
+1235
+00:55:39,079 --> 00:55:43,680
+Okay.
+
+1236
+00:55:40,599 --> 00:55:45,160
+Y así pongo órdenes. Y luego, mira, ya
+
+1237
+00:55:43,680 --> 00:55:47,920
+se ha hecho, ¿ves? Se ha hecho se ha
+
+1238
+00:55:45,160 --> 00:55:51,119
+hecho a Se ha hecho. Vale, ¿por qué?
+
+1239
+00:55:47,920 --> 00:55:54,160
+Mira, está hay alguien oculto, ¿lo veis?
+
+1240
+00:55:51,119 --> 00:55:55,640
+La mía era una, se han hecho ocho y hay
+
+1241
+00:55:54,160 --> 00:55:58,079
+ocho más. Vale, no pasa nada. Están
+
+1242
+00:55:55,640 --> 00:56:01,880
+vendiendo ocultas. Se me ha hecho 0400.
+
+1243
+00:55:58,079 --> 00:56:01,880
+Entonces, si me ha hecho 0400,
+
+1244
+00:56:02,440 --> 00:56:07,359
+¿vale? Porque yo tengo junio, julio,
+
+1245
+00:56:03,880 --> 00:56:08,799
+agostos también. Okay, ya ya entiendo la
+
+1246
+00:56:07,359 --> 00:56:10,760
+película. Okay, no pasa nada. Porque
+
+1247
+00:56:08,799 --> 00:56:12,520
+decía, porque tengo tan pocos porque
+
+1248
+00:56:10,760 --> 00:56:15,039
+tengo tengo mariposas y me están
+
+1249
+00:56:12,520 --> 00:56:16,240
+compensando. Tengo suficientes, no tengo
+
+1250
+00:56:15,039 --> 00:56:18,760
+que meter más. Entonces, ¿qué le he
+
+1251
+00:56:16,240 --> 00:56:20,359
+hecho yo?
+
+1252
+00:56:18,760 --> 00:56:22,640
+Al igual que en esta plataforma, yo
+
+1253
+00:56:20,359 --> 00:56:25,760
+tengo las órdenes de salida por aquí,
+
+1254
+00:56:22,640 --> 00:56:27,760
+pues en IB también me pongo a 0150 y tú
+
+1255
+00:56:25,760 --> 00:56:31,039
+dices, "Ay, y si está bajando y te va a
+
+1256
+00:56:27,760 --> 00:56:35,240
+comprar 150.
+
+1257
+00:56:31,039 --> 00:56:39,599
+150. Lo pongos en 150. Sí. A ver si está
+
+1258
+00:56:35,240 --> 00:56:41,599
+tarde. ¿Y qué le digo? Si me toca 150,
+
+1259
+00:56:39,599 --> 00:56:46,599
+adjuntar
+
+1260
+00:56:41,599 --> 00:56:50,359
+límite. Véndeme en 0.450.
+
+1261
+00:56:46,599 --> 00:56:55,920
+Le digo enviar y si me lo haces en 0,450
+
+1262
+00:56:50,359 --> 00:57:00,000
+le digo adjuntar límite en 0.275
+
+1263
+00:56:55,920 --> 00:57:02,839
+cco porque te da error cinco. Vale, pap
+
+1264
+00:57:00,000 --> 00:57:05,160
+y dices, "Ya estás
+
+1265
+00:57:02,839 --> 00:57:08,039
+qué hará? ¿Qué hará él? ¿Qué hace qué
+
+1266
+00:57:05,160 --> 00:57:10,480
+hace el [ __ ] El [ __ ] es siempre me
+
+1267
+00:57:08,039 --> 00:57:12,000
+juega con un lote porque quiero un lote.
+
+1268
+00:57:10,480 --> 00:57:13,680
+No me gusta esta estrategia tanto para
+
+1269
+00:57:12,000 --> 00:57:16,960
+meterles más lotes más en la cuenta de
+
+1270
+00:57:13,680 --> 00:57:19,440
+mi mujer, ¿eh?
+
+1271
+00:57:16,960 --> 00:57:22,599
+me me ha vendido a 400, me va a comprar
+
+1272
+00:57:19,440 --> 00:57:26,319
+a 150. Si me compra 150, me vuelve a
+
+1273
+00:57:22,599 --> 00:57:28,880
+vender a 0450. Y si me vuelve a 0450, me
+
+1274
+00:57:26,319 --> 00:57:31,359
+lo compra a 0275.
+
+1275
+00:57:28,880 --> 00:57:33,880
+Okay. Y así es, así es como he puesto la
+
+1276
+00:57:31,359 --> 00:57:36,240
+orden. Como puedes ver, tengo para una
+
+1277
+00:57:33,880 --> 00:57:40,039
+mariposa que tengo que verificar. Tengo
+
+1278
+00:57:36,240 --> 00:57:42,240
+los de ayer que me han No,
+
+1279
+00:57:40,039 --> 00:57:43,880
+ayer me entró y me ha salido y he vuelto
+
+1280
+00:57:42,240 --> 00:57:47,520
+a poner la orden. Ahora solo tengo dos
+
+1281
+00:57:43,880 --> 00:57:49,799
+órdenes. Tengo feeder catles y tengo gas
+
+1282
+00:57:47,520 --> 00:57:52,559
+naturales. Ahora en esta cuenta ya
+
+1283
+00:57:49,799 --> 00:57:54,400
+iremos poco a poco iremos poniendo más
+
+1284
+00:57:52,559 --> 00:57:56,520
+cosas. Vale, perdonar que he
+
+1285
+00:57:54,400 --> 00:57:59,319
+interrumpido lo de lo del VIX, pero es
+
+1286
+00:57:56,520 --> 00:58:02,319
+lo que hay. Fuera. Entonces, volvemos a
+
+1287
+00:57:59,319 --> 00:58:05,440
+los del VIX. ¿Qué?
+
+1288
+00:58:02,319 --> 00:58:08,240
+Esos cerdos. Tú vete aquí. Vale. Okay.
+
+1289
+00:58:05,440 --> 00:58:12,440
+¿Qué qué estamos viendo? ¿Qué estamos
+
+1290
+00:58:08,240 --> 00:58:14,119
+viendo en en todo en en todo lo que
+
+1291
+00:58:12,440 --> 00:58:17,640
+tenemos que entender, ¿vale? La curva la
+
+1292
+00:58:14,119 --> 00:58:20,599
+hemos visto. Quita. Okay. Vemos que
+
+1293
+00:58:17,640 --> 00:58:23,359
+enero febrero cotiza a 115, ayer estaba
+
+1294
+00:58:20,599 --> 00:58:26,520
+a 180. Veremos que febrero marzo cotiza
+
+1295
+00:58:23,359 --> 00:58:29,559
+074. Es el contango de la curva de
+
+1296
+00:58:26,520 --> 00:58:31,440
+spread. Vale, repito, contango de la
+
+1297
+00:58:29,559 --> 00:58:36,280
+curva de spread.
+
+1298
+00:58:31,440 --> 00:58:39,359
+068 033 017. Aquí tenemos un problema de
+
+1299
+00:58:36,280 --> 00:58:41,880
+volatilidad 044. Serán días festivos de
+
+1300
+00:58:39,359 --> 00:58:46,760
+verano, creo que es por el 4 de julio.
+
+1301
+00:58:41,880 --> 00:58:48,440
+Okay, un día lo analizaré.
+
+1302
+00:58:46,760 --> 00:58:50,319
+Y luego tenemos el julio agosto, que
+
+1303
+00:58:48,440 --> 00:58:53,280
+está a 014.
+
+1304
+00:58:50,319 --> 00:58:56,760
+¿Qué sabemos de la curva? Pues nosotros
+
+1305
+00:58:53,280 --> 00:58:59,359
+sabemos de la curva. Si está normal, si
+
+1306
+00:58:56,760 --> 00:59:02,640
+está normal
+
+1307
+00:58:59,359 --> 00:59:05,599
+va a [ __ ] pendiente. Si nos tensionamos
+
+1308
+00:59:02,640 --> 00:59:07,160
+se va a quedar plana, solo se va a poner
+
+1309
+00:59:05,599 --> 00:59:09,480
+inversa, es decir, solo se van a poner
+
+1310
+00:59:07,160 --> 00:59:11,640
+los present negativo,
+
+1311
+00:59:09,480 --> 00:59:14,520
+¿vale? Los lejanos hablo. Si hay una
+
+1312
+00:59:11,640 --> 00:59:17,599
+inversión tremenda de la curva.
+
+1313
+00:59:14,520 --> 00:59:19,319
+Entonces, que ahora estrategia,
+
+1314
+00:59:17,599 --> 00:59:21,799
+yo hago dos hago dos tipos de
+
+1315
+00:59:19,319 --> 00:59:24,039
+estrategias, ¿vale? Uno tipo de
+
+1316
+00:59:21,799 --> 00:59:26,160
+estrategia es
+
+1317
+00:59:24,039 --> 00:59:29,200
+para que nos entendamos que cuando
+
+1318
+00:59:26,160 --> 00:59:31,960
+estos, es decir, estos son eh cero
+
+1319
+00:59:29,200 --> 00:59:34,280
+porque esto esto ha vencido ya, ¿no?
+
+1320
+00:59:31,960 --> 00:59:38,079
+Enero ha vencido, ¿vale? Quedan estos.
+
+1321
+00:59:34,280 --> 00:59:42,680
+Estos son 30, estos son 60, estos son
+
+1322
+00:59:38,079 --> 00:59:46,680
+90, estos son 120, estos son
+
+1323
+00:59:42,680 --> 00:59:49,599
+50. No sé sumar los 30, pero eh Sí, esos
+
+1324
+00:59:46,680 --> 00:59:51,960
+son 180 días. Okay. Antes cuando sumaba,
+
+1325
+00:59:49,599 --> 00:59:55,000
+sumaba mal porque porque esto esto vence
+
+1326
+00:59:51,960 --> 00:59:58,119
+hoy. En la curva de Dix, hoy estás off.
+
+1327
+00:59:55,000 --> 01:00:00,480
+Hoy ha vencido el DIX. Okay.
+
+1328
+00:59:58,119 --> 01:00:02,119
+A mí me gusta comprar, a mí me gusta
+
+1329
+01:00:00,480 --> 01:00:04,319
+comprar
+
+1330
+01:00:02,119 --> 01:00:06,440
+los
+
+1331
+01:00:04,319 --> 01:00:09,520
+A mí me gusta comprar cuando más barato,
+
+1332
+01:00:06,440 --> 01:00:14,400
+mejor, ¿no? Pero cuando hay tensión en
+
+1333
+01:00:09,520 --> 01:00:17,520
+la curva estos 90, 120 se suelen acercar
+
+1334
+01:00:14,400 --> 01:00:17,520
+a cero.
+
+1335
+01:00:19,160 --> 01:00:22,960
+Eso me gusta.
+
+1336
+01:00:20,799 --> 01:00:24,559
+Okay.
+
+1337
+01:00:22,960 --> 01:00:27,359
+Mientras
+
+1338
+01:00:24,559 --> 01:00:29,079
+todo lo que es, por ejemplo, 180
+
+1339
+01:00:27,359 --> 01:00:31,200
+empezado, porque no he calculado este
+
+1340
+01:00:29,079 --> 01:00:35,400
+porque está en 044, tendría que
+
+1341
+01:00:31,200 --> 01:00:38,799
+calcular. Ah, y mientras esto lo tengo
+
+1342
+01:00:35,400 --> 01:00:42,880
+de fondo. ¿Qué significa de fondo? Yo sé
+
+1343
+01:00:38,799 --> 01:00:45,839
+que a mí cada mes cada mes me va a pagar
+
+1344
+01:00:42,880 --> 01:00:49,079
+por contrato alrededor de 100 150 porque
+
+1345
+01:00:45,839 --> 01:00:53,640
+si ves este contrato yo compré en 68, ya
+
+1346
+01:00:49,079 --> 01:00:56,079
+está en 14. Pero sé que el mes siguiente
+
+1347
+01:00:53,640 --> 01:00:57,720
+esto este debería valer
+
+1348
+01:00:56,079 --> 01:01:01,680
+en línea en continuo, ¿vale? En BX
+
+1349
+01:00:57,720 --> 01:01:04,000
+continuo, esto debería valer de 22 y
+
+1350
+01:01:01,680 --> 01:01:06,920
+este
+
+1351
+01:01:04,000 --> 01:01:09,640
+por festivo, este ya debería 30, ya
+
+1352
+01:01:06,920 --> 01:01:12,960
+vemos que aquí vamos a 33. Aquí aquí
+
+1353
+01:01:09,640 --> 01:01:14,839
+subimos a 70, 73. Esto también depende
+
+1354
+01:01:12,960 --> 01:01:18,359
+de los días hábiles que hay, pero por
+
+1355
+01:01:14,839 --> 01:01:21,079
+cada mes, por cada mes,
+
+1356
+01:01:18,359 --> 01:01:23,640
+solo por el contango, que el primer mes
+
+1357
+01:01:21,079 --> 01:01:26,880
+es un 10%, que tú dices, "Ales tus
+
+1358
+01:01:23,640 --> 01:01:29,680
+huevos, yo prefiero este pequeñito este
+
+1359
+01:01:26,880 --> 01:01:33,200
+pequeño contango, ¿vale? Que dice aquí,
+
+1360
+01:01:29,680 --> 01:01:33,200
+yo soy de los
+
+1361
+01:01:33,240 --> 01:01:37,720
+blanditos, vamos a llamarlo, para no
+
+1362
+01:01:35,359 --> 01:01:40,920
+utilizar palabras malas, ¿vale?
+
+1363
+01:01:37,720 --> 01:01:42,440
+Entonces, yo intento yo yo intento eh
+
+1364
+01:01:40,920 --> 01:01:45,520
+capturar
+
+1365
+01:01:42,440 --> 01:01:47,520
+esto de aquí, ¿okay? Pero ves que todos
+
+1366
+01:01:45,520 --> 01:01:49,039
+los meses tiene un poquito su contango,
+
+1367
+01:01:47,520 --> 01:01:51,119
+¿okay?
+
+1368
+01:01:49,039 --> 01:01:54,200
+Habría más temáticamente que contar el
+
+1369
+01:01:51,119 --> 01:01:56,039
+contiguo, pero mi estrategia base que
+
+1370
+01:01:54,200 --> 01:01:59,559
+voy a menter y voy a tener mucho este
+
+1371
+01:01:56,039 --> 01:02:01,960
+año es esto. Es es en estas curvas que
+
+1372
+01:01:59,559 --> 01:02:04,599
+me paguen. Sí que es verdad que empezaré
+
+1373
+01:02:01,960 --> 01:02:06,960
+una aquí porque claro, ahora no me voy a
+
+1374
+01:02:04,599 --> 01:02:11,839
+quedar fuera de la de las cosas buenas,
+
+1375
+01:02:06,960 --> 01:02:11,839
+¿no? Ah, y
+
+1376
+01:02:12,039 --> 01:02:18,640
+a ver si sube. Ah, no, el charm es
+
+1377
+01:02:14,279 --> 01:02:20,799
+negativo. Vale. Ah.
+
+1378
+01:02:18,640 --> 01:02:22,720
+dices,
+
+1379
+01:02:20,799 --> 01:02:27,000
+"¿Por qué lo esto es continuo, esto
+
+1380
+01:02:22,720 --> 01:02:27,000
+siempre lo tendremos siempre pa
+
+1381
+01:02:27,240 --> 01:02:35,279
+lo dejamos uno o dos meses y volvemos
+
+1382
+01:02:31,200 --> 01:02:38,520
+otra vez." Es decir, ah, he borrado.
+
+1383
+01:02:35,279 --> 01:02:41,559
+Cuando estamos en 160 180 días, cuando
+
+1384
+01:02:38,520 --> 01:02:43,920
+nos acercamos a 120, nos vamos porque
+
+1385
+01:02:41,559 --> 01:02:47,640
+ahí se vuelve muy volátil. Otra es
+
+1386
+01:02:43,920 --> 01:02:50,119
+arriba, otra es arriba y vamos cogiendo
+
+1387
+01:02:47,640 --> 01:02:53,960
+parte de ese contango
+
+1388
+01:02:50,119 --> 01:02:53,960
+hasta el día que nos aburramos.
+
+1389
+01:02:54,160 --> 01:02:59,079
+Es una forma
+
+1390
+01:02:56,720 --> 01:03:01,960
+continua de hacer dinero, menos cuando
+
+1391
+01:02:59,079 --> 01:03:03,640
+se se tensa la curva, cuando tienes un
+
+1392
+01:03:01,960 --> 01:03:05,839
+cuando tienes un problema gordo, toda la
+
+1393
+01:03:03,640 --> 01:03:07,680
+curva se tensa. Pero entonces yo voy a
+
+1394
+01:03:05,839 --> 01:03:11,000
+empezar a cargar la segunda estrategia
+
+1395
+01:03:07,680 --> 01:03:13,520
+que os he dicho, ¿vale? que es intentar
+
+1396
+01:03:11,000 --> 01:03:18,079
+pillar estos, es decir, los hemos dicho
+
+1397
+01:03:13,520 --> 01:03:21,480
+que estos son eh 30, 60
+
+1398
+01:03:18,079 --> 01:03:21,480
+eh 120
+
+1399
+01:03:22,920 --> 01:03:29,279
+y 180. Vale, estos si los podemos parar
+
+1400
+01:03:26,760 --> 01:03:31,160
+cerca de cero
+
+1401
+01:03:29,279 --> 01:03:33,559
+o en negativo
+
+1402
+01:03:31,160 --> 01:03:39,200
+o en negativo,
+
+1403
+01:03:33,559 --> 01:03:39,200
+pues bien, ¿me entiendes? Pues bien.
+
+1404
+01:03:39,799 --> 01:03:43,799
+¿Por qué? Porque
+
+1405
+01:03:43,960 --> 01:03:48,640
+es cuando operaremos corto de
+
+1406
+01:03:45,559 --> 01:03:52,720
+volatilidad, ¿vale? Cuando intentaremos
+
+1407
+01:03:48,640 --> 01:03:52,720
+hacer cortos de volatilidad.
+
+1408
+01:03:54,480 --> 01:03:58,920
+Una pregunta,
+
+1409
+01:03:56,520 --> 01:03:59,200
+pero vas largo en esos spreads, ¿no? Tal
+
+1410
+01:03:58,920 --> 01:04:02,119
+y
+
+1411
+01:03:59,200 --> 01:04:05,680
+a ver, ahí hay un prueba gordo, ¿vale?
+
+1412
+01:04:02,119 --> 01:04:09,640
+el mercado el mercado
+
+1413
+01:04:05,680 --> 01:04:11,440
+el el CCE nos lo cotiza en largos y tú
+
+1414
+01:04:09,640 --> 01:04:13,240
+en por desgracia yo siempre os he dicho
+
+1415
+01:04:11,440 --> 01:04:15,039
+que en los
+
+1416
+01:04:13,240 --> 01:04:16,680
+en Interactive Brokers al revés
+
+1417
+01:04:15,039 --> 01:04:18,559
+en inter uno no en Interactive Brokers
+
+1418
+01:04:16,680 --> 01:04:21,200
+también los tiene así pero yo lo que os
+
+1419
+01:04:18,559 --> 01:04:24,760
+he dicho a vosotros es que si en por
+
+1420
+01:04:21,200 --> 01:04:24,760
+ejemplo en en
+
+1421
+01:04:24,880 --> 01:04:30,480
+en sí season son algo y yo lo siempre
+
+1422
+01:04:27,160 --> 01:04:33,079
+los tengo montado al revés decir el VIX
+
+1423
+01:04:30,480 --> 01:04:33,079
+Vale.
+
+1424
+01:04:33,480 --> 01:04:37,359
+También se puede poner reverse, vi el
+
+1425
+01:04:35,520 --> 01:04:39,039
+otro día en Interactive Brokers.
+
+1426
+01:04:37,359 --> 01:04:41,039
+Sí, se puede poner reverse también. Sí,
+
+1427
+01:04:39,039 --> 01:04:43,000
+sí, sí, sí. Lo veis, yo los VIX los
+
+1428
+01:04:41,039 --> 01:04:45,319
+tengo montado como la curva, ¿vale? Que
+
+1429
+01:04:43,000 --> 01:04:48,240
+siempre va negativo, pero por ejemplo
+
+1430
+01:04:45,319 --> 01:04:50,319
+este yo ya me he acostumbrado, pero va
+
+1431
+01:04:48,240 --> 01:04:54,880
+negativo, vas vendido, ¿no veis? Está
+
+1432
+01:04:50,319 --> 01:04:57,839
+-13 y y realmente está más 13. Él está
+
+1433
+01:04:54,880 --> 01:05:00,240
+más 13. ¿Por qué? Porque el mercado
+
+1434
+01:04:57,839 --> 01:05:02,440
+quiere operarlo así, quiere operarlo al
+
+1435
+01:05:00,240 --> 01:05:05,039
+revés. Es decir, las cotizaciones que te
+
+1436
+01:05:02,440 --> 01:05:08,000
+dan son al revés, pero os acostumbraréis
+
+1437
+01:05:05,039 --> 01:05:10,160
+un poquito a este a estos cambios de de
+
+1438
+01:05:08,000 --> 01:05:13,760
+humor que pueden tener que pueden tener
+
+1439
+01:05:10,160 --> 01:05:13,760
+estos bichos, ¿no?
+
+1440
+01:05:17,200 --> 01:05:23,640
+Es buena la cartera de tío. Vale. Ah,
+
+1441
+01:05:21,240 --> 01:05:27,520
+entonces estas son dos estrategias que
+
+1442
+01:05:23,640 --> 01:05:29,039
+se pueden hacer. Una es de de de pigar
+
+1443
+01:05:27,520 --> 01:05:31,240
+el contago y la otra en la que estoy
+
+1444
+01:05:29,039 --> 01:05:33,559
+trabajando. Es decir, no os agobiéis
+
+1445
+01:05:31,240 --> 01:05:36,680
+ahora porque todo el año hablaremos de
+
+1446
+01:05:33,559 --> 01:05:41,480
+ella o todo el año, ¿no? Siempre eso es
+
+1447
+01:05:36,680 --> 01:05:44,000
+como Hacienda, siempre hacemos eso y
+
+1448
+01:05:41,480 --> 01:05:48,039
+habrá muchas preguntas, veremos y lo
+
+1449
+01:05:44,000 --> 01:05:49,640
+hacemos, pero os quería contar otra
+
+1450
+01:05:48,039 --> 01:05:51,880
+para,
+
+1451
+01:05:49,640 --> 01:05:54,000
+¿vale? Otra otra estrategia. Esto lo
+
+1452
+01:05:51,880 --> 01:05:55,680
+hemos hecho.
+
+1453
+01:05:54,000 --> 01:05:58,000
+Ah, vale, sí. El el el viaje en el
+
+1454
+01:05:55,680 --> 01:06:01,000
+tiempo. Vale,
+
+1455
+01:05:58,000 --> 01:06:03,680
+normalmente cuando
+
+1456
+01:06:01,000 --> 01:06:07,039
+tú dices
+
+1457
+01:06:03,680 --> 01:06:12,279
+y si se tensa la curva.
+
+1458
+01:06:07,039 --> 01:06:14,039
+Okay. Si volvemos a esto, ¿no? Es decir,
+
+1459
+01:06:12,279 --> 01:06:16,079
+una pregunta, ¿no? De suelo hacer,
+
+1460
+01:06:14,039 --> 01:06:19,279
+espera, aquí lo tenía mejor con la
+
+1461
+01:06:16,079 --> 01:06:22,279
+imagen aquella. Tú vete arriba, vete
+
+1462
+01:06:19,279 --> 01:06:22,279
+arriba.
+
+1463
+01:06:26,960 --> 01:06:33,520
+Tú dices, "Greg, pero de dónde sé yo el
+
+1464
+01:06:30,000 --> 01:06:33,520
+riesgo que asumo
+
+1465
+01:06:34,119 --> 01:06:39,839
+que cuánto se cuánto se me puede mover
+
+1466
+01:06:36,880 --> 01:06:41,799
+un julio, agosto,
+
+1467
+01:06:39,839 --> 01:06:47,920
+¿cuánto se me puede mover un julio
+
+1468
+01:06:41,799 --> 01:06:53,079
+agosto? Hemos dicho estos ah 30, 60, 90,
+
+1469
+01:06:47,920 --> 01:06:55,400
+120, 150, 180. Vale.
+
+1470
+01:06:53,079 --> 01:06:59,480
+¿Cuánto se me puede mover en un en un
+
+1471
+01:06:55,400 --> 01:07:02,599
+movimiento de riesgo un julio, agosto
+
+1472
+01:06:59,480 --> 01:07:05,559
+cuando estamos, por ejemplo,
+
+1473
+01:07:02,599 --> 01:07:07,920
+6 meses antes?
+
+1474
+01:07:05,559 --> 01:07:11,520
+Entonces tú dices,
+
+1475
+01:07:07,920 --> 01:07:14,760
+voy a cogerme el mayo junio. Okay.
+
+1476
+01:07:11,520 --> 01:07:17,799
+Cogerme mayo junio y veo cómo se
+
+1477
+01:07:14,760 --> 01:07:19,319
+comportó cuando el mayo o junio era 180
+
+1478
+01:07:17,799 --> 01:07:24,119
+días. Ahora dices, este se ha vuelto
+
+1479
+01:07:19,319 --> 01:07:27,559
+loco. Hm. Sí y no. Eh,
+
+1480
+01:07:24,119 --> 01:07:27,559
+pues, ¿qué hacemos?
+
+1481
+01:07:35,440 --> 01:07:40,720
+Mayo, junio. Vale, ver esto.
+
+1482
+01:07:50,440 --> 01:07:56,760
+El mayo, junio, cuando junio julio,
+
+1483
+01:07:53,880 --> 01:07:58,799
+¿cuánto cuánto valía? Entonces ahora
+
+1484
+01:07:56,760 --> 01:08:03,160
+tenemos que decir, vale, ahora tenemos
+
+1485
+01:07:58,799 --> 01:08:03,160
+que decir mayo, junio,
+
+1486
+01:08:07,640 --> 01:08:12,480
+¿vale? Mayo, junio. Okay.
+
+1487
+01:08:10,520 --> 01:08:15,720
+Entonces, ¿qué queremos nosotros?
+
+1488
+01:08:12,480 --> 01:08:21,159
+Queremos nosotros saber,
+
+1489
+01:08:15,720 --> 01:08:21,159
+esto es enero, esto es octubre, pues
+
+1490
+01:08:27,679 --> 01:08:31,480
+porque no puedo hacer estos gráficos más
+
+1491
+01:08:29,239 --> 01:08:31,480
+grandes.
+
+1492
+01:08:40,359 --> 01:08:45,279
+es
+
+1493
+01:08:43,000 --> 01:08:47,640
+este mayo junio,
+
+1494
+01:08:45,279 --> 01:08:50,839
+¿vale? Este mayo junio
+
+1495
+01:08:47,640 --> 01:08:53,600
+si vuelvo unos 30 días me voy por
+
+1496
+01:08:50,839 --> 01:08:55,440
+ejemplo a noviembre, ¿vale? Cuando
+
+1497
+01:08:53,600 --> 01:08:58,159
+cuando hubo un poquito de de
+
+1498
+01:08:55,440 --> 01:09:01,960
+volatilidad, ¿okay?
+
+1499
+01:08:58,159 --> 01:09:01,960
+Estos son, a ver,
+
+1500
+01:09:08,520 --> 01:09:15,560
+hace esto es más o menos hace 30 días,
+
+1501
+01:09:12,199 --> 01:09:18,159
+esos son 30 y aquí ponle eso son 60
+
+1502
+01:09:15,560 --> 01:09:20,480
+días, ¿vale?
+
+1503
+01:09:18,159 --> 01:09:23,040
+Entonces, en el pico de volatilidad, el
+
+1504
+01:09:20,480 --> 01:09:27,520
+pico de volatilidad hace 30 días y hace
+
+1505
+01:09:23,040 --> 01:09:34,000
+90 días, yo puedo ver
+
+1506
+01:09:27,520 --> 01:09:34,000
+que un junio, julio, un julio, agosto,
+
+1507
+01:09:34,120 --> 01:09:39,600
+ves que también se comportaba en la zona
+
+1508
+01:09:35,960 --> 01:09:42,120
+de 03, se iba a 015 y tuvimos un pico de
+
+1509
+01:09:39,600 --> 01:09:45,319
+volatilidad
+
+1510
+01:09:42,120 --> 01:09:47,199
+y el julio agosto aquí, aquí es cuando
+
+1511
+01:09:45,319 --> 01:09:49,640
+estuvo aquí estuvimos
+
+1512
+01:09:47,199 --> 01:09:53,960
+diciembre.
+
+1513
+01:09:49,640 --> 01:09:53,960
+Eso son 30 días.
+
+1514
+01:09:54,040 --> 01:09:59,600
+Esto, ¿cómo? ¿Cómo puede ser esto? Enero
+
+1515
+01:09:56,000 --> 01:09:59,600
+2025, tío.
+
+1516
+01:09:59,920 --> 01:10:05,480
+Ah, no, enero 2026. Sí. Esto fue en
+
+1517
+01:10:03,159 --> 01:10:07,960
+octubre cuando noviembre. Noviembre.
+
+1518
+01:10:05,480 --> 01:10:10,640
+¿Cuándo estuvimos en noviembre? Aquí es
+
+1519
+01:10:07,960 --> 01:10:12,880
+cuando Sí. Este este es de los pocos que
+
+1520
+01:10:10,640 --> 01:10:15,480
+se ha roto. ¿Vale? Entonces dices este
+
+1521
+01:10:12,880 --> 01:10:17,679
+se movía entre 0 y 010. Lo mismo que
+
+1522
+01:10:15,480 --> 01:10:19,920
+nuestro julio. Junio, viene ese pico
+
+1523
+01:10:17,679 --> 01:10:23,520
+cuando estábamos nosotros en Reus,
+
+1524
+01:10:19,920 --> 01:10:26,040
+¿vale? Viene este pico de volatilidad y
+
+1525
+01:10:23,520 --> 01:10:28,640
+mira dónde lo mandan.
+
+1526
+01:10:26,040 --> 01:10:32,560
+Este yo lo estaba comprando en cero. Sí,
+
+1527
+01:10:28,640 --> 01:10:34,159
+empezó a comprar en cero. Eh, luego al
+
+1528
+01:10:32,560 --> 01:10:37,400
+día, luego al día siguiente creo que lo
+
+1529
+01:10:34,159 --> 01:10:39,960
+vendí y luego hizo el mínimo, ¿vale?
+
+1530
+01:10:37,400 --> 01:10:43,440
+Rebotó enseguida y se vino arriba. Esta
+
+1531
+01:10:39,960 --> 01:10:45,719
+rotura, si miramos a todos de ellos en
+
+1532
+01:10:43,440 --> 01:10:48,560
+misma fecha, creo que es el que peor se
+
+1533
+01:10:45,719 --> 01:10:50,960
+ha comportado. Vale, mira, inclusive el
+
+1534
+01:10:48,560 --> 01:10:52,320
+abril, mayo, el anterior, al tener un
+
+1535
+01:10:50,960 --> 01:10:57,360
+poquito más de liquidez, no lo han
+
+1536
+01:10:52,320 --> 01:10:59,520
+dejado bajar de cero, ¿vale? De 06.
+
+1537
+01:10:57,360 --> 01:11:01,520
+Okay. Entonces, tú te puedes hacer una
+
+1538
+01:10:59,520 --> 01:11:03,640
+idea,
+
+1539
+01:11:01,520 --> 01:11:05,239
+te puedes hacer una idea de del
+
+1540
+01:11:03,640 --> 01:11:07,800
+comportamiento
+
+1541
+01:11:05,239 --> 01:11:09,840
+de de estos spreads
+
+1542
+01:11:07,800 --> 01:11:11,440
+cuando tienen 180 días. Es decir, el
+
+1543
+01:11:09,840 --> 01:11:13,560
+criterio ahora estamos descargando la
+
+1544
+01:11:11,440 --> 01:11:17,120
+base de datos y estamos intentando hacer
+
+1545
+01:11:13,560 --> 01:11:19,239
+una tabla de cómo se comportan los pre,
+
+1546
+01:11:17,120 --> 01:11:21,159
+es decir, los percentiles del movimiento
+
+1547
+01:11:19,239 --> 01:11:23,320
+de los spreads cuando cada cuando cada
+
+1548
+01:11:21,159 --> 01:11:25,880
+uno tiene 90 días. ¿Por qué? porque así
+
+1549
+01:11:23,320 --> 01:11:28,760
+vemos la volatilidad que tiene. Pero tú
+
+1550
+01:11:25,880 --> 01:11:30,280
+en principio dices, "Vale, junio, julio,
+
+1551
+01:11:28,760 --> 01:11:32,400
+vale, pues yo estoy comprando aquí y
+
+1552
+01:11:30,280 --> 01:11:34,840
+tal, pero y si hay un gran problema, si
+
+1553
+01:11:32,400 --> 01:11:39,080
+hay un movimiento fuerte dentro de 30,
+
+1554
+01:11:34,840 --> 01:11:41,280
+60 días, ¿dónde se me puede ir?" Vale,
+
+1555
+01:11:39,080 --> 01:11:43,280
+si me dices que invade en Taiwán, se
+
+1556
+01:11:41,280 --> 01:11:45,199
+puede ir a donde le quiera, ¿vale? Pero
+
+1557
+01:11:43,280 --> 01:11:48,760
+en un movimiento normal, yo te diría que
+
+1558
+01:11:45,199 --> 01:11:52,480
+este en un movimiento de un SPX que te
+
+1559
+01:11:48,760 --> 01:11:56,520
+baja un 10 15% este spread te se vendrá
+
+1560
+01:11:52,480 --> 01:11:58,760
+a cero o a -0,10.
+
+1561
+01:11:56,520 --> 01:12:00,960
+¿Por qué te lo digo todo esto? Porque tú
+
+1562
+01:11:58,760 --> 01:12:05,520
+dices, Greg, pero si por cada contrato a
+
+1563
+01:12:00,960 --> 01:12:07,639
+mí me dan 100 150 al mes, pues yo le voy
+
+1564
+01:12:05,520 --> 01:12:10,880
+a meter 10
+
+1565
+01:12:07,639 --> 01:12:14,199
+y así pues tendré mis 1000
+
+1566
+01:12:10,880 --> 01:12:16,400
+y pues mi mujer se pondrá contenta. Pues
+
+1567
+01:12:14,199 --> 01:12:18,520
+sí, pero cuando hay una rotura y empieza
+
+1568
+01:12:16,400 --> 01:12:21,080
+a subir la volatilidad, tú tienes que
+
+1569
+01:12:18,520 --> 01:12:23,040
+estar tienes que estar capacitado para
+
+1570
+01:12:21,080 --> 01:12:25,400
+poder meterle más lotes. ¿Por qué?
+
+1571
+01:12:23,040 --> 01:12:27,960
+porque eso se queda.
+
+1572
+01:12:25,400 --> 01:12:31,440
+Entonces así es más o menos donde puedes
+
+1573
+01:12:27,960 --> 01:12:33,760
+llegar a calcular en unas curvas como,
+
+1574
+01:12:31,440 --> 01:12:39,159
+es decir, en tiempo cómo cómo de
+
+1575
+01:12:33,760 --> 01:12:43,040
+elástico puede llegar a ser ese ese
+
+1576
+01:12:39,159 --> 01:12:43,040
+express, ¿vale?
+
+1577
+01:12:43,080 --> 01:12:47,040
+Y me decís,
+
+1578
+01:12:45,040 --> 01:12:48,760
+y si no lo entendéis, tranquilo, que los
+
+1579
+01:12:47,040 --> 01:12:50,760
+que los que llevan un par de años aquí
+
+1580
+01:12:48,760 --> 01:12:53,560
+hay algunos que que creo que solo le
+
+1581
+01:12:50,760 --> 01:12:56,960
+empiezan a pillar, ¿no? El sentido,
+
+1582
+01:12:53,560 --> 01:12:59,400
+Greg. Entonces, perdón que te corté. Si
+
+1583
+01:12:56,960 --> 01:13:02,239
+si hay un evento de volatilidad estaría
+
+1584
+01:12:59,400 --> 01:13:04,600
+bien, o sea, algún evento tipo Taiwan y
+
+1585
+01:13:02,239 --> 01:13:07,199
+tal, estaría bien
+
+1586
+01:13:04,600 --> 01:13:09,000
+ver estos express a ver si se pueden
+
+1587
+01:13:07,199 --> 01:13:11,040
+comprar en negativo.
+
+1588
+01:13:09,000 --> 01:13:14,000
+Claro, claro. Nosotros, yo te he dicho,
+
+1589
+01:13:11,040 --> 01:13:15,560
+tenemos dos, tenemos dos estrategias.
+
+1590
+01:13:14,000 --> 01:13:17,960
+Espera que no
+
+1591
+01:13:15,560 --> 01:13:21,760
+y lo dejas ahí por si acaso y dices
+
+1592
+01:13:17,960 --> 01:13:23,360
+comprar limita menos lo que sea y
+
+1593
+01:13:21,760 --> 01:13:25,040
+sí, pero yo los tengo yo los tengo
+
+1594
+01:13:23,360 --> 01:13:26,280
+puestos. Sí, yo los tengo, yo los
+
+1595
+01:13:25,040 --> 01:13:29,120
+verifico,
+
+1596
+01:13:26,280 --> 01:13:30,679
+¿no? Yo yo verifico casi todos los días.
+
+1597
+01:13:29,120 --> 01:13:31,520
+Tengo órdenes puestas, entonces me
+
+1598
+01:13:30,679 --> 01:13:34,520
+saltan alarmas.
+
+1599
+01:13:31,520 --> 01:13:34,520
+Valemmes,
+
+1600
+01:13:36,600 --> 01:13:42,080
+por cierto, ¿qué qué licencia de esta de
+
+1601
+01:13:40,080 --> 01:13:44,440
+Trading View tienes? Yo, o sea, yo
+
+1602
+01:13:42,080 --> 01:13:47,440
+aproveché el
+
+1603
+01:13:44,440 --> 01:13:50,120
+este el evento este del Black Friday y
+
+1604
+01:13:47,440 --> 01:13:51,159
+tengo la más barata de pago, digámoslo
+
+1605
+01:13:50,120 --> 01:13:53,760
+así,
+
+1606
+01:13:51,159 --> 01:13:55,360
+¿no? Yo tengo la
+
+1607
+01:13:53,760 --> 01:13:56,239
+No es la más barata,
+
+1608
+01:13:55,360 --> 01:13:58,120
+¿vale?
+
+1609
+01:13:56,239 --> 01:13:59,320
+No, no es la más barata. Vale. Estaba
+
+1610
+01:13:58,120 --> 01:14:01,719
+mirando porque he entrado otra vez
+
+1611
+01:13:59,320 --> 01:14:03,440
+largo. Estoy ganando algo de dinero. Se
+
+1612
+01:14:01,719 --> 01:14:04,679
+me está viniendo abajo la volatilidad,
+
+1613
+01:14:03,440 --> 01:14:06,760
+pero estamos en el centroide.
+
+1614
+01:14:04,679 --> 01:14:08,560
+Necesitaría que perdonar, pero es que
+
+1615
+01:14:06,760 --> 01:14:12,920
+estoy haciendo, quiero hacer estas
+
+1616
+01:14:08,560 --> 01:14:16,040
+pruebas, pero mientras e a ver, como te
+
+1617
+01:14:12,920 --> 01:14:19,120
+como os comenté, yo veo tres, yo quiero
+
+1618
+01:14:16,040 --> 01:14:23,000
+hacer tres estrategias, ¿vale? Una de
+
+1619
+01:14:19,120 --> 01:14:24,960
+ellas es la del tiempo,
+
+1620
+01:14:23,000 --> 01:14:29,159
+¿vale? Siempre siempre decía que lo
+
+1621
+01:14:24,960 --> 01:14:32,000
+hago, lo hago, la seg de fondo, ¿vale?
+
+1622
+01:14:29,159 --> 01:14:37,600
+dos, es decir, la de la de 180 días
+
+1623
+01:14:32,000 --> 01:14:39,560
+hasta 150 o hasta 120 max, ¿vale?
+
+1624
+01:14:37,600 --> 01:14:43,639
+La segunda es lo que tú dices, esperar
+
+1625
+01:14:39,560 --> 01:14:45,400
+cuando lleguen a cero o a negativo,
+
+1626
+01:14:43,639 --> 01:14:48,440
+cuando hay un cuando hay tensión en las
+
+1627
+01:14:45,400 --> 01:14:50,040
+curvas. La tercera estrategia es lo
+
+1628
+01:14:48,440 --> 01:14:53,040
+siguiente que aún estáis calculando,
+
+1629
+01:14:50,040 --> 01:14:53,040
+¿vale?
+
+1630
+01:14:57,920 --> 01:15:03,840
+Aún estoy calculando, pero ah,
+
+1631
+01:15:02,080 --> 01:15:08,560
+volviendo a nuestro B central, si lo
+
+1632
+01:15:03,840 --> 01:15:08,560
+encontramos, está B central está aquí,
+
+1633
+01:15:09,960 --> 01:15:14,760
+tenemos muchos líos y tal, a lo mejor no
+
+1634
+01:15:11,960 --> 01:15:17,320
+es no es no es la temporada de empezar
+
+1635
+01:15:14,760 --> 01:15:18,400
+muy fuerte, ¿vale?
+
+1636
+01:15:17,320 --> 01:15:21,639
+Eso creo yo.
+
+1637
+01:15:18,400 --> 01:15:24,480
+Eso creo yo. Por eso no me voy a a ir
+
+1638
+01:15:21,639 --> 01:15:28,960
+aquí, ¿vale? sino voy a intentar hacer
+
+1639
+01:15:24,480 --> 01:15:33,239
+aquí, ¿vale? ¿Y qué voy a hacer?
+
+1640
+01:15:28,960 --> 01:15:36,480
+Voy a vender un futuro aquí, ¿vale?
+
+1641
+01:15:33,239 --> 01:15:39,080
+Y voy a comprar dos futuros aquí.
+
+1642
+01:15:36,480 --> 01:15:42,199
+Okay. ¿Qué tenemos que entender de la
+
+1643
+01:15:39,080 --> 01:15:44,719
+curva? El, como podéis ver, el VIX, el
+
+1644
+01:15:42,199 --> 01:15:48,120
+VIXEN a largo plazo siempre mantiene una
+
+1645
+01:15:44,719 --> 01:15:51,800
+tensión, se mantiene tensionado.
+
+1646
+01:15:48,120 --> 01:15:56,120
+Entonces, este futuro, es decir, estos
+
+1647
+01:15:51,800 --> 01:15:59,360
+dos futuros, es decir, si aquí me pagan,
+
+1648
+01:15:56,120 --> 01:16:01,199
+ah, por ejemplo,
+
+1649
+01:15:59,360 --> 01:16:02,800
+está a lo mejor esta a lo mejor no es la
+
+1650
+01:16:01,199 --> 01:16:06,679
+mejor parte ahora porque aquí cobras
+
+1651
+01:16:02,800 --> 01:16:10,760
+378, aquí pierdes 354, entonces ganas
+
+1652
+01:16:06,679 --> 01:16:12,760
+378 - 2 * 354, no te no te sale a
+
+1653
+01:16:10,760 --> 01:16:15,320
+cuenta, ¿vale?
+
+1654
+01:16:12,760 --> 01:16:16,960
+Entonces, y tampoco yo no lo quiero
+
+1655
+01:16:15,320 --> 01:16:23,360
+hacer uno a dos, sino lo quiero hacer,
+
+1656
+01:16:16,960 --> 01:16:26,840
+por ejemplo, dos contra tres o hacer eh
+
+1657
+01:16:23,360 --> 01:16:29,480
+cuatro contra cinco.
+
+1658
+01:16:26,840 --> 01:16:31,320
+Hacer este tipo de de de variabilidad.
+
+1659
+01:16:29,480 --> 01:16:33,719
+Claro, lo voy a hacer con contratos
+
+1660
+01:16:31,320 --> 01:16:35,760
+grandes, ¿no? Existen unos contratos que
+
+1661
+01:16:33,719 --> 01:16:38,400
+se ll se llaman los contratos micros,
+
+1662
+01:16:35,760 --> 01:16:41,880
+¿vale? Mini, que es una décima parte.
+
+1663
+01:16:38,400 --> 01:16:45,120
+Okay. Entonces, yo lo que voy a hacer,
+
+1664
+01:16:41,880 --> 01:16:48,719
+yo lo que voy a hacer es vender vender
+
+1665
+01:16:45,120 --> 01:16:51,199
+uno y comprarle coberturas aquí, aquí o
+
+1666
+01:16:48,719 --> 01:16:53,520
+aquí. Y eso lo dejo, lo dejo que se
+
+1667
+01:16:51,199 --> 01:16:57,840
+acerque y estas coberturas lo siguen.
+
+1668
+01:16:53,520 --> 01:16:59,880
+Okay, para ello,
+
+1669
+01:16:57,840 --> 01:17:02,520
+para ello hecho un back test, pero
+
+1670
+01:16:59,880 --> 01:17:05,920
+claro, back test de Greg, ¿no? No, si si
+
+1671
+01:17:02,520 --> 01:17:08,080
+esperabas algo tal, pues dices, digo,
+
+1672
+01:17:05,920 --> 01:17:10,880
+no, no, no, eso lo que tú esperas no es
+
+1673
+01:17:08,080 --> 01:17:12,760
+porque yo no sé programar, no sé Python,
+
+1674
+01:17:10,880 --> 01:17:18,239
+no sé nada, ¿vale? Entonces, yo lo que
+
+1675
+01:17:12,760 --> 01:17:22,639
+hago es intento validar mis ideas
+
+1676
+01:17:18,239 --> 01:17:26,880
+primero con con
+
+1677
+01:17:22,639 --> 01:17:30,520
+vale, con con estrategias simples que me
+
+1678
+01:17:26,880 --> 01:17:31,639
+permiten los softwares gratuitos. ¿Okay?
+
+1679
+01:17:30,520 --> 01:17:33,719
+Entonces, ¿qué tenemos aquí en la
+
+1680
+01:17:31,639 --> 01:17:38,239
+pantalla? Aquí en la pantalla tenemos un
+
+1681
+01:17:33,719 --> 01:17:41,639
+gráfico, ¿okay? De eh el primero y el
+
+1682
+01:17:38,239 --> 01:17:43,520
+segundo del DIX, ¿vale? Entonces, aquí
+
+1683
+01:17:41,639 --> 01:17:45,239
+tienes
+
+1684
+01:17:43,520 --> 01:17:46,639
+este gráfico, tienes siempre la
+
+1685
+01:17:45,239 --> 01:17:49,080
+diferencia del VIX. Entonces, ¿qué
+
+1686
+01:17:46,639 --> 01:17:52,199
+tenemos que hacer? Siempre vendo, me
+
+1687
+01:17:49,080 --> 01:17:53,520
+espero y compro. Vendo, espero y compro.
+
+1688
+01:17:52,199 --> 01:17:56,679
+Me hago cuenta que tiene errores el
+
+1689
+01:17:53,520 --> 01:17:59,920
+cabrón. ¿Por qué? Porque, por ejemplo,
+
+1690
+01:17:56,679 --> 01:18:03,080
+aquí ha comprado y no está la venta. No
+
+1691
+01:17:59,920 --> 01:18:05,080
+sé. No, no, no, no está, no es fin de
+
+1692
+01:18:03,080 --> 01:18:07,560
+ciclo aquí. ¿Por qué no me has vendido?
+
+1693
+01:18:05,080 --> 01:18:10,239
+¿Cierto? Eso no lo entiendo. ¿Por qué?
+
+1694
+01:18:07,560 --> 01:18:12,000
+¿Por qué hace estas cosas? Okay. Bien,
+
+1695
+01:18:10,239 --> 01:18:13,760
+eso es toda la curva, eso es toda la
+
+1696
+01:18:12,000 --> 01:18:17,120
+curva del VIX, ¿okay? Siempre esta es
+
+1697
+01:18:13,760 --> 01:18:20,199
+una curva de VIX donde estás dos lejanos
+
+1698
+01:18:17,120 --> 01:18:22,400
+y uno y uno cercano. Okay. Lo
+
+1699
+01:18:20,199 --> 01:18:25,400
+interesante para validar la idea es lo
+
+1700
+01:18:22,400 --> 01:18:25,400
+siguiente.
+
+1701
+01:18:26,440 --> 01:18:32,360
+Funciona esta estrategia.
+
+1702
+01:18:29,360 --> 01:18:32,360
+Eh,
+
+1703
+01:18:35,560 --> 01:18:42,000
+¿vale? Y podéis ver esta estrategia.
+
+1704
+01:18:39,440 --> 01:18:45,280
+En tienes cuando se te invierte la
+
+1705
+01:18:42,000 --> 01:18:47,719
+curva, ¿vale? Cuando se y te joden vivo,
+
+1706
+01:18:45,280 --> 01:18:50,280
+pero acumula muy bien, luego se jode,
+
+1707
+01:18:47,719 --> 01:18:54,800
+luego empieza a acumular. Esto creo que
+
+1708
+01:18:50,280 --> 01:18:56,280
+es un error, pero realmente acumul
+
+1709
+01:18:54,800 --> 01:18:57,239
+Sí, eso es un covid. Sí, eso es un
+
+1710
+01:18:56,280 --> 01:18:59,159
+covid, sí.
+
+1711
+01:18:57,239 --> 01:19:00,920
+O sea, que no será un error, digo yo,
+
+1712
+01:18:59,159 --> 01:19:03,679
+¿no? Entonces es es el COVID. Tengo que
+
+1713
+01:19:00,920 --> 01:19:05,600
+verificar cosas. Es el COVID, pero lo
+
+1714
+01:19:03,679 --> 01:19:08,719
+que sí que sí que ves, ¿vale? Lo que sí
+
+1715
+01:19:05,600 --> 01:19:11,480
+que ves de que la idea de tener un
+
+1716
+01:19:08,719 --> 01:19:15,199
+futuro front vendido y dos futuros front
+
+1717
+01:19:11,480 --> 01:19:17,320
+comprados no es mala. Yo lo pero no
+
+1718
+01:19:15,199 --> 01:19:19,560
+puedo back testear el tres contra
+
+1719
+01:19:17,320 --> 01:19:22,480
+cuatro, es decir, el mes tres contra el
+
+1720
+01:19:19,560 --> 01:19:26,000
+mes cu porque [ __ ] de trading view
+
+1721
+01:19:22,480 --> 01:19:28,760
+solo tiene eh el [ __ ] de trading view
+
+1722
+01:19:26,000 --> 01:19:31,520
+solo tiene el uno y el dos, no tiene
+
+1723
+01:19:28,760 --> 01:19:33,360
+resto. Okay, el uno y el dos no tiene
+
+1724
+01:19:31,520 --> 01:19:36,719
+resto, pero como hoy día yo, por
+
+1725
+01:19:33,360 --> 01:19:38,280
+ejemplo, yo uno contra dos no haría,
+
+1726
+01:19:36,719 --> 01:19:41,320
+porque tienes que hacer mínimo uno
+
+1727
+01:19:38,280 --> 01:19:44,639
+contra tres, ¿vale? ¿Por qué tienes que
+
+1728
+01:19:41,320 --> 01:19:47,320
+hacer uno contra tres? Porque porque hay
+
+1729
+01:19:44,639 --> 01:19:51,040
+más vol porque el front es mucho más
+
+1730
+01:19:47,320 --> 01:19:52,440
+volátil, ¿vale? Entonces sigues teniendo
+
+1731
+01:19:51,040 --> 01:19:56,600
+drawdown o no sé si esto es lo
+
+1732
+01:19:52,440 --> 01:19:58,960
+actualizado, ¿vale? Pero es una es es
+
+1733
+01:19:56,600 --> 01:20:01,120
+digamos
+
+1734
+01:19:58,960 --> 01:20:08,760
+está mejor, pero yo haría por ejemplo un
+
+1735
+01:20:01,120 --> 01:20:08,760
+un 1,3, yo haría un cco contra dos.
+
+1736
+01:20:12,320 --> 01:20:16,960
+¿Por qué? Porque la primera parte, la
+
+1737
+01:20:13,960 --> 01:20:19,760
+primera parte es siempre, ah, la primera
+
+1738
+01:20:16,960 --> 01:20:23,239
+parte es siempre bastante, digamos,
+
+1739
+01:20:19,760 --> 01:20:26,719
+bastante dura, pero yo no me yo siempre
+
+1740
+01:20:23,239 --> 01:20:30,000
+digo que si nos nosotros nos vamos de
+
+1741
+01:20:26,719 --> 01:20:31,800
+este trozo un poquito más arriba y vale,
+
+1742
+01:20:30,000 --> 01:20:34,159
+aquí tú dices, "Vale, se se ha ganado,
+
+1743
+01:20:31,800 --> 01:20:37,120
+está ganando, tienes tus tienes tus
+
+1744
+01:20:34,159 --> 01:20:41,120
+épocas y le quiero meter otros otros
+
+1745
+01:20:37,120 --> 01:20:43,679
+otros tipos de bloqueos, por ejemplo, si
+
+1746
+01:20:41,120 --> 01:20:47,360
+hay una escapada hacia hacia arriba que
+
+1747
+01:20:43,679 --> 01:20:47,360
+me estopee la operación,
+
+1748
+01:20:47,440 --> 01:20:53,239
+¿vale? Que me estopee la operación,
+
+1749
+01:20:50,480 --> 01:20:55,400
+¿sí? O o meterle un filtro de BX por
+
+1750
+01:20:53,239 --> 01:20:57,800
+encima de 30, no operar,
+
+1751
+01:20:55,400 --> 01:20:59,719
+¿no? Nosotros esta estrategia así,
+
+1752
+01:20:57,800 --> 01:21:02,760
+perdona, y hay otra hay otro hay otro
+
+1753
+01:20:59,719 --> 01:21:05,120
+factor que nosotros esta estrategia
+
+1754
+01:21:02,760 --> 01:21:07,800
+cuando el VIX está invertido, cuando,
+
+1755
+01:21:05,120 --> 01:21:10,440
+perdona, cuando
+
+1756
+01:21:07,800 --> 01:21:13,639
+cuántas cosas tengo aquí, ¿vale? Cuando
+
+1757
+01:21:10,440 --> 01:21:16,360
+esto, cuando el VIX contado está por
+
+1758
+01:21:13,639 --> 01:21:18,800
+aquí y por encima, por encima del
+
+1759
+01:21:16,360 --> 01:21:20,320
+futuro, no se hace. ¿Por qué? Porque
+
+1760
+01:21:18,800 --> 01:21:22,120
+este futuro te tenderá aquí, ¿me
+
+1761
+01:21:20,320 --> 01:21:27,159
+entiendes?m
+
+1762
+01:21:22,120 --> 01:21:29,800
+y cuando cuando el la curva está así y
+
+1763
+01:21:27,159 --> 01:21:31,239
+el VIX es el el esto es el VIX contado,
+
+1764
+01:21:29,800 --> 01:21:32,679
+¿vale? Eso lo entendéis, ¿no? Es decir,
+
+1765
+01:21:31,239 --> 01:21:34,719
+ya sabéis la diferencia entre el VIX
+
+1766
+01:21:32,679 --> 01:21:38,199
+contado y el VIX de futuros. Eso lo lo
+
+1767
+01:21:34,719 --> 01:21:38,199
+conocéis o no?
+
+1768
+01:21:39,159 --> 01:21:43,120
+Bueno, el contado es el que hay ahora
+
+1769
+01:21:40,600 --> 01:21:45,320
+mismo y futuro es no
+
+1770
+01:21:43,120 --> 01:21:48,239
+esto es la esto es la media de las esto
+
+1771
+01:21:45,320 --> 01:21:51,840
+es la media de eso es la media de las
+
+1772
+01:21:48,239 --> 01:21:54,199
+opciones OTM del LSPX a más o menos 30
+
+1773
+01:21:51,840 --> 01:21:57,120
+días estos son las volatilidades de las
+
+1774
+01:21:54,199 --> 01:21:59,600
+opciones y estos son la expectativa de
+
+1775
+01:21:57,120 --> 01:22:02,639
+la volatilidad.
+
+1776
+01:21:59,600 --> 01:22:05,880
+Esto esto no es una métrica de opciones
+
+1777
+01:22:02,639 --> 01:22:07,320
+a 90 días, ¿vale?
+
+1778
+01:22:05,880 --> 01:22:10,239
+Eso es la expectativa de esta
+
+1779
+01:22:07,320 --> 01:22:11,800
+volatilidad,
+
+1780
+01:22:10,239 --> 01:22:15,440
+¿me entendéis? Esto es un número fijo
+
+1781
+01:22:11,800 --> 01:22:18,360
+que se calcula cada 30 segundos, creo,
+
+1782
+01:22:15,440 --> 01:22:20,880
+que viene del SPX, ¿okay? De las
+
+1783
+01:22:18,360 --> 01:22:22,800
+opciones del SPX. Y esto de aquí son
+
+1784
+01:22:20,880 --> 01:22:26,800
+futuros, son derivados de esto, es
+
+1785
+01:22:22,800 --> 01:22:28,960
+decir, ah, son casi, no son dos cosas
+
+1786
+01:22:26,800 --> 01:22:30,320
+diferentes, pero son no son no es lo
+
+1787
+01:22:28,960 --> 01:22:32,320
+mismo. Pero claro, entonces si tú la
+
+1788
+01:22:30,320 --> 01:22:34,520
+volatilidad implícita de las opciones se
+
+1789
+01:22:32,320 --> 01:22:36,159
+te pone por encima,
+
+1790
+01:22:34,520 --> 01:22:38,920
+¿vale? Se te pone por encima, pues no
+
+1791
+01:22:36,159 --> 01:22:41,360
+operas
+
+1792
+01:22:38,920 --> 01:22:46,440
+porque porque este list tenderá aquí,
+
+1793
+01:22:41,360 --> 01:22:48,440
+¿me entiendes? y este listerá aquí
+
+1794
+01:22:46,440 --> 01:22:50,679
+y cuando estamos invertidos tal, por
+
+1795
+01:22:48,440 --> 01:22:52,400
+ejemplo, yo ahora estoy pensando en si
+
+1796
+01:22:50,679 --> 01:22:55,159
+abrir o no abrir, pero tenemos riesgo,
+
+1797
+01:22:52,400 --> 01:22:58,960
+tal, pues un poquito si le añadimos un
+
+1798
+01:22:55,159 --> 01:23:01,280
+poquito de de de
+
+1799
+01:22:58,960 --> 01:23:03,920
+humano, yo creo que esta estrategia es
+
+1800
+01:23:01,280 --> 01:23:05,400
+de las que de las que más de una
+
+1801
+01:23:03,920 --> 01:23:07,560
+estrategia muy simple que puede llegar a
+
+1802
+01:23:05,400 --> 01:23:09,800
+dar buenos resultados y por supuesto
+
+1803
+01:23:07,560 --> 01:23:11,600
+cuando el mundo llega al paz y todo el
+
+1804
+01:23:09,800 --> 01:23:12,600
+mundo es contento, pues ya podemos hacer
+
+1805
+01:23:11,600 --> 01:23:15,040
+la estrategia
+
+1806
+01:23:12,600 --> 01:23:17,960
+que dice mi amigo Antonio de que él lo
+
+1807
+01:23:15,040 --> 01:23:20,360
+tiene, eh, es un futuro vendido del BX y
+
+1808
+01:23:17,960 --> 01:23:23,760
+a tomar por culo. Colateral, 80,000
+
+1809
+01:23:20,360 --> 01:23:27,360
+pavos y aguantar.
+
+1810
+01:23:23,760 --> 01:23:31,320
+Saca un 20 25% analizado
+
+1811
+01:23:27,360 --> 01:23:31,320
+con drawdown de 80%.
+
+1812
+01:23:31,679 --> 01:23:36,920
+Esto analizado contra no contra la
+
+1813
+01:23:33,480 --> 01:23:38,639
+garantía, sino contra el nominal.
+
+1814
+01:23:36,920 --> 01:23:41,800
+¿Sabes
+
+1815
+01:23:38,639 --> 01:23:44,080
+cómo? O sea, no he entendido esa,
+
+1816
+01:23:41,800 --> 01:23:48,239
+o sea, vender un futuro a
+
+1817
+01:23:44,080 --> 01:23:52,080
+pelo, a a Jo, a tú
+
+1818
+01:23:48,239 --> 01:23:52,080
+sabes de todo, ¿sabes?
+
+1819
+01:24:00,639 --> 01:24:05,400
+O sea, pero si viene la paz mundial y
+
+1820
+01:24:02,760 --> 01:24:07,560
+todo es wonderful y maravilloso, el BX
+
+1821
+01:24:05,400 --> 01:24:07,880
+será superbajo
+
+1822
+01:24:07,560 --> 01:24:09,480
+y
+
+1823
+01:24:07,880 --> 01:24:11,280
+pero el contango, pero el contango
+
+1824
+01:24:09,480 --> 01:24:12,360
+seguirá pagando.
+
+1825
+01:24:11,280 --> 01:24:14,440
+Ah, vale.
+
+1826
+01:24:12,360 --> 01:24:16,560
+Nosotros nos da igual dónde está, ¿no?
+
+1827
+01:24:14,440 --> 01:24:18,800
+Nos nosotros nos interesa la estructura
+
+1828
+01:24:16,560 --> 01:24:20,639
+del VIX, que tengamos con tango y el VIX
+
+1829
+01:24:18,800 --> 01:24:22,239
+esté por debajo.
+
+1830
+01:24:20,639 --> 01:24:24,639
+Pero por ahora vamos a concentrarnos en
+
+1831
+01:24:22,239 --> 01:24:27,960
+las dos simples que que estas estas son
+
+1832
+01:24:24,639 --> 01:24:31,280
+buenas, son muy buenas. Esta es decir,
+
+1833
+01:24:27,960 --> 01:24:32,920
+Baren Buffet haría esta, ¿vale?
+
+1834
+01:24:31,280 --> 01:24:35,239
+exp eso es porque eso eso es como el
+
+1835
+01:24:32,920 --> 01:24:36,920
+valvest que poco a poco te da dinero,
+
+1836
+01:24:35,239 --> 01:24:39,199
+pero claro dices, esto también me
+
+1837
+01:24:36,920 --> 01:24:41,080
+interesa esta parte de la curva porque
+
+1838
+01:24:39,199 --> 01:24:43,040
+puede ser mucho más interesante. Sí que
+
+1839
+01:24:41,080 --> 01:24:47,600
+es verdad que me da miedo esta parte de
+
+1840
+01:24:43,040 --> 01:24:47,600
+la curva porque no está bien el mundo.
+
+1841
+01:24:48,080 --> 01:24:52,480
+Yo estas son las típicas estrategias que
+
+1842
+01:24:50,960 --> 01:24:56,920
+cuando está todo muy bien se podría
+
+1843
+01:24:52,480 --> 01:24:56,920
+hacer se podría hacer más fácil.
+
+1844
+01:25:05,159 --> 01:25:08,159
+Vale,
+
+1845
+01:25:08,560 --> 01:25:13,679
+yo creo que con esto mindblowing os os
+
+1846
+01:25:11,000 --> 01:25:16,119
+para hoy yo creo que est está bien.
+
+1847
+01:25:13,679 --> 01:25:19,360
+Estrategias que podemos hacer. Pues
+
+1848
+01:25:16,119 --> 01:25:23,159
+ahora cerdos, cerdos. Mira, mir, mirar
+
+1849
+01:25:19,360 --> 01:25:23,159
+cómo van los cerdos, ¿eh?
+
+1850
+01:25:23,360 --> 01:25:30,400
+No para. Una pregunta mientras pasas de
+
+1851
+01:25:26,320 --> 01:25:30,800
+tema. Lo de si son algo lo dijiste ayer,
+
+1852
+01:25:30,400 --> 01:25:32,520
+¿verdad?
+
+1853
+01:25:30,800 --> 01:25:34,119
+Sí, os mandaré el email porque creo que
+
+1854
+01:25:32,520 --> 01:25:36,440
+acabamos al final del mes.
+
+1855
+01:25:34,119 --> 01:25:38,440
+Vale, porque todavía no has subido el
+
+1856
+01:25:36,440 --> 01:25:40,159
+link de lo de ayer, ¿verdad?
+
+1857
+01:25:38,440 --> 01:25:41,320
+Está todo siempre en inter si os
+
+1858
+01:25:40,159 --> 01:25:43,600
+guardáis
+
+1859
+01:25:41,320 --> 01:25:45,840
+está siempre todo en el mismo link.
+
+1860
+01:25:43,600 --> 01:25:46,400
+E y tiene y es el de materias primas
+
+1861
+01:25:45,840 --> 01:25:48,159
+también, ¿o es?
+
+1862
+01:25:46,400 --> 01:25:49,880
+No, es tú tienes razón, es otro. Os lo
+
+1863
+01:25:48,159 --> 01:25:52,199
+voy a mandar. Os lo quería mandar, pero
+
+1864
+01:25:49,880 --> 01:25:53,400
+se me ha olvidado. Ahora subo el link de
+
+1865
+01:25:52,199 --> 01:25:55,280
+la clase de ayer. Vale.
+
+1866
+01:25:53,400 --> 01:25:57,000
+No, no, sin problema. Quiero decir, no
+
+1867
+01:25:55,280 --> 01:25:59,239
+te preocupes, será para que no se
+
+1868
+01:25:57,000 --> 01:26:03,080
+olvide.
+
+1869
+01:25:59,239 --> 01:26:03,080
+Voy a hacer una cosa automática.
+
+1870
+01:26:05,600 --> 01:26:15,320
+Okay. Okay. Ah, porque está todo. Yo yo
+
+1871
+01:26:10,280 --> 01:26:18,880
+lo que tengo es un tenemos aquí en
+
+1872
+01:26:15,320 --> 01:26:18,880
+¿Dónde están mis páginas?
+
+1873
+01:26:20,560 --> 01:26:25,280
+Claro, viendo lo que te está dando un
+
+1874
+01:26:22,639 --> 01:26:28,600
+754%
+
+1875
+01:26:25,280 --> 01:26:30,400
+después de estar en cero.
+
+1876
+01:26:28,600 --> 01:26:34,880
+Si pillas una época buena, esas
+
+1877
+01:26:30,400 --> 01:26:37,840
+estrategias pueden forzar muchísimo.
+
+1878
+01:26:34,880 --> 01:26:40,560
+Jo, si le metes un filtro de Vix, seguro
+
+1879
+01:26:37,840 --> 01:26:43,040
+que esas te las que las dejas.
+
+1880
+01:26:40,560 --> 01:26:45,040
+Yo a tanto no llego, ¿eh?
+
+1881
+01:26:43,040 --> 01:26:48,560
+A ver, yo yo, ¿sabes lo que valido? Yo
+
+1882
+01:26:45,040 --> 01:26:51,840
+valido conceptos. A mí cuando si si tú
+
+1883
+01:26:48,560 --> 01:26:53,560
+cuando subes el filt, o sea, el BX a 30
+
+1884
+01:26:51,840 --> 01:26:57,239
+cortas,
+
+1885
+01:26:53,560 --> 01:26:59,760
+ya no tienes esas operaciones, ¿no?
+
+1886
+01:26:57,239 --> 01:27:01,960
+Pues intentaré intentaré hacer algo,
+
+1887
+01:26:59,760 --> 01:27:02,400
+pero pregunto desde el desconocimiento,
+
+1888
+01:27:01,960 --> 01:27:04,880
+¿eh?
+
+1889
+01:27:02,400 --> 01:27:07,239
+Sí, no, porque claro, porque si tú estás
+
+1890
+01:27:04,880 --> 01:27:09,080
+con Vixa 30 y te pones corto el primer
+
+1891
+01:27:07,239 --> 01:27:11,040
+mes y empiezas a caer a lo bruto,
+
+1892
+01:27:09,080 --> 01:27:13,440
+también es también es también está bien,
+
+1893
+01:27:11,040 --> 01:27:15,159
+¿me entiendes? Si si hay contango, si
+
+1894
+01:27:13,440 --> 01:27:17,199
+hay contango, nos gusta estar en la
+
+1895
+01:27:15,159 --> 01:27:20,040
+estrategia. Si no hay contango, mejor
+
+1896
+01:27:17,199 --> 01:27:21,560
+no. Pero creo que muchas veces se gana
+
+1897
+01:27:20,040 --> 01:27:24,080
+mucho dinero. Mira, por ejemplo, aquí
+
+1898
+01:27:21,560 --> 01:27:28,239
+ves cuando la diferencia es grande,
+
+1899
+01:27:24,080 --> 01:27:28,239
+¿vale? Cuando la diferencia es grande,
+
+1900
+01:27:28,920 --> 01:27:34,080
+venimos de aquí, ¿vale? Se invierte
+
+1901
+01:27:32,040 --> 01:27:35,639
+22 mayo, creo que es eso es la invasión
+
+1902
+01:27:34,080 --> 01:27:37,679
+de Ucraina, ¿vale?
+
+1903
+01:27:35,639 --> 01:27:41,960
+Y aquí, por ejemplo, no le puedes poner
+
+1904
+01:27:37,679 --> 01:27:46,119
+el el BX, eh, también le dices add
+
+1905
+01:27:41,960 --> 01:27:47,119
+indicator, le pones el BX y ves, ¿no? Si
+
+1906
+01:27:46,119 --> 01:27:48,880
+podrías meter ese.
+
+1907
+01:27:47,119 --> 01:27:51,239
+Ah, sí, sí, sí. Esto solo un, te digo,
+
+1908
+01:27:48,880 --> 01:27:55,840
+esto me dedica
+
+1909
+01:27:51,239 --> 01:27:58,320
+no yo uno en en [ __ ] estas es muy
+
+1910
+01:27:55,840 --> 01:28:00,239
+difícil de simular spreads, entonces me
+
+1911
+01:27:58,320 --> 01:28:01,920
+me he tenido que crear el gráfico, un
+
+1912
+01:28:00,239 --> 01:28:05,280
+gráfico spread para poder jugar con
+
+1913
+01:28:01,920 --> 01:28:08,360
+ello. Y entonces el
+
+1914
+01:28:05,280 --> 01:28:11,040
+a ver, esto
+
+1915
+01:28:08,360 --> 01:28:12,800
+el concepto lo lo he validado. Ahora he
+
+1916
+01:28:11,040 --> 01:28:15,480
+pedido que me bajen todos los datos del
+
+1917
+01:28:12,800 --> 01:28:16,719
+VIX, que me lo pongan un Python y en el
+
+1918
+01:28:15,480 --> 01:28:18,520
+Python le digo yo lo que tiene que
+
+1919
+01:28:16,719 --> 01:28:20,520
+hacer, ¿vale? para ir con datos reales,
+
+1920
+01:28:18,520 --> 01:28:23,600
+con estrategia real y con back test
+
+1921
+01:28:20,520 --> 01:28:24,520
+real. A ver.
+
+1922
+01:28:23,600 --> 01:28:26,119
+Okay.
+
+1923
+01:28:24,520 --> 01:28:28,480
+Es decir,
+
+1924
+01:28:26,119 --> 01:28:32,280
+primero es la idea puede tener sentido.
+
+1925
+01:28:28,480 --> 01:28:34,320
+Sí. Pues vamos a trabajar la idea.
+
+1926
+01:28:32,280 --> 01:28:35,880
+La otra idea mía sé que funciona. La la
+
+1927
+01:28:34,320 --> 01:28:39,159
+la de largo plazo sé que funciona. Lo
+
+1928
+01:28:35,880 --> 01:28:39,159
+estamos haciendo.
+
+1929
+01:28:40,880 --> 01:28:44,600
+¿Qué han comido los cerditos?
+
+1930
+01:28:51,760 --> 01:28:56,600
+Vale, os dejo, señores. Eh, nos vemos o
+
+1931
+01:28:54,840 --> 01:28:57,960
+hablamos por el chat y nos vemos el
+
+1932
+01:28:56,600 --> 01:28:58,320
+martes, ¿okay?
+
+1933
+01:28:57,960 --> 01:29:00,080
+Vale.
+
+1934
+01:28:58,320 --> 01:29:02,679
+Cualquier cosa, preguntas, por supuesto,
+
+1935
+01:29:00,080 --> 01:29:04,080
+por el chat, las podéis poner. Okay,
+
+1936
+01:29:02,679 --> 01:29:06,320
+perfecto. Okay, perfecto.
+
+1937
+01:29:04,080 --> 01:29:09,600
+Mira, ya me ha entrado, ya me ha entrado
+
+1938
+01:29:06,320 --> 01:29:09,600
+otro nivel.
+
+1939
+01:29:11,520 --> 01:29:14,520
+Bueno,
+
+1940
+01:29:15,000 --> 01:29:18,199
+voy a voy a ver porque hay un chico que
+
+1941
+01:29:16,320 --> 01:29:19,159
+tiene un problema con operación. Hasta
+
+1942
+01:29:18,199 --> 01:29:20,440
+luego.
+
+1943
+01:29:19,159 --> 01:29:24,440
+Chao.
+
+1944
+01:29:20,440 --> 01:29:28,600
+A ver, ¿dónde está esto para pagarlo?
+
+1945
+01:29:24,440 --> 01:29:28,600
+Ah, espera que hay preguntas. Igual
+
+1946
+01:29:31,119 --> 01:29:34,800
+va pagando. Es que va aumentando el
+
+1947
+01:29:32,600 --> 01:29:36,440
+beneficio. Sí.
+
+1948
+01:29:34,800 --> 01:29:38,760
+Fernando Jiménez. Esto es más creo que
+
+1949
+01:29:36,440 --> 01:29:42,560
+un barco de arroz. Fernando, es el
+
+1950
+01:29:38,760 --> 01:29:44,760
+inicio, tranquilo. Ah,
+
+1951
+01:29:42,560 --> 01:29:46,520
+poco a poco. No, no, no os agobéis
+
+1952
+01:29:44,760 --> 01:29:50,679
+porque todo el año va todo el año va de
+
+1953
+01:29:46,520 --> 01:29:50,679
+esto. Todo el año va de esto.
+
+1954
+01:29:51,000 --> 01:29:55,000
+José Manuel, esta idea, tercera idea,
+
+1955
+01:29:52,880 --> 01:29:57,239
+cómo se monta en IB vendiendo futuros a
+
+1956
+01:29:55,000 --> 01:29:59,040
+pelos. Es decir, no tienes más que
+
+1957
+01:29:57,239 --> 01:30:01,520
+hacer. Lo hablaremos porque es un
+
+1958
+01:29:59,040 --> 01:30:03,480
+poquito más avanzado.
+
+1959
+01:30:01,520 --> 01:30:05,199
+Bueno, o cubrir con call. Ya sabes que
+
+1960
+01:30:03,480 --> 01:30:09,840
+tengo esa estrategia también preparada,
+
+1961
+01:30:05,199 --> 01:30:14,719
+Alejandro. Es decir, nosotros tenemos la
+
+1962
+01:30:09,840 --> 01:30:16,840
+Ah, así nunca acabo, pero bien. Eh,
+
+1963
+01:30:14,719 --> 01:30:20,040
+okay, tenemos una estrategia también
+
+1964
+01:30:16,840 --> 01:30:22,920
+preparada, es vendes el futuro y compras
+
+1965
+01:30:20,040 --> 01:30:26,000
+una call o compras una put del del spx,
+
+1966
+01:30:22,920 --> 01:30:28,159
+¿vale? Una call de dix, una put del spx.
+
+1967
+01:30:26,000 --> 01:30:30,400
+Esto también es una cobertura, pero esto
+
+1968
+01:30:28,159 --> 01:30:32,920
+yo lo testeado y lo habéis mirado. Esto,
+
+1969
+01:30:30,400 --> 01:30:35,119
+esto se puede hacer. Esto se llama,
+
+1970
+01:30:32,920 --> 01:30:38,840
+¿vale? Hay un ETF, hay un ETF que hace
+
+1971
+01:30:35,119 --> 01:30:40,000
+esto, pero yo he visto, yo he visto que
+
+1972
+01:30:38,840 --> 01:30:43,000
+estoy compartiendo ya. No estoy
+
+1973
+01:30:40,000 --> 01:30:43,000
+compartiendo,
+
+1974
+01:30:43,480 --> 01:30:48,239
+estoy compartiendo. Vale, esto se llama
+
+1975
+01:30:45,520 --> 01:30:50,040
+ETF, simplified volatility. El ETF lo
+
+1976
+01:30:48,239 --> 01:30:51,639
+hace, pero no nos gusta. Hemos dicho que
+
+1977
+01:30:50,040 --> 01:30:53,800
+nos quitaremos del ETF porque no nos
+
+1978
+01:30:51,639 --> 01:30:55,480
+gusta lo que están haciendo. Okay. Pero
+
+1979
+01:30:53,800 --> 01:30:58,320
+yo me he dado cuenta que esta cobertura
+
+1980
+01:30:55,480 --> 01:31:00,280
+puede ser muy costosa. Entonces digo,
+
+1981
+01:30:58,320 --> 01:31:06,800
+con unos futuros si me cubro que no
+
+1982
+01:31:00,280 --> 01:31:06,800
+pierden tanto valor, no será mejor.
+
+1983
+01:31:07,920 --> 01:31:13,360
+Y estoy entre, Alejandro, entre futuros
+
+1984
+01:31:11,679 --> 01:31:15,920
+o calls. Y sabes lo que me he dado
+
+1985
+01:31:13,360 --> 01:31:20,000
+cuenta que habrán épocas porque, ¿qué es
+
+1986
+01:31:15,920 --> 01:31:22,639
+lo que dice Benfer, tío? No existe. Si
+
+1987
+01:31:20,000 --> 01:31:24,280
+tú quieres hacer una cosa continua que
+
+1988
+01:31:22,639 --> 01:31:27,199
+siempre funcione, esto olvidado porque
+
+1989
+01:31:24,280 --> 01:31:28,760
+esto no existe, ¿vale? Esto no existe
+
+1990
+01:31:27,199 --> 01:31:31,040
+porque no hay porque no suele haber.
+
+1991
+01:31:28,760 --> 01:31:33,440
+¿Vale?
+
+1992
+01:31:31,040 --> 01:31:36,679
+¿Qué es lo que puedes hacer, tío? Si la
+
+1993
+01:31:33,440 --> 01:31:39,920
+volatilidad del SQ del SPX se te pone
+
+1994
+01:31:36,679 --> 01:31:42,679
+muy muy muy muy barato,
+
+1995
+01:31:39,920 --> 01:31:47,080
+pues nosotros este futuro lo podemos
+
+1996
+01:31:42,679 --> 01:31:49,440
+cubrir con muchos puts del SPX. Y si la
+
+1997
+01:31:47,080 --> 01:31:51,000
+volatilidad del VIX, porque todo el
+
+1998
+01:31:49,440 --> 01:31:53,199
+mundo se pone a vender col, se pone
+
+1999
+01:31:51,000 --> 01:31:55,360
+barata, podemos comprar esto también. Y
+
+2000
+01:31:53,199 --> 01:31:57,760
+mientras si no está ni bien ni mal,
+
+2001
+01:31:55,360 --> 01:32:00,199
+podemos comprar futuros para cubrirnos.
+
+2002
+01:31:57,760 --> 01:32:02,080
+¿Me entendéis? Es decir, el el el un
+
+2003
+01:32:00,199 --> 01:32:04,719
+spread trader
+
+2004
+01:32:02,080 --> 01:32:07,280
+se tiene que montar la película de los
+
+2005
+01:32:04,719 --> 01:32:09,560
+spreads que existen. Es decir, ¿qué es
+
+2006
+01:32:07,280 --> 01:32:11,600
+lo que me cubre esta pata? Cuando
+
+2007
+01:32:09,560 --> 01:32:13,040
+hacemos trigo contra trigo es fácil.
+
+2008
+01:32:11,600 --> 01:32:15,199
+Cuando hacemos soja contra soja es
+
+2009
+01:32:13,040 --> 01:32:17,560
+fácil. Aquí, ¿qué? Aquí, ¿qué puedo, por
+
+2010
+01:32:15,199 --> 01:32:21,119
+ejemplo, y ahora ya Fernando dices que
+
+2011
+01:32:17,560 --> 01:32:23,400
+ya no entiendo nada? Eh, con Antonio
+
+2012
+01:32:21,119 --> 01:32:25,560
+estamos mirando los pres de varianza, es
+
+2013
+01:32:23,400 --> 01:32:27,080
+decir, los futuros de varianza. ¿Por
+
+2014
+01:32:25,560 --> 01:32:29,199
+qué? Porque uno de los uno de los
+
+2015
+01:32:27,080 --> 01:32:32,520
+productos que mejor nos podría llegar a
+
+2016
+01:32:29,199 --> 01:32:34,920
+cubrir son los pres de varianza
+
+2017
+01:32:32,520 --> 01:32:37,840
+y entonces hacer futuros de VIX vendidos
+
+2018
+01:32:34,920 --> 01:32:41,080
+contra varianza
+
+2019
+01:32:37,840 --> 01:32:43,080
+y eso podría ser tremendo. Pero el
+
+2020
+01:32:41,080 --> 01:32:45,280
+problema, ¿cuál es? El futuro de
+
+2021
+01:32:43,080 --> 01:32:47,600
+varianza. Solo lo pueden operar
+
+2022
+01:32:45,280 --> 01:32:50,679
+profesionales. Entonces, yo daros por
+
+2023
+01:32:47,600 --> 01:32:52,920
+culo una tarde entera hablando de algo
+
+2024
+01:32:50,679 --> 01:32:55,239
+que ni siquiera lo podéis pensar hacer,
+
+2025
+01:32:52,920 --> 01:32:57,199
+pues no tiene sentido.
+
+2026
+01:32:55,239 --> 01:32:58,800
+Está, estamos investigándolo, a lo mejor
+
+2027
+01:32:57,199 --> 01:33:01,040
+lo hacemos nosotros para nuestras
+
+2028
+01:32:58,800 --> 01:33:03,239
+cuentas grandes, pero para vosotros que
+
+2029
+01:33:01,040 --> 01:33:04,920
+no es que opera pres de varianza. Dice,
+
+2030
+01:33:03,239 --> 01:33:06,960
+"¿Y esto cómo lo hago, tío? ¿Esto cómo
+
+2031
+01:33:04,920 --> 01:33:09,159
+lo hago?" ¿Sabes?
+
+2032
+01:33:06,960 --> 01:33:12,159
+Así que nada, señores.
+
+2033
+01:33:09,159 --> 01:33:16,400
+Ah,
+
+2034
+01:33:12,159 --> 01:33:16,400
+todo es posible. Hasta luego.
+
+2035
+01:33:17,679 --> 01:33:23,679
+Y eh, Fernando, ya ya miraremos más
+
+2036
+01:33:21,840 --> 01:33:25,800
+tranquilos. Hoy ha sido un día de VIX
+
+2037
+01:33:23,679 --> 01:33:27,880
+para que entendéis y pongo cosas de Vix
+
+2038
+01:33:25,800 --> 01:33:30,480
+porque se está tensionando el mercado
+
+2039
+01:33:27,880 --> 01:33:33,040
+para entender en qué parte vamos. El más
+
+2040
+01:33:30,480 --> 01:33:35,320
+sofisticado aún lo dejamos. Empezaremos
+
+2041
+01:33:33,040 --> 01:33:39,639
+con los simples de si toca cero y los
+
+2042
+01:33:35,320 --> 01:33:39,639
+que tenemos ya de ya en marcha.
+
